@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mario Kart DS</title>
+    <script src="/JS/gameslog.js"></script>
+    <style>
+
+        body{
+            background-color: black;
+         }
+
+        #player {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+    </style>
+</head>
+<body>
+    <h1 style="color: white; text-align: center; font-family: Georgia, 'Times New Roman', Times, serif;">GAME DOES NOT SAVE</h1>
+    <div class="container">
+        <desmond-player id="player"></desmond-player>
+        <script src="NDS/desmond.js"></script>
+        <script src="NDS/desmond.min.js"></script>
+        <script>
+
+            window.onload = function() {
+                var player = document.getElementById("player");
+                const shadow = player.shadowRoot;
+                if (player && typeof player.loadURL === "function") {
+                    player.loadURL("NDS/Mario Kart DS.nds");
+                } else {
+                    console.error("Player element or loadURL method is missing.");
+                }
+
+            };
+        </script>
+
+    </div>
+ 
+</body>
+</html>

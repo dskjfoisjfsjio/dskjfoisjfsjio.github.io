@@ -1,0 +1,169 @@
+body {
+  padding-top: 80px; 
+  background-image: url('v.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding-bottom: 20%;
+  color: white;
+}
+
+body::-webkit-scrollbar {
+  width: 11px;
+}
+
+body::-webkit-scrollbar-track {
+  background-color: black !important;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: white;
+  border-radius: 20px;
+}
+
+.container {
+  text-align: center;
+}
+
+hr {
+  color: black;
+}
+
+.text {
+  text-align: center;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+
+.nav {
+  background-color: black;
+  width: 100%;
+  position: fixed; 
+  top: 0; 
+  left: 0;
+  z-index: 1;
+}
+
+
+
+.nav-bar {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  gap: 15px; 
+  background-color: black; 
+  padding: 10px; 
+  margin: 0 auto; 
+  box-sizing: border-box; 
+}
+
+.btn {
+  border: solid white 2px;
+  color: white; 
+  text-decoration: none; 
+  padding: 10px 15px;
+  border-radius: 5px; 
+  display: inline-block; 
+}
+
+
+.btn:hover {
+  background-color: gray; 
+  box-shadow: 1px 1px 15px;
+}
+
+.full-changelog-box {
+  background-image: url('divbg.gif');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  font-family: monospace;
+  font-size: 1em;
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 15px;
+  margin: 20px auto;
+  padding: 20px;
+  color: white;
+  max-width: 90%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
+}
+
+.fullchangetext {
+  transition: color 0.5s ease;
+}
+
+.fullchangetext:hover {
+  color: cyan;
+}
+
+footer {
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: space-between;
+  align-items: center; 
+  gap: 20px;
+  color: white;
+  padding: 10px;
+  width: 100%;
+  position: fixed; 
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.3); 
+}
+
+footer .footer-content {
+  display: flex;
+  align-items: center; 
+  gap: 10px; 
+}
+
+footer img {
+  border: none;
+  transition: transform 0.5s ease;
+}
+
+footer img:hover {
+  transform: scale(1.1);
+}
+
+@media only screen and (max-width: 480px) {
+  body {
+    padding-bottom: 100%;
+  }
+
+  .nav-bar {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 10px;
+    padding: 10px;
+    background-color: black;
+  }
+
+  .btn {
+    height: 40px;  
+    width: 100%;   
+    background-color: black;
+    border: solid white 2px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    padding: 0;    
+    box-sizing: border-box; 
+    overflow: hidden;  
+    white-space: nowrap;  
+    text-overflow: ellipsis; 
+  }
+
+  .btn {
+    height: 40px; 
+    font-size: 14px; 
+  }
+}

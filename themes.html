@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Themes</title>
+    <link rel="stylesheet" href="CSS/themes.css">
+    <link rel="icon" type="image/png" href="new logo.png">
+    <link id="theme-link" rel="stylesheet" type="text/css" href="">
+</head>
+<body>
+    <div class="container">
+        <div class="theme-text">
+            <h1>Change your Theme!</h1>
+            <p>If you prefer a different theme, you can change the theme right on this page!</p>
+            <p>NOTE: clicking on one of the theme changers will change the background of <strong>every</strong> webpage on this website.</p>
+            <p>More themes will be added soon!</p>
+        </div>
+      
+    <div class="nav">
+        <nav class="nav-bar">
+            <a class="btn" href="index.html">Home</a>
+            <a class="btn" href="games.html">Games</a>
+            <a class="btn" href="about.html">About</a>
+            <a style="border-color: greenyellow;" class="btn" href="themes.html">Themes</a>
+            <a class="btn" href="full.html">Full Changelog</a>
+            <a class="btn" href="roms.html">Roms</a>
+     </nav>
+    </div>
+    </div>
+
+    <div class="themes-container">
+        <div class="theme" onclick="changeTheme(0)">
+            <img src="Default Theme Image.png" alt="Default Theme Preview" height="150" width="150" >
+            <p class="theme-t">Default Theme</p>
+        </div>
+    
+        <div class="theme" onclick="changeTheme(1)">
+            <img src="Theme 1 Image.png" alt="Theme 1 Preview" height="150" width="150">
+            <p class="theme-t">Theme 1</p>
+        </div>
+
+        <div class="theme" onclick="changeTheme(2)">
+            <img src="Theme 2 Image.png" alt="Theme 2 Preview" height="150" width="150">
+            <p class="theme-t">Theme 2</p>
+        </div>
+
+        <div class="theme" onclick="changeTheme(3)">
+            <img src="Theme 3 image.png" alt="Theme 3 Preview" height="150" width="150">
+            <p class="theme-t">Theme 3</p>
+
+        </div>
+    </div>
+
+    <div class="custom-theme">
+        <input class="custom" type="file" accept="image/png, image/jpeg, image/jpg, image/gif" >
+        <p class="a">Want a custom theme? Drop your image in the box here! (Only png, jpeg, jpg, and gif files are supported)</p>
+        <p class="a">PLEASE READ BEFORE USING GIF FILES: Gif files can be pretty large and if they are too large the browsers storage can't store them due to it having a file size limit of <strong>3mb.</strong> To use gifs, use gifs <strong>under 2.3mb.</strong></p>
+    </div>
+
+       
+    <footer>
+        <div class="footer-content">
+            <h1>Alexr Games Revamp</h1>
+            <a href="https://discord.com/invite/qNS948agjk" target="_blank"><img id="media" src="discord.png" width="50" height="50" alt="Discord Server"></a>
+            <a href="https://youtube.com/@alexr5153/videos" target="_blank"><img id="media" src="youtube.png" width="50" height="50" alt="YouTube"></a>
+            <p>2024 Alexr Games</p>
+        </div>
+    </footer>
+
+    <script>
+        const input = document.querySelector(".custom");
+
+        const themes = [
+            "CSS/default.css",
+            "CSS/theme1.css",
+            "CSS/theme2.css",
+            "CSS/theme3.css"
+        ];
+
+        const maxfilesize = 2300000;
+
+        window.changeTheme = function(themeIndex) {
+        const themeLink = document.getElementById('theme-link');
+        if (themes[themeIndex]) {
+            themeLink.href = themes[themeIndex];
+            localStorage.setItem('selectedTheme', themeIndex);
+            localStorage.removeItem('customtheme');
+            input.value = "";
+            document.body.style.backgroundImage = "";
+        }
+    };
+ function loadcustomTheme() {
+    const file = input.files[0];
+    const customthemetext = document.querySelector(".a");
+
+    if(file.size > maxfilesize){
+        customthemetext.textContent = "File exceeds file size limit.";
+        localStorage.removeItem('customtheme');
+        return;
+
+    }
+
+    if (file) {
+        const themeLink = document.getElementById('theme-link');
+        themeLink.removeAttribute("href");
+
+        if (file.type !== "image/jpeg" && file.type !== "image/png" && file.type !== "image/jpg" && file.type !== "image/gif") {
+            localStorage.removeItem('customtheme');
+            customthemetext.textContent = "Invalid file type!";
+            return;
+        }
+        const reader = new FileReader();
+        reader.onload = function (e) {
+            const filecontent = e.target.result;
+            localStorage.setItem('customtheme', filecontent);
+            localStorage.removeItem('selectedTheme');
+            document.body.style.backgroundImage = `url(${filecontent})`;
+        };
+
+        reader.readAsDataURL(file);
+    }
+}
+        
+
+input.addEventListener("change", loadcustomTheme);
+ function loadTheme() {
+    const selectedThemeIndex = localStorage.getItem('selectedTheme');
+    const customthemelink = localStorage.getItem('customtheme');
+
+    if (selectedThemeIndex !== null) {
+        changeTheme(selectedThemeIndex);
+    }
+
+    if (customthemelink !== null) {
+        document.body.style.backgroundImage = `url(${customthemelink})`;
+    }
+}
+
+loadTheme();
+    </script>
+</body>
+</html>

@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <link rel="stylesheet" href="CSS/about.css">
+    <link rel="icon" type="image/png" href="new logo.png">
+    <link id="theme-link" rel="stylesheet" type="text/css" href="">
+    <script src="JS/themes.js"></script>
+</head>
+<body>
+    
+    <div class="nav">
+        <nav class="nav-bar">
+            <a class="btn" href="index.html">Home</a>
+            <a class="btn" href="games.html">Games</a>
+            <a style="border-color: yellowgreen;" class="btn" href="about.html">About</a>
+            <a class="btn" href="themes.html">Themes</a>
+            <a class="btn" href="full.html">Full Changelog</a>
+            <a class="btn" href="roms.html">Roms</a>
+     </nav>
+    </div>
+
+    <h1>About</h1>
+    
+    <div class="about-container">
+        <h1>About</h1>
+        <div class="about">
+            <section class="section section-1">
+                <h1>What's this website's goal?</h1>
+                <span>This website's goal is to make WebGL games and Flash games more accessible. Explore a huge catalog of classic web games.</span>
+            </section>
+            <section class="section section-2">
+                <h1>New Games Occasionally</h1>
+                <span>This website updates occasionally, adding new games or fixing bugs. Join our Discord server on page 3 for updates and teasers.</span>
+            </section>
+            <section class="section section-3">
+                <h1>Socials</h1>
+                <div class="text-container">
+                    <span>Check out my YouTube channel and join the Discord server for updates.</span>
+                </div>
+                <a target="_blank" href="https://www.youtube.com/@Alexr5153/videos">
+                    <img src="youtube.png" width="50" height="50" alt="YouTube">
+                </a>
+                <a target="_blank" href="https://discord.gg/qNS948agjk">
+                    <img src="discord.png" width="50" height="50" alt="Discord Server">
+                </a>
+            </section>
+            <section class="section section-4">
+                <h1>Older Projects</h1>
+                <span>I have older unblocked game websites that are still up. Check pages 5 and 6 for more information.</span>
+            </section>
+            <section class="section section-5">
+                <h1>Hotline Games</h1>
+                <div class="text-container">
+                    <span>Hotline Games was my first unblocked games website. (Most are broken now)</span>
+                </div>
+                <span>Find Hotline Games <a class="about-link" target="_blank" href="https://sites.google.com/view/hotline-games">Here!</a></span>
+            </section>
+            <section class="section section-6">
+                <h1>Original Alexr Games</h1>
+                <div class="text-container">
+                    <span>Original Alexr Games was my first website coded in HTML and CSS. Discontinued to work on Alexr Games Revamp.</span>
+                </div>
+                <span>Find Original Alexr Games <a class="about-link" target="_blank" href="https://alexrgames.netlify.app">Here!</a></span>
+            </section>
+            <section class="section section-7">
+                <h1>That Concludes</h1>
+                <span>Thank you for taking the time to read the about page. Have fun exploring the rest of the website!</span>
+            </section>
+            <div class="button-container">
+                <button onclick="changePage(-1)" class="previous">Previous</button>
+                <button onclick="changePage(1)" class="next">Next</button>
+                <label class="pagecount">1</label>
+            </div>
+        </div>
+    </div>
+
+
+    <footer>
+        <div class="footer-content">
+            <h1>Alexr Games Revamp</h1>
+            <a href="https://discord.com/invite/qNS948agjk" target="_blank"><img id="media" src="discord.png" width="50" height="50" alt="Discord Server"></a>
+            <a href="https://youtube.com/@alexr5153/videos" target="_blank"><img id="media" src="youtube.png" width="50" height="50" alt="YouTube"></a>
+            <p>2024 Alexr Games</p>
+        </div>
+    </footer>
+
+
+
+
+
+    <script>
+        document.addEventListener("DOMContentLoaded", () =>{
+       loadTheme();
+    })
+    </script>
+
+    <script>
+       let currentPage = 1;
+    const totalPages = 7;
+
+document.querySelector(".pagecount").textContent = currentPage;
+
+function changePage(step) {
+    currentPage += step;
+    currentPage = Math.max(1, Math.min(totalPages, currentPage));
+    updateSectionsVisibility();
+}
+
+function updateSectionsVisibility() {
+    for (let i = 1; i <= totalPages; i++) {
+        const section = document.querySelector(`.section-${i}`);
+        if (section) {
+            section.style.display = i === currentPage ? "block" : "none";
+        }
+    }
+
+    document.querySelector(".previous").disabled = currentPage === 1;
+    document.querySelector(".next").disabled = currentPage === totalPages;
+    document.querySelector(".pagecount").textContent = currentPage;
+}
+
+
+document.addEventListener("DOMContentLoaded", updateSectionsVisibility);
+    </script>
+
+   
+    
+</body>
+</html>

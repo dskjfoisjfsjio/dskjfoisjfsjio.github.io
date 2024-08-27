@@ -1,0 +1,937 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Games</title>
+      <link rel="stylesheet" href="CSS/games.css">
+      <link rel="icon" type="image/png" href="new logo.png">
+      <link id="theme-link" rel="stylesheet" type="text/css" href="">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+      <script src="JS/search.js"></script>
+      <script src="JS/games.js"></script>
+      <script src="JS/themes.js"></script>
+      <script id="slideshow" defer src="JS/slideshow.js"></script>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-JWDZHX9SF2"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+    
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'G-JWDZHX9SF2');
+      </script>
+    
+    </head>
+    
+    <body>
+      <div class="container">
+        <div class="row">
+    
+          <div class="most-popular">
+            <h1>Most Popular</h1>
+    
+            <div class="slideshow-container">
+    
+              <div class="mySlides fade">
+                <a class="popular-link" data-gameid="subway" href="Games/subway-surfers/index.html"><img src="game images/subway surfers.jpg" style="height: 150px; width: 150px;"></a>
+                <div class="text">Subway Surfers</div>
+              </div>
+    
+              <div class="mySlides fade">
+                <a class="popular-link" data-gameid="slope" href="Games/slope.html"><img src="game images/Slope.jfif" style="height: 150px; width: 150px;"></a>
+                <div class="text">Slope</div>
+              </div>
+    
+              <div class="mySlides fade">
+                <a class="popular-link" data-gameid="run3" href="Games/Run 3/Run3.html"><img src="game images/run 3.png" style="height: 150px; width: 150px;"></a>
+                <div class="text">Run 3</div>
+              </div>
+    
+              <div class="mySlides fade">
+                <a class="popular-link" data-gameid="fancypants" href="Games/fancypants.html"><img src="game images/fancypants.png" style="height: 150px; width: 150px;"></a>
+                <div class="text">Fancy Pants</div>
+              </div>
+    
+              <div class="mySlides fade">
+                <a class="popular-link" data-gameid="flappy" href="Games/flappybird.html"><img src="game images/Flappybird.png" style="height: 150px; width: 150px;"></a>
+                <div class="text">Flappy Bird</div>
+              </div>
+    
+              <div class="mySlides fade">
+                <a class="popular-link" data-gameid="badtime" href="Games/sans.html"><img src="game images/bad time.jpg" style="height: 150px; width: 150px;"></a>
+                <div class="text">Bad Time Simulator</div>
+              </div>
+            </div>
+            <br>
+    
+            <div style="text-align:center">
+              <span class="dot" onclick="currentSlide(1)"></span>
+              <span class="dot" onclick="currentSlide(2)"></span>
+              <span class="dot" onclick="currentSlide(3)"></span>
+              <span class="dot" onclick="currentSlide(4)"></span>
+              <span class="dot" onclick="currentSlide(5)"></span>
+              <span class="dot" onclick="currentSlide(6)"></span>
+            </div>
+    
+          </div>
+
+          
+          <div class="top-text">
+            <h1>Games</h1>
+            <p>Explore huge catalog of games.</p>
+            <p>(More games coming soon!)</p>
+            <p>If any game has a bug, report it to my youtube page <a class="help" href="https://www.youtube.com/@Alexr5153/videos">here!</a></p>
+          </div>
+    
+          <div class="newest-release">
+            <h1>Newest Release</h1>
+            <div class="newest-holder">
+              <a data-gameid="supersmashbros" class="newest-game-link" href="Games/supersmashbros.html"><img src="game images/supersmashbros.jpg" width="150" height="150" alt="Newest Release"></a>
+              <p>Super Smash Bros</p>
+            </div>
+    
+          </div>
+        </div>
+    
+    
+        <div class="search">
+          <i class="fas fa-search"></i>
+          <input style="background-color: black; color: white;" class="game-search" type="textbox" placeholder="Search for Games Here!">
+        </div>
+    
+        <div class="nav">
+            <nav class="nav-bar">
+                <a class="btn" href="index.html">Home</a>
+                <a style="border-color: greenyellow;" class="btn" href="games.html">Games</a>
+                <a class="btn" href="about.html">About</a>
+                <a class="btn" href="themes.html">Themes</a>
+                <a class="btn" href="full.html">Full Changelog</a>
+                <a class="btn" href="roms.html">Roms</a>
+         </nav>
+        </div>
+
+        <div class="game-container">
+            <a style="color: green;" href="Games/slope.html" class="link" data-gameid="slope">
+                <div class="game-icon-container">
+                    <img src="game images/slope.jfif" width="200" height="200" alt="Slope">
+                    <h1 class="game-text">Slope</h1>
+                </div>
+            </a>
+
+            <a style="color: greenyellow;" href="Games/btd.html" class="link" data-gameid="btd">
+                <div class="game-icon-container">
+                    <img src="game images/btd.jpg" width="200" height="200" alt="BTD">
+                    <h1 class="game-text">Bloons Tower Defense</h1>
+                </div>
+            </a>
+
+            <a style="color: greenyellow;" href="Games/btd2.html" class="link" data-gameid="btd2">
+                <div class="game-icon-container">
+                    <img src="game images/btd2.jpg" width="200" height="200" alt="BTD 2">
+                    <h1 class="game-text">Bloons Tower Defense 2</h1>
+                </div>
+            </a>
+
+            <a style="color: greenyellow;" href="Games/btd3.html" class="link" data-gameid="btd3">
+                <div class="game-icon-container">
+                    <img src="game images/btd 3.jpg" width="200" height="200" alt="BTD 3">
+                    <h1 class="game-text">Bloons Tower Defense 3</h1>
+                </div>
+            </a>
+
+            <a style="color: greenyellow;" href="Games/btd4.html" class="link" data-gameid="btd4">
+                <div class="game-icon-container">
+                    <img src="game images/btd 4.jpg" width="200" height="200" alt="BTD 4">
+                    <h1 class="game-text">Bloons Tower Defense 4</h1>
+                </div>
+            </a>
+
+            <a style="color: greenyellow;" href="Games/btd5.html" class="link" data-gameid="btd5">
+                <div class="game-icon-container">
+                    <img src="game images/Bloons TD 5.jpg" width="200" height="200" alt="BTD 5">
+                    <h1 class="game-text">Bloons Tower Defense 5</h1>
+                </div>
+            </a>
+
+            <a style="color: greenyellow;" href="Games/bloonssupermonkey.html" class="link" data-gameid="bloonssuper">
+                <div class="game-icon-container">
+                    <img src="game images/Bloons Super Monkey.jpg" width="200" height="200" alt="Bloons Super Monkey">
+                    <h1 class="game-text">Bloons Super Monkey</h1>
+                </div>
+            </a>
+
+            <a style="color: orange;" href="games/run.html" class="link" data-gameid="run">
+                <div class="game-icon-container">
+                    <img src="game images/run original.jpg" width="200" height="200" alt="Run">
+                    <h1 class="game-text">Run</h1>
+                </div>
+            </a>
+
+
+            <a style="color: green;" href="Games/run2.html" class="link" data-gameid="run2">
+                <div class="game-icon-container">
+                    <img src="game images/run 2.jpg" width="200" height="200" alt="Run 2">
+                    <h1 class="game-text">Run 2</h1>
+                </div>
+            </a>
+
+            <a style="color: cyan;" href="Games/run 3/run3.html" class="link" data-gameid="run3">
+                <div class="game-icon-container">
+                    <img src="game images/run 3.png" width="200" height="200" alt="Run 3">
+                    <h1 class="game-text">Run 3</h1>
+                </div>
+            </a>
+
+            <a style="color: darkred;" href="Games/bloxorz.html" class="link" data-gameid="blox">
+                <div class="game-icon-container">
+                    <img src="game images/bloxorz.jpg" width="200" height="200" alt="Bloxorz">
+                    <h1 class="game-text">Bloxorz</h1>
+                </div>
+            </a>
+
+            <a style="color: cadetblue;" href="Games/pottyracers.html" class="link" data-gameid="pottyracers">
+                <div class="game-icon-container">
+                    <img src="game images/pottyracers.jfif" width="200" height="200" alt="Potty Racers">
+                    <h1 class="game-text">Potty Racers</h1>
+                </div>
+            </a>
+
+            <a style="color: cadetblue;" href="Games/pottyracers2.html" class="link" data-gameid="pottyracers2">
+                <div class="game-icon-container">
+                    <img src="game images/pottyracers2.jfif" width="200" height="200" alt="Potty Racers 2">
+                    <h1 class="game-text">Potty Racers 2</h1>
+                </div>
+            </a>
+
+            <a style="color: cadetblue;" href="Games/pottyracers3.html" class="link" data-gameid="pottyracers3">
+                <div class="game-icon-container">
+                    <img src="game images/pottyracers3.jpg" width="200" height="200" alt="Potty Racers 3">
+                    <h1 class="game-text">Potty Racers 3</h1>
+                </div>
+            </a>
+
+
+            <a style="color: darkred;" href="Games/deathrun3d.html" class="link" data-gameid="deathrun3d">
+                <div class="game-icon-container">
+                    <img src="game images/deathrun3d.jfif" width="200" height="200" alt="Death Run 3D">
+                    <h1 class="game-text">Death Run 3D</h1>
+                </div>
+            </a>
+
+            <a style="color: pink" href="Games/colortunnel.html" class="link" data-gameid="colortunnel">
+                <div class="game-icon-container">
+                    <img src="game images/colortunnel.jpg" width="200" height="200" alt="Color Tunnel">
+                    <h1 class="game-text">Color Tunnel</h1>
+                </div>
+            </a>
+
+            <a style="color: blue" href="Games/Crossy-Road/CrossyRoad.html" class="link" data-gameid="crossyroad">
+                <div class="game-icon-container">
+                    <img src="game images/crossy road.jpg" width="200" height="200" alt="Crossy Road">
+                    <h1 class="game-text">Crossy Road</h1>
+                </div>
+            </a>
+
+            <a style="color: yellow" href="Games/ducklife.html" class="link" data-gameid="ducklife">
+                <div class="game-icon-container">
+                    <img src="game images/ducklife.jfif" width="200" height="200" alt="Duck Life">
+                    <h1 class="game-text">Duck Life</h1>
+                </div>
+            </a>
+
+            <a style="color: yellow" href="Games/ducklife2.html" class="link" data-gameid="ducklife2">
+                <div class="game-icon-container">
+                    <img src="game images/ducklife2.jfif" width="200" height="200" alt="Duck Life 2">
+                    <h1 class="game-text">Duck Life 2</h1>
+                </div>
+            </a>
+
+            <a style="color: yellow" href="Games/ducklife3.html" class="link" data-gameid="ducklife3">
+                <div class="game-icon-container">
+                    <img src="game images/ducklife3.jfif" width="200" height="200" alt="Duck Life 3">
+                    <h1 class="game-text">Duck Life 3</h1>
+                </div>
+            </a>
+
+            <a style="color: yellow" href="Games/ducklife4.html" class="link" data-gameid="ducklife4">
+                <div class="game-icon-container">
+                    <img src="game images/ducklife4.jfif" width="200" height="200" alt="Duck Life 4">
+                    <h1 class="game-text">Duck Life 4</h1>
+                </div>
+            </a>
+
+            <a style="color: yellow" href="Games/ducklifetreasurehunt.html" class="link" data-gameid="ducklife5">
+                <div class="game-icon-container">
+                    <img src="game images/duck life treasure hunt.jpg" width="200" height="200" alt="Duck Life Treasure Hunt">
+                    <h1 class="game-text">Duck Life Treasure Hunt</h1>
+                </div>
+            </a>  
+
+            <a style="color: pink" href="Games/happywheels.html" class="link" data-gameid="happywheels">
+                <div class="game-icon-container">
+                    <img src="game images/happy wheelsa.jpg" width="200" height="200" alt="Happy Wheels">
+                    <h1 class="game-text">Happy Wheels</h1>
+                </div>
+            </a>
+
+            <a style="color: yellowgreen" href="Games/baldis-basics//Baldi.html" class="link" data-gameid="baldi">
+                <div class="game-icon-container">
+                    <img src="game images/baldi.jpg" width="200" height="200" alt="Baldi's Basics">
+                    <h1 class="game-text">Baldi's Basics</h1>
+                </div>
+            </a>
+
+                  <a style="color: cadetblue" href="Games/fireboy.html" class="link" data-gameid="fireboywatergirlforest">
+                <div class="game-icon-container">
+                    <img src="game images/fireboy.jpg" width="200" height="200" alt="Fireboy and Watergirl Forest Temple">
+                    <h1 class="game-text">Fireboy & Watergirl Forest Temple</h1>
+                </div>
+            </a>
+
+            <a style="color: skyblue" href="Games/supermarioflash.html" class="link" data-gameid="mario">
+                <div class="game-icon-container">
+                    <img src="game images/super mario flash.jpg" width="200" height="200" alt="Super Mario Flash">
+                    <h1 class="game-text"> Super Mario Flash</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/learntofly.html" class="link" data-gameid="learntofly">
+                <div class="game-icon-container">
+                    <img src="game images/learn to fly.jpg" width="200" height="200" alt="Learn to Fly">
+                    <h1 class="game-text">Learn to Fly</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/learntofly2.html" class="link" data-gameid="learntofly2">
+                <div class="game-icon-container">
+                    <img src="game images/learn to fly 2.jpg" width="200" height="200" alt="Learn to Fly 2">
+                    <h1 class="game-text">Learn to Fly 2</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/learntofly3.html" class="link" data-gameid="learntofly3">
+                <div class="game-icon-container">
+                    <img src="game images/learn to fly 3.jpg" width="200" height="200" alt="Learn to Fly 3">
+                    <h1 class="game-text">Learn to Fly 3</h1>
+                </div>
+            </a> 
+
+            <a style="color: white" href="Games/learntoflyidle.html" class="link" data-gameid="learntoflyidle">
+                <div class="game-icon-container">
+                    <img src="game images/learntoflyidle.jpg" width="200" height="200" alt="Learn to Fly Idle">
+                    <h1 class="game-text">Learn to Fly Idle</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/Choppy-Orc/Choppy.html" class="link" data-gameid="choppyorc">
+                <div class="game-icon-container">
+                    <img src="game images/choppy orc.jpg" width="200" height="200" alt="Choppy Orc">
+                    <h1 class="game-text">Choppy Orc</h1>
+                </div>
+            </a>
+
+            <a style="color: red" href="Games/papaswingeria.html" class="link" data-gameid="papaswing">
+                <div class="game-icon-container">
+                    <img src="game images/papas wing.jpg" width="200" height="200" alt="Papas Wingeria">
+                    <h1 class="game-text">Papas Wingeria</h1>
+                </div>
+            </a>
+
+            
+            <a style="color: darkcyan" href="Games/thereisnogame.html" class="link" data-gameid="thereisnogame">
+                <div class="game-icon-container">
+                    <img src="game images/there is no game.png" width="200" height="200" alt="There is No Game">
+                    <h1 class="game-text">There is No Game</h1>
+                </div>
+            </a>
+
+
+            <a style="color: darkcyan" href="Games/riddleschool.html" class="link" data-gameid="riddleschool">
+                <div class="game-icon-container">
+                    <img src="game images/riddleschool1.jfif" width="200" height="200" alt="Riddle School">
+                    <h1 class="game-text">Riddle School</h1>
+                </div>
+            </a>
+
+            <a style="color: darkcyan" href="Games/riddleschool2.html" class="link" data-gameid="riddleschool2">
+                <div class="game-icon-container">
+                    <img src="game images/riddleschool2.jfif" width="200" height="200" alt="Riddle School 2">
+                    <h1 class="game-text">Riddle School 2</h1>
+                </div>
+            </a>
+
+            <a style="color: darkcyan" href="Games/riddleschool3.html" class="link" data-gameid="riddleschool3">
+                <div class="game-icon-container">
+                    <img src="game images/riddleschool3.jfif" width="200" height="200" alt="Riddle School 3">
+                    <h1 class="game-text">Riddle School 3</h1>
+                </div>
+            </a>
+
+            
+            <a style="color: darkcyan" href="Games/riddleschool4.html" class="link" data-gameid="riddleschool4">
+                <div class="game-icon-container">
+                    <img src="game images/riddleschool4.jfif" width="200" height="200" alt="Riddle School 4">
+                    <h1 class="game-text">Riddle School 4</h1>
+                </div>
+            </a>
+
+            
+            <a style="color: darkcyan" href="Games/riddleschool5.html" class="link" data-gameid="riddleschool5">
+                <div class="game-icon-container">
+                    <img src="game images/riddleschool5.jfif" width="200" height="200" alt="Riddle School 5">
+                    <h1 class="game-text">Riddle School 5</h1>
+                </div>
+            </a>
+
+               
+            <a style="color: darkcyan" href="Games/riddletransfer.html" class="link" data-gameid="riddletransfer">
+                <div class="game-icon-container">
+                    <img src="game images/riddletransfer.jfif" width="200" height="200" alt="Riddle Transfer">
+                    <h1 class="game-text">Riddle Transfer</h1>
+                </div>
+            </a>
+
+            <a style="color: darkcyan" href="Games/riddletransfer2.html" class="link" data-gameid="riddletransfer2">
+                <div class="game-icon-container">
+                    <img src="game images/riddletransfer2.jfif" width="200" height="200" alt="Riddle Transfer 2">
+                    <h1 class="game-text">Riddle Transfer 2</h1>
+                </div>
+            </a>
+
+            <a style="color: yellow" href="Games/raftwars.html" class="link" data-gameid="raftwars">
+                <div class="game-icon-container">
+                    <img src="game images/raft wars.jpg" width="200" height="200" alt="Raft Wars">
+                    <h1 class="game-text">Raft Wars</h1>
+                </div>
+            </a>
+
+            <a style="color: grey" href="Games/fancypants.html" class="link" data-gameid="fancypants">
+                <div class="game-icon-container">
+                    <img src="game images/fancypants.png" width="200" height="200" alt="Fancy Pants">
+                    <h1 class="game-text">Fancy Pants</h1>
+                </div>
+            </a>
+
+            <a style="color: grey" href="Games/fancypants2.html" class="link" data-gameid="fancypants2">
+                <div class="game-icon-container">
+                    <img src="game images/fancy pants 2.png" width="200" height="200" alt="Fancy Pants 2">
+                    <h1 class="game-text">Fancy Pants World 2</h1>
+                </div>
+            </a>
+
+            <a style="color: grey" href="Games/fancypants3.html" class="link" data-gameid="fancypants3">
+                <div class="game-icon-container">
+                    <img src="game images/fancy pants 3.png" width="200" height="200" alt="Fancy Pants 3">
+                    <h1 class="game-text">Fancy Pants World 3</h1>
+                </div>
+            </a>
+
+            
+            <a style="color: red" href="Games/worldshardestgame.html" class="link" data-gameid="worldshardestgame">
+                <div class="game-icon-container">
+                    <img src="game images/worlds hardest game.jpg" width="200" height="200" alt="Worlds Hardest Game">
+                    <h1 class="game-text">Worlds Hardest Game</h1>
+                </div>
+            </a>
+
+            <a style="color: red" href="Games/worldshardestgame2.html" class="link" data-gameid="worldshardestgame2">
+                <div class="game-icon-container">
+                    <img src="game images/worlds hardest game 2.png" width="200" height="200" alt="Worlds Hardest Game 2">
+                    <h1 class="game-text">Worlds Hardest Game 2</h1>
+                </div>
+            </a>
+
+            <a style="color: red" href="Games/worldshardestgame3.html" class="link" data-gameid="worldshardestgame3">
+                <div class="game-icon-container">
+                    <img src="game images/world-s-hardest-game-3.png" width="200" height="200" alt="Worlds Hardest Game 3">
+                    <h1 class="game-text">Worlds Hardest Game 3</h1>
+                </div>
+            </a>
+
+
+                 <a style="color: red" href="Games/airship.html" class="link" data-gameid="airship">
+                <div class="game-icon-container">
+                    <img src="game images/infiltrating the airship.jpg" width="200" height="200" alt="Infiltraring the airship">
+                    <h1 class="game-text">Inflitrating the Airship</h1>
+                </div>
+            </a>
+
+            <a style="color: grey" href="Games/escapingtheprison.html" class="link" data-gameid="prison">
+                <div class="game-icon-container">
+                    <img src="game images/escaping the prison.png" width="200" height="200" alt="Escaping the Prison">
+                    <h1 class="game-text">Escaping the Prison</h1>
+                </div>
+            </a>
+
+            <a style="color: grey" href="Games/fleeingthecomplex.html" class="link" data-gameid="complex">
+                <div class="game-icon-container">
+                    <img src="game images/fleeing the complex.jpg" width="200" height="200" alt="Fleeing the Complex">
+                    <h1 class="game-text">Fleeing the Complex</h1>
+                </div>
+            </a>
+
+            <a style="color: grey;" href="Games/breakingthebank.html" class="link" data-gameid="bank">
+                <div class="game-icon-container">
+                    <img src="game images/breaking the bank.jpg" width="200" height="200" alt="Breaking the Bank">
+                    <h1 class="game-text">Breaking the Bank</h1>
+                </div>
+            </a>
+
+            <a style="color: grey;" href="Games/stealingthediamond.html" class="link" data-gameid="diamond">
+                <div class="game-icon-container">
+                    <img src="game images/stealing the diamond.jpg" width="200" height="200" alt="Stealing the Diamond">
+                    <h1 class="game-text">Stealing the Diamond</h1>
+                </div>
+            </a>
+
+
+
+                   <a style="color: yellowgreen" href="Games/flappybird.html" class="link" data-gameid="flappy">
+                <div class="game-icon-container">
+                    <img src="game images/flappybird.png" width="200" height="200" alt="Flappy bird">
+                    <h1 class="game-text">Flappy bird</h1>
+                </div>
+            </a>
+
+                   <a style="color: yellow" href="Games/mfp.html" class="link" data-gameid="pedro">
+                <div class="game-icon-container">
+                    <img src="game images/my friend pedro.jpg" width="200" height="200" alt="My Friend Pedro">
+                    <h1 class="game-text">My Friend Pedro</h1>
+                </div>
+            </a>
+
+
+                                 <a style="color: darkred" href="Games/ssf.html" class="link" data-gameid="smashflash">
+                <div class="game-icon-container">
+                    <img src="game images/super smash flash.jpg" width="200" height="200" alt="Super Smash Flash">
+                    <h1 class="game-text">Super Smash Flash</h1>
+                </div>
+            </a>
+
+                                     <a style="color: white" href="Games/portalflash.html" class="link" data-gameid="portalflash">
+                <div class="game-icon-container">
+                    <img src="game images/portal the flash version.jpg" width="200" height="200" alt="Portal the Flash Version">
+                    <h1 class="game-text">Portal the Flash Version</h1>
+                </div>
+            </a>
+
+                                     <a style="color: white" href="Games/papaspizzeria.html" class="link" data-gameid="papaspizza">
+                <div class="game-icon-container">
+                    <img src="game images/papas pizza.jpg" width="200" height="200" alt="Papas Pizzeria">
+                    <h1 class="game-text">Papas Pizzeria</h1>
+                </div>
+            </a>
+
+                                       <a style="color: white" href="Games/papasburgeria.html" class="link" data-gameid="papasburger">
+                <div class="game-icon-container">
+                    <img src="game images/papas burgeria.jpg" width="200" height="200" alt="Papas Burgeria">
+                    <h1 class="game-text">Papas Burgeria</h1>
+                </div>
+            </a>
+
+                                              <a style="color: white" href="Games/papas freezeria.html" class="link" data-gameid="papasfreeze">
+                <div class="game-icon-container">
+                    <img src="game images/papas freezeria.jpg" width="200" height="200" alt="Papas Freezeria">
+                    <h1 class="game-text">Papas Freezeria</h1>
+                </div>
+            </a>
+
+                                                        <a style="color: yellow" href="Games/pacman.html" class="link" data-gameid="pacman">
+                <div class="game-icon-container">
+                    <img src="game images/pacman.png" width="200" height="200" alt="Pacman">
+                    <h1 class="game-text">Pacman</h1>
+                </div>
+            </a>
+
+                                                                 <a style="color: white" href="Games/PapasPancake.html" class="link" data-gameid="papaspancake">
+                <div class="game-icon-container">
+                    <img src="game images/papas pancake.jpg" width="200" height="200" alt="Papas Pancakeria">
+                    <h1 class="game-text">Papas Pancakeria</h1>
+                </div>
+            </a>
+
+          
+                                                                 <a style="color: white" href="Games/rooftopsnipers.html" class="link" data-gameid="rooftopsnipers">
+                <div class="game-icon-container">
+                    <img src="game images/rooftop.jpg" width="200" height="200" alt="Rooftop Snipers">
+                    <h1 class="game-text">Rooftop Snipers</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/hotdogeria.html" class="link" data-gameid="papashotdog">
+                <div class="game-icon-container">
+                    <img src="game images/papas hotdog.jpg" width="200" height="200" alt="Papas Hotdoggeria">
+                    <h1 class="game-text">Papas Hotdoggeria</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/spaceiskey.html" class="link" data-gameid="spaceiskey">
+                <div class="game-icon-container">
+                    <img src="game images/space is key.png" width="200" height="200" alt="Space is key">
+                    <h1 class="game-text">Space is key</h1>
+                </div>
+            </a>   
+            
+            <a style="color: white" href="Games/bloons.html" class="link" data-gameid="bloons">
+                <div class="game-icon-container">
+                    <img src="game images/bloons.jpg" width="200" height="200" alt="Bloons">
+                    <h1 class="game-text">Bloons</h1>
+                </div>
+            </a>     
+
+            <a style="color: cadetblue" href="Games/thinice.html" class="link" data-gameid="thinice">
+                <div class="game-icon-container">
+                    <img src="game images/thin ice.jpg" width="200" height="200" alt="Thin Ice">
+                    <h1 class="game-text">Thin Ice</h1>
+                </div>
+            </a>     
+
+            <a style="color: cadetblue" href="Games/SWF/Astro Barrier/astrobarrier.html" class="link" data-gameid="thiniceastro">
+                <div class="game-icon-container">
+                    <img src="game images/thiniceastro.jpg" width="200" height="200" alt="Thinicetrobarrierr">
+                    <h1 class="game-text">Thinicetrobarrier</h1>
+                </div>
+            </a> 
+
+            <a style="color: cadetblue" href="Games/SWF/Puffle Launch/pufflelaunch.html" class="link" data-gameid="pufflelaunch">
+                <div class="game-icon-container">
+                    <img src="game images/puffle launch.jpg" width="200" height="200" alt="Puffle Launch">
+                    <h1 class="game-text">Puffle Launch</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/sans.html" class="link" data-gameid="badtime">
+                <div class="game-icon-container">
+                    <img src="game images/bad time.jpg" width="200" height="200" alt="Bad Time Simulator">
+                    <h1 class="game-text">Bad Time Simulator</h1>
+                </div>
+            </a>     
+
+            <a style="color: blue" href="Games/sonic.html" class="link" data-gameid="sonicflash">
+                <div class="game-icon-container">
+                    <img src="game images/sonic.jpg" width="200" height="200" alt="Sonic Flash">
+                    <h1 class="game-text">Sonic Flash</h1>
+                </div>
+            </a>    
+
+            
+            <a style="color: white" href="Games/freegear.html" class="link" data-gameid="freegear">
+                <div class="game-icon-container">
+                    <img src="game images/freegear.jpg" width="200" height="200" alt="Freegear">
+                    <h1 class="game-text">Freegear</h1>
+                </div>
+            </a>    
+
+            <a style="color: white" href="Games/papasscooperia.html" class="link" data-gameid="scoop">
+                <div class="game-icon-container">
+                    <img src="game images/papas scooperia.jpg" width="200" height="200" alt="Papas Scooperia">
+                    <h1 class="game-text">Papas Scooperia</h1>
+                </div>
+            </a>  
+
+            <a style="color: blue" href="Games/shoppingcarthero.html" class="link" data-gameid="shoppingcarthero">
+                <div class="game-icon-container">
+                    <img src="game images/shopping cart hero.jpg" width="200" height="200" alt="Shopping Cart Hero">
+                    <h1 class="game-text">Shopping Cart Hero</h1>
+                </div>
+            </a> 
+            
+            <a style="color: blue" href="Games/shoppingcarthero.html" class="link" data-gameid="shoppingcarthero2">
+                <div class="game-icon-container">
+                    <img src="game images/shopping cart hero 2.png" width="200" height="200" alt="Shopping Cart Hero 2">
+                    <h1 class="game-text">Shopping Cart Hero 2</h1>
+                </div>
+            </a>  
+
+            <a style="color: white" href="Games/getaway.html" class="link" data-gameid="getaway">
+                <div class="game-icon-container">
+                    <img src="game images/getawayshootout.jpg" width="200" height="200" alt="Basket Random">
+                    <h1 class="game-text">Getaway Shootout</h1>
+                </div>
+            </a>  
+
+            <a style="color: white" href="Games/sugarsugar2.html" class="link" data-gameid="sugarsugar">
+                <div class="game-icon-container">
+                    <img src="game images/sugar sugar.png" width="200" height="200" alt="Sugar Sugar">
+                    <h1 class="game-text">Sugar Sugar</h1>
+                </div>
+            </a>  
+
+            <a style="color: white" href="Games/sugarsugar.html" class="link" data-gameid="sugarsugar2">
+                <div class="game-icon-container">
+                    <img src="game images/sugar sugar 2.png" width="200" height="200" alt="Sugar Sugar 2">
+                    <h1 class="game-text">Sugar Sugar 2</h1>
+                </div>
+            </a>  
+
+            <a style="color: white" href="Games/cubefield.html" class="link" data-gameid="cubefield">
+                <div class="game-icon-container">
+                    <img src="game images/cube field.jpg" width="200" height="200" alt="Cubefield">
+                    <h1 class="game-text">Cubefield</h1>
+                </div>
+            </a>  
+
+            <a style="color: white" href="Games/fightforglorton.html" class="link" data-gameid="fight">
+                <div class="game-icon-container">
+                    <img src="game images/thefightforglorton.jfif" width="200" height="200" alt="The Fight for Glorton">
+                    <h1 class="game-text">The Fight for Glorton</h1>
+                </div>
+            </a>  
+
+            <a style="color: white" href="Games/sprinter.html" class="link" data-gameid="sprint">
+                <div class="game-icon-container">
+                    <img src="game images/sprinter.jpg" width="200" height="200" alt="Sprinter">
+                    <h1 class="game-text">Sprinter</h1>
+                </div>
+            </a>  
+
+            <a style="color: white" href="Games/helixjump.html" class="link" data-gameid="helix">
+                <div class="game-icon-container">
+                    <img src="game images/helix jump.jpg" width="200" height="200" alt="Helix Jump">
+                    <h1 class="game-text">Helix Jump</h1>
+                </div>
+            </a>  
+
+            <a style="color: purple" href="Games/dinerdashhometownhero.html" class="link" data-gameid="diner">
+                <div class="game-icon-container">
+                    <img src="game images/diner dash.jpg" width="200" height="200" alt="Helix Jump">
+                    <h1 class="game-text">Diner Dash Hometown Hero</h1>
+                </div>
+            </a> 
+
+            <a style="color: white" href="Games/soundboard-main/soundboard.html" class="link" data-gameid="sound">
+                <div class="game-icon-container">
+                    <img src="game images/soundboard.png" width="200" height="200" alt="Soundboard">
+                    <h1 class="game-text">Soundboard</h1>
+                </div>
+            </a> 
+
+            <a style="color: white" href="Games/ageofwar.html" class="link" data-gameid="age">
+                <div class="game-icon-container">
+                    <img src="game images/age of war.jpg" width="200" height="200" alt="Age of War">
+                    <h1 class="game-text">Age of War</h1>
+                </div>
+            </a> 
+
+            <a style="color: white" href="Games/googlefeud.html" class="link" data-gameid="google">
+                <div class="game-icon-container">
+                    <img src="game images/googlefeud.png" width="200" height="200" alt="Google Feud">
+                    <h1 class="game-text">Google Feud</h1>
+                </div>
+            </a> 
+
+            <a style="color: white" href="Games/redball.html" class="link" data-gameid="redball">
+                <div class="game-icon-container">
+                    <img src="game images/red ball.jpg" width="200" height="200" alt="Red Ball">
+                    <h1 class="game-text">Redball</h1>
+                </div>
+            </a> 
+
+            <a style="color: white" href="Games/vex.html" class="link" data-gameid="vex">
+                <div class="game-icon-container">
+                    <img src="game images/vex.jpg" width="200" height="200" alt="Vex">
+                    <h1 class="game-text">Vex</h1>
+                </div>
+            </a> 
+
+            <a style="color: white" href="Games/vex2.html" class="link" data-gameid="vex2">
+                <div class="game-icon-container">
+                    <img src="game images/vex 2.jpg" width="200" height="200" alt="Vex 2">
+                    <h1 class="game-text">Vex 2</h1>
+                </div>
+            </a> 
+
+            
+            <a style="color: white" href="Games/vex.html" class="link" data-gameid="quiz">
+                <div class="game-icon-container">
+                    <img src="game images/impossiblequiz.png" width="200" height="200" alt="The Impossible Quiz">
+                    <h1 class="game-text">The Impossible Quiz</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/factoryballs.html" class="link" data-gameid="fb">
+                <div class="game-icon-container">
+                    <img src="game images/factory balls.jpg" width="200" height="200" alt="Factory Balls">
+                    <h1 class="game-text">Factory Balls</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/factoryballs2.html" class="link" data-gameid="fb2">
+                <div class="game-icon-container">
+                    <img src="game images/factory balls 2.jpg" width="200" height="200" alt="Factory Balls 2">
+                    <h1 class="game-text">Factory Balls 2</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/factoryballs3.html" class="link" data-gameid="fb3">
+                <div class="game-icon-container">
+                    <img src="game images/factory balls 3.jpg" width="200" height="200" alt="Factory Balls 3">
+                    <h1 class="game-text">Factory Balls 3</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/factoryballs4.html" class="link" data-gameid="fb4">
+                <div class="game-icon-container">
+                    <img src="game images/factory balls 4.jpg" width="200" height="200" alt="Factory Balls 4">
+                    <h1 class="game-text">Factory Balls 4</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/subway-surfers/index.html" class="link" data-gameid="subway">
+                <div class="game-icon-container">
+                    <img src="game images/subway surfers.jpg" width="200" height="200" alt="Subway Surfers">
+                    <h1 class="game-text">Subway Surfers</h1>
+                </div>
+            </a>
+
+
+            <a style="color: white" href="Games/zombocalypse.html" class="link" data-gameid="zombo">
+                <div class="game-icon-container">
+                    <img src="game images/zombocalypse.jpg" width="200" height="200" alt="Zombocalypse">
+                    <h1 class="game-text">Zombocalypse</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/johnnyupgrade.html" class="link" data-gameid="upgrade">
+                <div class="game-icon-container">
+                    <img src="game images/johnny upgrade.jpg" width="200" height="200" alt="Johnny Upgrade">
+                    <h1 class="game-text">Johnny Upgrade</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/curveball.html" class="link" data-gameid="curveball">
+                <div class="game-icon-container">
+                    <img src="game images/curveball.png" width="200" height="200" alt="Curveball">
+                    <h1 class="game-text">Curveball</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/curveball.html" class="link" data-gameid="apple">
+                <div class="game-icon-container">
+                    <img src="game images/apple shooter.jpg" width="200" height="200" alt="Apple Shooter">
+                    <h1 class="game-text">Apple Shooter</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/Temple Run 2/index.html" class="link" data-gameid="temple">
+                <div class="game-icon-container">
+                    <img src="game images/temple run 2.jpg" width="200" height="200" alt="Temple Run 2">
+                    <h1 class="game-text">Temple Run 2</h1>
+                </div>
+            </a>
+
+            
+            <a style="color: white" href="Games/gba.js.org-main/gba.js.org-main/index.html" class="link" data-gameid="gba">
+                <div class="game-icon-container">
+                    <img src="game images/gba.jpg" width="200" height="200" alt="GBA Emulator">
+                    <h1 class="game-text">GBA Emulator</h1>
+                </div>
+            </a>
+
+
+            <a style="color: white" href="Games/gba.js.org-main/gba.js.org-main/index.html" class="link" data-gameid="jumping">
+                <div class="game-icon-container">
+                    <img src="game images/jumpingfinn.jpg" width="200" height="200" alt="Adventure Time Jumping Finn">
+                    <h1 class="game-text">Adventure Time: Jumping Finn</h1>
+                </div>
+            </a>
+
+
+            <a style="color: white" href="Games/sm64-main/index.html" class="link" data-gameid="sm64">
+                <div class="game-icon-container">
+                    <img src="game images/mario64.jpg" width="200" height="200" alt="Super Mario 64">
+                    <h1 class="game-text">Super Mario 64</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/neonrider.html" class="link" data-gameid="neon">
+                <div class="game-icon-container">
+                    <img src="game images/neon rider.png" width="200" height="200" alt="Neon Rider">
+                    <h1 class="game-text">Neon Rider</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/mariokartds.html" class="link" data-gameid="mariokartds">
+                <div class="game-icon-container">
+                    <img src="game images/mario kart ds.jpg" width="200" height="200" alt="Mario Kart DS">
+                    <h1 class="game-text">Mario Kart DS</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/pandemic2.html" class="link" data-gameid="pandemic">
+                <div class="game-icon-container">
+                    <img src="game images/pandemic 2.jpg" width="200" height="200" alt="Pandemic 2">
+                    <h1 class="game-text">Pandemic 2</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/poppit.html" class="link" data-gameid="poppit">
+                <div class="game-icon-container">
+                    <img src="game images/poppit.jpg" width="200" height="200" alt="Poppit">
+                    <h1 class="game-text">Poppit</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/srb2web-main/index.html" class="link" data-gameid="sonicroboblast">
+                <div class="game-icon-container">
+                    <img src="game images/sonicrb.jpg" width="200" height="200" alt="Sonic Robo Blast 2">
+                    <h1 class="game-text">Sonic Robo Blast 2</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/mariokart64.html" class="link" data-gameid="mariokart64">
+                <div class="game-icon-container">
+                    <img src="game images/mario kart 64.jpg" width="200" height="200" alt="Mario Kart 64">
+                    <h1 class="game-text">Mario Kart 64</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/marioparty2.html" class="link" data-gameid="marioparty2">
+                <div class="game-icon-container">
+                    <img src="game images/mario party 2.jpg" width="200" height="200" alt="Mario Party 2">
+                    <h1 class="game-text">Mario Party 2</h1>
+                </div>
+            </a>
+
+            <a style="color: white" href="Games/supersmashbros.html" class="link" data-gameid="supersmashbros">
+                <div class="game-icon-container">
+                    <img src="game images/supersmashbros.jpg" width="200" height="200" alt="Super Smash Bros">
+                    <h1 class="game-text">Super Smash Bros</h1>
+                </div>
+            </a>
+
+
+
+            
+        </div>
+
+
+        <footer>
+            <div class="footer-content">
+                <h1>Alexr Games Revamp</h1>
+                <a href="https://discord.com/invite/qNS948agjk" target="_blank"><img id="media" src="discord.png" width="50" height="50" alt="Discord Server"></a>
+                <a href="https://youtube.com/@alexr5153/videos" target="_blank"><img id="media" src="youtube.png" width="50" height="50" alt="YouTube"></a>
+                <p>2024 Alexr Games</p>
+            </div>
+        </footer>
+
+    </div>
+
+    
+    <script>
+         document.addEventListener("DOMContentLoaded", () =>{
+            loadTheme();
+         })
+    </script>
+
+
+
+    
+
+
+</script>
+</body>
+</html>

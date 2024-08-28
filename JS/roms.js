@@ -1,21 +1,21 @@
 document.addEventListener("DOMContentLoaded", () => {
     const roms = [
         {
-            "href": "ROMS/pokemon - ruby version (usa, europe) (rev 2).gba",
+            "href": "roms/pokemon - ruby version (usa, europe) (rev 2).gba",
             "class": "rom",
             "image": "rom images/pokemon ruby.jpg",
             "imagealt": "Pokemon Ruby Version",
             "text": "Pokemon Ruby Version"
         },
         {
-            "href": "ROMS/pokemon - sapphire version (usa, europe) (rev 2).gba",
+            "href": "roms/pokemon - sapphire version (usa, europe) (rev 2).gba",
             "class": "rom",
             "image": "rom images/pokemon sapphire.jpg",
             "imagealt": "Pokemon Sapphire Version",
             "text": "Pokemon Sapphire Version"
         },
         {
-            "href": "ROMS/pokemon - emerald version (usa, europe).gba",
+            "href": "roms/pokemon - emerald version (usa, europe).gba",
             "class": "rom",
             "image": "rom images/pokemon emerald.jpg",
             "imagealt": "Pokemon Emerald Version",
@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
         },
 
         {
-            "href": "ROMS/pokemon - firered version (usa, europe) (rev 1).gba",
+            "href": "roms/pokemon - firered version (usa, europe) (rev 1).gba",
             "class": "rom",
             "image": "rom images/pokemon firered.jpg",
             "imagealt": "Pokemon Firered Version",
@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
         },
 
         {
-            "href": "ROMS/pokemon - leafgreen version (usa, europe) (rev 1).gba",
+            "href": "roms/pokemon - leafgreen version (usa, europe) (rev 1).gba",
             "class": "rom",
             "image": "rom images/pokemon leafgreen.jpg",
             "imagealt": "Pokemon Leafgreen Version",
@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
         {
-            "href": "ROMS/mario kart super circuit (u) [!].gba",
+            "href": "roms/mario kart super circuit (u) [!].gba",
             "class": "rom",
             "image": "rom images/mariokart.jpg",
             "imagealt": "Mario Kart Super Circuit",

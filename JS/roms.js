@@ -1,48 +1,48 @@
 document.addEventListener("DOMContentLoaded", () => {
     const roms = [
         {
-            "href": "ROMS/Pokemon - Ruby Version (USA, Europe) (Rev 2).gba",
+            "href": "ROMS/pokemon - ruby version (usa, europe) (rev 2).gba",
             "class": "rom",
-            "image": "Rom Images/Pokemon Ruby.jpg",
+            "image": "rom images/pokemon ruby.jpg",
             "imagealt": "Pokemon Ruby Version",
             "text": "Pokemon Ruby Version"
         },
         {
-            "href": "ROMS/Pokemon - Sapphire Version (USA, Europe) (Rev 2).gba",
+            "href": "ROMS/pokemon - sapphire version (usa, europe) (rev 2).gba",
             "class": "rom",
-            "image": "Rom Images/Pokemon Sapphire.jpg",
+            "image": "rom images/pokemon sapphire.jpg",
             "imagealt": "Pokemon Sapphire Version",
             "text": "Pokemon Sapphire Version"
         },
         {
-            "href": "ROMS/Pokemon - Emerald Version (USA, Europe).gba",
+            "href": "ROMS/pokemon - emerald version (usa, europe).gba",
             "class": "rom",
-            "image": "Rom Images/Pokemon Emerald.jpg",
+            "image": "rom images/pokemon emerald.jpg",
             "imagealt": "Pokemon Emerald Version",
             "text": "Pokemon Emerald Version"
         },
 
         {
-            "href": "ROMS/Pokemon - FireRed Version (USA, Europe) (Rev 1).gba",
+            "href": "ROMS/pokemon - firered version (usa, europe) (rev 1).gba",
             "class": "rom",
-            "image": "Rom Images/Pokemon Firered.jpg",
+            "image": "rom images/pokemon firered.jpg",
             "imagealt": "Pokemon Firered Version",
             "text": "Pokemon Firered Version"
         },
 
         {
-            "href": "ROMS/Pokemon - LeafGreen Version (USA, Europe) (Rev 1).gba",
+            "href": "ROMS/pokemon - leafgreen version (usa, europe) (rev 1).gba",
             "class": "rom",
-            "image": "Rom Images/Pokemon Leafgreen.jpg",
+            "image": "rom images/pokemon leafgreen.jpg",
             "imagealt": "Pokemon Leafgreen Version",
             "text": "Pokemon Leafgreen Version"
         },
 
 
         {
-            "href": "ROMS/Mario Kart Super Circuit (U) [!].gba",
+            "href": "ROMS/mario kart super circuit (u) [!].gba",
             "class": "rom",
-            "image": "Rom Images/Mariokart.jpg",
+            "image": "rom images/mariokart.jpg",
             "imagealt": "Mario Kart Super Circuit",
             "text": "Mario Kart Super Circuit"
         }

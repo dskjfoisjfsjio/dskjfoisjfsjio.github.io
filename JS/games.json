@@ -2,7 +2,7 @@
     "game": "slope",
     "description": "Slope is the ultimate running game that will put your skills to the test. Speed down on a randomized slope. The farther you go, the faster your ball travels. This game might look simple but playing this will give you extreme adrenaline rush. Just remember to avoid obstacles and those red blocks. Always be on track to get a high score and you might have your name on the leaderboard!",
     "gameid": "slope",
-    "link": "Games/slope.html",
+    "link": "Games/slopeplusweb/slopeplusweb/index.html",
     "image": "game images/slope.jfif"
 },
 

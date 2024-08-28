@@ -42,7 +42,7 @@
     "game": "btd5",
     "description": "Five-star tower defense with unrivaled depth and replayability. Build awesome towers, choose your favorite upgrades, hire cool Special Agents, and pop every last invading Bloon in the best ever version of the most popular tower defense series in history.",
     "gameid": "btd5",
-    "link": "games/btd5.html",
+    "link": "Games/btd5.html",
     "image": "game images/Bloons TD 5.jpg"
   },
 
@@ -103,7 +103,7 @@
     "game": "Potty Racers 3",
     "description": "Potty Racers 3 is the third installment in the Potty Racers series. In this game you can Soar through the skies, perform daring tricks, and upgrade your potty vehicle to unlock even more outrageous stunts. Collect cash and upgrade to reach space.",
     "gameid": "pottyracers3",
-    "link": "games/pottyracers3.html",
+    "link": "Games/pottyracers3.html",
     "image": "game images/pottyracers3.jpg"
   },
 
@@ -558,7 +558,7 @@
   "game": "Shopping Cart Hero 2",
   "description": "Shopping Cart Hero 2 is an addictive online game that challenges players to launch a shopping cart down a ramp and perform stunts while in the air",
   "gameid": "shoppingcarthero2",
-  "link": "games/shoppingcarthero2.html",
+  "link": "Games/shoppingcarthero2.html",
   "image": "game images/shopping cart hero 2.png"
 },
 
@@ -576,7 +576,7 @@
   "game": "Sugar Sugar",
   "description": "Sugar, Sugar is very much a strategic puzzle game. Drawing lines on the screen can help improve motor skills and control. The game also gives players a chance to play around with physics and angles, creating different paths that speed up or slow down the stream depending on the angle they are drawn.",
   "gameid": "sugarsugar",
-  "link": "games/sugarsugar.html",
+  "link": "Games/sugarsugar.html",
   "image": "game images/sugar sugar.png"
 },
 
@@ -584,7 +584,7 @@
   "game": "Sugar Sugar 2",
   "description": " In the sequel to the popular Sugar, Sugar game, you'll try to solve carefully crafted puzzles by sifting sugar into coffee cups. Your job is to draw bridges and well-placed lines to capture each grain.",
   "gameid": "sugarsugar2",
-  "link": "games/sugarsugar2.html",
+  "link": "Games/sugarsugar2.html",
   "image": "game images/sugar sugar 2.png"
 },
 
@@ -641,7 +641,7 @@
   "game": "Age of War",
   "description": "Age of War is an epic base defense strategy game where you fight a continuous war. Keep creating units to protect your base and destroy the enemy. When you earn enough XP, your civilization will evolve through the ages, offering new technologies to utilize in combat.",
   "gameid": "age",
-  "link": "games/ageofwar.html",
+  "link": "Games/ageofwar.html",
   "image": "game images/age of war.jpg"
 },
 
@@ -649,7 +649,7 @@
   "game": "Google Feud",
   "description": "Google Feud is a challenging quiz game that's easy to play, but difficult to master. Many of the answers will surprise, shock, and amuse you, as you try to figure out what people are searching",
   "gameid": "google",
-  "link": "games/googlefeud.html",
+  "link": "Games/googlefeud.html",
   "image": "game images/googlefeud.png"
 },
 
@@ -657,7 +657,7 @@
   "game": "Redball",
   "description": "The original Red Ball game created back in 2008. Guide the Red Ball through 10 levels filled with challenges and obstacles.",
   "gameid": "redball",
-  "link": "games/redball.html",
+  "link": "Games/redball.html",
   "image": "game images/red ball.jpg"
 },
 
@@ -665,7 +665,7 @@
   "game": "Vex",
   "description": "Vex is a jumping game in which you will face many difficult obstacles. There will be several checkpoints throughout the level. can do it without losing a single life?",
   "gameid": "vex",
-  "link": "games/vex.html",
+  "link": "Games/vex.html",
   "image": "game images/vex.jpg"
 },
 
@@ -673,7 +673,7 @@
   "game": "Vex 2",
   "description": "The Vex 2 game is the first sequel to the popular Vex series, continuing the adventure! This game brings back your favorite agile stickman, but this time with even more challenges and fun new features. You'll find yourself in familiar settings but with fresh elements that make every level more thrilling than before.",
   "gameid": "vex2",
-  "link": "games/vex2.html",
+  "link": "Games/vex2.html",
   "image": "game images/vex 2.jpg"
 },
 
@@ -681,7 +681,7 @@
   "game": "The Impossible Quiz",
   "description": "The Impossible Quiz is a 2007 Flash game created by a DeviantArt user known as Splapp-me-do. Noted for its difficulty, the quiz game consists of various trick questions among irreverent humor and references to popular culture",
   "gameid": "quiz",
-  "link": "games/theimpossiblequiz.html",
+  "link": "Games/theimpossiblequiz.html",
   "image": "game images/impossiblequiz.png"
 
 },
@@ -690,7 +690,7 @@
   "game": "Factory Balls",
   "description": "In this puzzle game, your goal is to get the ball to match with the picture on the box. The game gets more difficult as you progress.",
   "gameid": "fb",
-  "link": "games/factoryballs.html",
+  "link": "Games/factoryballs.html",
   "image": "game images/factory balls.jpg"
 },
 
@@ -698,7 +698,7 @@
   "game": "Factory Balls 2",
   "description": "Factory Balls 2 is a puzzle game where your main task is to create balls that should match the ones being requested. At each level, you'll be shown a box with a label in front showing the type of ball that needs to be shipped.",
   "gameid": "fb2",
-  "link": "games/factoryballs2.html",
+  "link": "Games/factoryballs2.html",
   "image": "game images/factory balls 2.jpg"
 },
 
@@ -706,7 +706,7 @@
   "game": "Factory Balls 3",
   "description": "Factory Balls 3 challenges you to plan ahead and think sequentially. The factory is gearing up for even more crazy designs!",
   "gameid": "fb3",
-  "link": "games/factoryballs3.html",
+  "link": "Games/factoryballs3.html",
   "image": "game images/factory balls 3.jpg"
 },
 
@@ -714,7 +714,7 @@
   "game": "Factory Balls 4",
   "description": "Factory Balls 4 is the last installment in the Factory Balls series. In this game, you apply new skills, explore unusual tools and think creatively. The factory is gearing up for more crazy designs. Are you ready to build them all one last time?",
   "gameid": "fb4",
-  "link": "games/factoryballs4.html",
+  "link": "Games/factoryballs4.html",
   "image": "game images/factory balls 4.jpg"
 },
 
@@ -723,7 +723,7 @@
   "game": "Subway Surfers",
   "description": "Play one of the best mobile games ever made right in your browser. In this endless running game, help Jake escape the grumpy inspector and unlock powerups as you progress. (NOTICE: coins do not save.)",
   "gameid": "subway",
-  "link": "games/subway-surfers/index.html",
+  "link": "Games/subway-surfers/index.html",
   "image": "game images/subway surfers.jpg"
 },
 

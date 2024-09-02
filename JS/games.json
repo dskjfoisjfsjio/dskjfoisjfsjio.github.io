@@ -871,10 +871,16 @@
 
 {
   "game": "Earthbound",
-  "description": "ou are Ness, a kid sleeping in his home when a alien comes to you and tells you that you along with three other kids are the only ones who can save the future of Earth.",
+  "description": "You are Ness, a kid sleeping in his home when a alien comes to you and tells you that you along with three other kids are the only ones who can save the future of Earth.",
   "gameid": "earthbound",
   "link": "Games/earthbound.html",
   "image": "game images/earthbound.jpg"
 }
+
+
+
+
+
+
 
 ]

@@ -11,7 +11,7 @@
     "description": "This is a tower defense/strategy game in which players must stop waves of balloons from reaching a goal. Players arrange towers around winding tracks and use tack shooters, ice balls, and boomerangs to pop as many balloons as possible. Balloons disappear in colorful bursts or brief explosions.",
     "gameid": "btd",
     "link": "Games/btd.html",
-    "image": "game images/Btd.jpg"
+    "image": "game images/btd.jpg"
 },
 
 {
@@ -19,7 +19,7 @@
     "description": "Bloons Tower Defense 2 is a popular tower defense game originally released in Flash by Ninja Kiwi. Strategically place your defenses, upgrade your units, and stop all balloons from passing through.",
     "gameid": "btd2",
     "link": "Games/btd2.html",
-    "image": "game images/Btd2.jpg"
+    "image": "game images/btd2.jpg"
 },
 
 {
@@ -43,7 +43,7 @@
     "description": "Five-star tower defense with unrivaled depth and replayability. Build awesome towers, choose your favorite upgrades, hire cool Special Agents, and pop every last invading Bloon in the best ever version of the most popular tower defense series in history.",
     "gameid": "btd5",
     "link": "games/btd5.html",
-    "image": "game images/Bloons TD 5.jpg"
+    "image": "game images/bloons TD 5.jpg"
   },
 
 
@@ -52,7 +52,7 @@
     "description": "Bloons Super Monkey is an arcade Bloons game and the first game in the Bloons Super Monkey series. It is a top-down vertically scrolling shooter in which players take control of the titular Super Monkey as they pop waves of Bloons with a wide arsenal of weapons, unlocking upgrades along the way.",
     "gameid": "bloonssuper",
     "link": "Games/bloonssupermonkey.html",
-    "image": "game images/Bloons Super Monkey.jpg"
+    "image": "game images/bloons super monkey.jpg"
   },
 
   {
@@ -68,7 +68,7 @@
     "description": "In Run 2, you play as a gray alien running through a series of different levels. You must run across platforms while avoiding obstacles and gaps in the floor. If you fall off the stage, the level will reset and you will have to start again.",
     "gameid": "run2",
     "link": "Games/run2.html",
-    "image": "game images/Run 2.jpg"
+    "image": "game images/run 2.jpg"
   },
   {
     "game": "Run 3",
@@ -82,7 +82,7 @@
     "description": "Bloxorz is a classic web-based puzzle game that can supply hours of head-scratching, hair-pulling fun for those who love a good spatial-orientation challenge. The geometry-based game tasks players with moving a rectangular box across a plane, with a goal of getting it to fall through a hole at a specific point.",
     "gameid": "blox",
     "link": "Games/bloxorz.html",
-    "image": "game images/Bloxorz.jpg"
+    "image": "game images/bloxorz.jpg"
   },
   {
     "game": "Potty Racers",
@@ -120,42 +120,42 @@
     "description": "Color Tunnel is a fast-paced 3D arcade game. Speed through the colorful tunnels and avoid the red beams and barriers. How far will you be able to travel along both the inside and the outside of these gaudily patterned tubes?",
     "gameid": "colortunnel",
     "link": "Games/colortunnel.html",
-    "image": "game images/Colortunnel.jpg"
+    "image": "game images/colortunnel.jpg"
   },
   {
     "game": "Crossy Road",
     "description": "Crossy Road is the 8-bit endless arcade hopper that started it all. Collect custom characters and navigate freeways, railroads, rivers and much more. Join over 200 MILLION players worldwide and experience Hipster Whale's massive viral #1 hit!",
     "gameid": "crossyroad",
     "link": "Games/Crossy-Road/CrossyRoad.html",
-    "image": "game images/Crossy Road.jpg"
+    "image": "game images/crossy road.jpg"
   },
   {
     "game": "Duck Life",
     "description": "Duck Life  is the first installment in the Duck Life series, released on February 28th, 2010. In this game, the player trains a duck (later revealed to be Dory) to win races in order to raise enough money to save the farm.",
     "gameid": "ducklife",
     "link": "Games/ducklife.html",
-    "image": "game images/Ducklife.jfif"
+    "image": "game images/ducklife.jfif"
   },
   {
     "game": "Duck Life 2",
     "description": "Duck Life 2 is an adventure game where you train your duck to race in various disciplines such as running, flying, swimming and climbing to be the best duck adventurer in the world.",
     "gameid": "ducklife2",
     "link": "Games/ducklife2.html",
-    "image": "game images/Ducklife2.jfif"
+    "image": "game images/ducklife2.jfif"
   },
   {
     "game": "Duck Life 3 Evolution",
     "description": "Duck Life 3 is a duck racing game featuring genetically modified ducks that evolve as you progress. Train your duck by flying, swimming, climbing, and running in order to win races.",
     "gameid": "ducklife3",
     "link": "Games/ducklife3.html",
-    "image": "game images/Ducklife3.jfif"
+    "image": "game images/ducklife3.jfif"
   },
   {
     "game": "Duck Life 4",
     "description": "Duck Life 4 is a duck racing game set after the ban on genetically modified ducks. A year has passed since the ban on genetically modified ducks and now it's up to you to defeat the world champion.",
     "gameid": "ducklife4",
     "link": "Games/ducklife4.html",
-    "image": "game images/Ducklife4.jfif"
+    "image": "game images/ducklife4.jfif"
   },
   {
     "game": "Duck Life Treasure Hunt",
@@ -169,14 +169,14 @@
     "description": "Happy Wheels is a side-scrolling ragdoll physics-based platform browser game developed and published by Fancy Force. Created in 2010 by video game designer Jim Bonacci, the game features several player characters using various and often atypical vehicles to traverse the game's many user-generated levels.",
     "gameid": "happywheels",
     "link": "Games/happywheels.html",
-    "image": "game images/Happy Wheelsa.jpg"
+    "image": "game images/happy wheelsa.jpg"
   },
   {
     "game": "Baldi's Basics",
     "description": "Baldi's Basics is a puzzle horror game which satirizes 1990s educational games. The player has to locate seven notebooks scattered around a school without being caught by Baldi.",
     "gameid": "baldi",
     "link": "Games/baldis-basics/Baldi.html",
-    "image": "game images/Baldi.jpg"
+    "image": "game images/baldi.jpg"
   },
   {
     "game": "Fireboy and Watergirl",
@@ -190,7 +190,7 @@
     "description": "Super Mario Flash is based on the Nintendo game Super Mario Bros., and also combines several features of different games such Super Mario Bros. 3.",
     "gameid": "mario",
     "link": "Games/supermarioflash.html",
-    "image": "game images/Super Mario Flash.jpg"
+    "image": "game images/super mario flash.jpg"
   },
   {
     "game": "Learn to Fly",
@@ -204,7 +204,7 @@
     "description": "Learn to Fly 2 is a launcher game where you play as a penguin attempting to fly using a ramp and various gadgets. It is the sequel of the highly-rated game Learn to Fly. In this game, you play a penguin trying to launch himself in the air to fly.",
     "gameid": "learntofly2",
     "link": "Games/learntofly2.html",
-    "image": "game images/Learn to Fly 2.jpg"
+    "image": "game images/learn to fly 2.jpg"
   },
 
   {
@@ -298,7 +298,7 @@
     "description": "Raft Wars is a level-based shooting game created by Martijn Kunst, where the player control two characters, Simon and his brother, who will need to defend their treasure from different kinds of enemies.",
     "gameid": "raftwars",
     "link": "Games/raftwars.html",
-    "image": "game images/Raft wars.jpg"
+    "image": "game images/raft wars.jpg"
   },
   {
     "game": "Fancy Pants",
@@ -425,7 +425,7 @@
     "description": "Papa has left you in charge of his prized burger-building establishment. You now have to take the orders, then fry and build the burgers! Be a good burger flipper and make Papa Louie proud.",
     "gameid": "papasburger",
     "link": "Games/papasburgeria.html",
-    "image": "game images/Papas burgeria.jpg"
+    "image": "game images/papas burgeria.jpg"
 },
 
 {
@@ -775,7 +775,7 @@
   "description": "Emulate your favorite classic Gameboy Games on this GBA Emulator. (All credits goes to ayvacs for this emulator. Please show them they support they deserve)",
   "gameid": "gba",
   "link": "Games/gba.js.org-main/gba.js.org-main/index.html",
-  "image": "game images/GBA.jpg"
+  "image": "game images/gba.jpg"
 },
 
 {

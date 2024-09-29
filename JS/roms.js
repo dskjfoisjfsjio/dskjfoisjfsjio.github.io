@@ -45,7 +45,83 @@ document.addEventListener("DOMContentLoaded", () => {
             "image": "rom images/mariokart.jpg",
             "imagealt": "Mario Kart Super Circuit",
             "text": "Mario Kart Super Circuit"
-        }
+        },
+
+         {
+            "href": "Games/N64/Mario Kart 64 (USA).z64",
+            "class": "rom",
+            "image": "game images/mario kart 64.jpg",
+            "imagealt": "Mario Kart 64",
+            "text": "Mario Kart 64"
+        },
+
+
+        {
+            "href": "Games/N64/Mario Party 2 (USA).z64",
+            "class": "rom",
+            "image": "game images/mario party 2.jpg",
+            "imagealt": "Mario Party 2",
+            "text": "Mario Party 2"
+        },
+
+
+        {
+            "href": "Games/N64/Pokemon Stadium (USA).z64",
+            "class": "rom",
+            "image": "game images/pokemonstadium.jpg",
+            "imagealt": "Pokemon Stadium",
+            "text": "Pokemon Stadium"
+        },
+
+        {
+            "href": "Games/N64/Pokemon Stadium 2 (USA).z64",
+            "class": "rom",
+            "image": "game images/pokemonstadium2.jpg",
+            "imagealt": "Pokemon Stadium 2",
+            "text": "Pokemon Stadium 2"
+        },
+
+        {
+            "href": "Games/N64/Super Smash Bros. (U) [!].z64",
+            "class": "rom",
+            "image": "game images/supersmashbros.jpg",
+            "imagealt": "Super Smash Bros",
+            "text": "Super Smash Bros"
+        },
+
+        {
+            "href": "Games/NES/Punch-Out!! (USA).nes",
+            "class": "rom",
+            "image": "game images/punchout.jpg",
+            "imagealt": "Punch Out",
+            "text": "Punch Out!!"
+        },
+
+        
+        {
+            "href": "Games/NES/SMBros3.nes",
+            "class": "rom",
+            "image": "game images/super mario bros 3.jpg",
+            "imagealt": "Super Mario Bros 3",
+            "text": "Super Mario Bros 3"
+        },
+
+        {
+            "href": "Games/NDS/mario kart ds.nds",
+            "class": "rom",
+            "image": "game images/mario kart ds.jpg",
+            "imagealt": "Mario Kart DS",
+            "text": "Mario Kart DS"
+        },
+
+        
+        {
+            "href": "Games/NDS/Namco Museum DS (USA).nds",
+            "class": "rom",
+            "image": "game images/namco.jpg",
+            "imagealt": "Namco Museum",
+            "text": "Namco Museum"
+        },
     ];
 
     function createIcons() {

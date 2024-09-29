@@ -560,14 +560,14 @@
   "description": "Shopping Cart Hero is an arcade game that lets you run, jump on your cart and perform combined tricks!",
   "gameid": "shoppingcarthero",
   "link": "Games/shoppingcarthero.html",
-  "image": "game images/shopping cart hero 2.png"
+  "image": "game images/shopping cart hero.png"
 },
 
 {
   "game": "Shopping Cart Hero 2",
   "description": "Shopping Cart Hero 2 is an addictive online game that challenges players to launch a shopping cart down a ramp and perform stunts while in the air",
   "gameid": "shoppingcarthero2",
-  "link": "games/shoppingcarthero2.html",
+  "link": "Games/shoppingcarthero2.html",
   "image": "game images/shopping cart hero 2.png"
 },
 
@@ -650,7 +650,7 @@
   "game": "Age of War",
   "description": "Age of War is an epic base defense strategy game where you fight a continuous war. Keep creating units to protect your base and destroy the enemy. When you earn enough XP, your civilization will evolve through the ages, offering new technologies to utilize in combat.",
   "gameid": "age",
-  "link": "games/ageofwar.html",
+  "link": "Games/ageofwar.html",
   "image": "game images/age of war.jpg"
 },
 
@@ -666,7 +666,7 @@
   "game": "Redball",
   "description": "The original Red Ball game created back in 2008. Guide the Red Ball through 10 levels filled with challenges and obstacles.",
   "gameid": "redball",
-  "link": "games/redball.html",
+  "link": "Games/redball.html",
   "image": "game images/red ball.jpg"
 },
 
@@ -674,7 +674,7 @@
   "game": "Redball 2",
   "description": " Red Ball 2 is here, and he has lost his beloved crown. Help him play through puzzles, cannons, water, pins, toxic waste, invisible platforms, boats and much, much more on his quest to find the crown.",
   "gameid": "redball2",
-  "link": "games/redball2.html",
+  "link": "Games/redball2.html",
   "image": "game images/red ball 2.jpg"
 },
 
@@ -682,7 +682,7 @@
   "game": "Redball 3",
   "description": "The original Red Ball game created back in 2008. Guide the Red Ball through 10 levels filled with challenges and obstacles.",
   "gameid": "redball3",
-  "link": "games/redball3.html",
+  "link": "Games/redball3.html",
   "image": "game images/red ball 3.jpg"
 },
 
@@ -907,7 +907,7 @@
   "game": "Connect 4",
   "description": "Play the classic connect 4 board game right here on your computer! Choose a color between blue or yellow, and your goal is to get 4 disks connected in a row.",
   "gameid": "connect4",
-  "link": "games/connect4.html",
+  "link": "Games/connect4.html",
   "image": "game images/connect 4.jpg"
 },
 
@@ -915,7 +915,7 @@
   "game": "Deal or No Deal",
   "description": "What's Your Number? Try your luck in finding the $1,000,000 briefcase in this game based on the hit TV game show!",
   "gameid": "dealornodeal",
-  "link": "games/dealornodeal.html",
+  "link": "Games/dealornodeal.html",
   "image": "game images/deal or no deal.jpg"
 },
 
@@ -923,7 +923,7 @@
   "game": "Pacxon",
   "description": "Cut off areas to capture the ghosts and fill up the board in this Pacman themed Qix/Xonix-like game. You'll need to fill up at least 80% of the board to complete a level",
   "gameid": "pacxon",
-  "link": "games/pacxon.html",
+  "link": "Games/pacxon.html",
   "image": "game images/pacxon.jpg"
 },
 
@@ -931,7 +931,7 @@
   "game": "Pokemon Diamond",
   "description": "The Pokemon Diamond Version Nintendo DS game takes you to the Sinnoh region to catch, train, and battle Pokemon while uncovering the mystery of the Legendary Pokemon Dialga",
   "gameid": "pokemondiamond",
-  "link": "games/pokemondiamond.html",
+  "link": "Games/pokemondiamond.html",
   "image": "game images/pokemondiamond.jpg"
 },
 
@@ -939,7 +939,7 @@
   "game": "Pokemon Pearl",
   "description": "The Pokemon Pearl Version Nintendo DS game takes you to the Sinnoh region to catch, train, and battle Pokemon while uncovering the mystery of the Legendary Pokemon Palkia",
   "gameid": "pokemonpearl",
-  "link": "games/pokemonpearl.html",
+  "link": "Games/pokemonpearl.html",
   "image": "game images/pokemonpearl.jpg"
 },
 
@@ -947,7 +947,7 @@
   "game": "New Super Mario Bros",
   "description": "Play as Mario or Luigi in this Nintendo DS game. Your ultimate goal is to save princess peach who has by kidnapped by Bowser jr. Defeat Bowser jr. to save the princess.",
   "gameid": "newsupermariobros",
-  "link": "games/newsupermariobros.html",
+  "link": "Games/newsupermariobros.html",
   "image": "game images/newmariobros.jpg"
 },
 
@@ -956,7 +956,7 @@
   "game": "Pokemon Stadium",
   "description": "Pokémon Stadium lets you stage Pokémon battles in a whole new arena--on your Nintendo 64! See all 150 Pokémon execute their attacks in full 3-D, and create your own custom stickers!",
   "gameid": "pokemonstadium",
-  "link": "games/pokemonstadium.html",
+  "link": "Games/pokemonstadium.html",
   "image": "game images/pokemonstadium.jpg"
 },
 
@@ -964,7 +964,7 @@
   "game": "Pokemon Stadium 2",
   "description": "What can you expect from the sequel to one of the favorite Nintendo 64 games of 2000? A lot. Pokémon Stadium 2 comes with four new tournaments, 12 new minigames, and lots of fun extras, like special Pokéquizzes to test your level of mastery. And you're sure to find your favorite monsters, because there are 249 Pokémon are present in the game.",
   "gameid": "pokemonstadium2",
-  "link": "games/pokemonstadium2.html",
+  "link": "Games/pokemonstadium2.html",
   "image": "game images/pokemonstadium2.jpg"
 },
 
@@ -972,7 +972,7 @@
   "game": "Legend of Zelda Link to the Past",
   "description": "On a dark and stormy night, young Link embarks on an adventure he – and you – will never forget! Princess Zelda has been taken prisoner and an evil wizard is attempting to unleash Ganon, the king of darkness. Only Link has the courage to save Hyrule!",
   "gameid": "linktothepast",
-  "link": "games/linktothepast.html",
+  "link": "Games/linktothepast.html",
   "image": "game images/linktothepast.jpg"
 },
 
@@ -981,7 +981,7 @@
   "game": "Punch Out",
   "description": "Punch-Out!! for the NES is a classic boxing game that brings an arcade-style punch to your living room. You play as Little Mac, a scrappy underdog fighter with a big heart and even bigger dreams of becoming the world champion!",
   "gameid": "punchout",
-  "link": "games/punchout.html",
+  "link": "Games/punchout.html",
   "image": "game images/punchout.jpg"
 },
 
@@ -989,7 +989,7 @@
   "game": "Namco Museum",
   "description": "Namco Bandai brings its classic roster to the Nintendo DS, giving fans a handheld dose of gaming history! Namco Museum DS allows players a chance to enjoy their favorite classics on the next generation of handhelds. In addition to the included legendary roster, Namco Museum DS also brings an updated version of fan favorite, Pac-Man Vs. Never before available as a separate product, this present day remake of Pac-Man headlines this Namco Museum, bringing classic gameplay with a twist.",
   "gameid": "namco",
-  "link": "games/namcomuseum.html",
+  "link": "Games/namcomuseum.html",
   "image": "game images/namco.jpg"
 },
 
@@ -997,7 +997,7 @@
   "game": "Geometry Dash",
   "description": "Jump and fly your way through danger in this rhythm-based action platformer!",
   "gameid": "geometry",
-  "link": "games/dash.html",
+  "link": "Games/dash.html",
   "image": "game images/geometrydash.jpg"
 },
 
@@ -1006,7 +1006,7 @@
   "game": "Minecraft",
   "description": "Minecraft is a 2011 sandbox game developed and published by Mojang Studios. Originally created by Markus Notch Persson using the Java programming language, the first public test build was released on 17 May 2009.",
   "gameid": "minecraft",
-  "link": "games/minecraft/index.html",
+  "link": "Games/minecraft/index.html",
   "image": "game images/minecraft.avif"
 },
 
@@ -1014,7 +1014,7 @@
   "game": "Basketball Stars",
   "description": "Basketball Stars is a 2-player basketball game created by Madpuffers. Shoot b-ball with the likes of LeBron James, James Harden, and Stephen Curry in Basketball Stars! You can play solo or with a friend as a variety of legendary basketball players.",
   "gameid": "stars",
-  "link": "games/basketballstars.html",
+  "link": "Games/basketballstars.html",
   "image": "game images/basketballlegends.jpg"
 },
 
@@ -1022,7 +1022,7 @@
   "game": "Bad Piggies",
   "description": "OiNk! Build makeshift contraptions from a huge collection of parts and make it to the goal without blowing your vehicle to pieces!",
   "gameid": "piggies",
-  "link": "games/badpiggies.html",
+  "link": "Games/badpiggies.html",
   "image": "game images/bad piggies.jpg"
 },
 
@@ -1030,7 +1030,7 @@
   "game": "Nyan Cat Fly",
   "description": "Guide Nyan Cat through the galaxy in his never-ending quest for YUMMIES! Eat yummies! Avoid veggies! Get a high score! Customize your Nyan Cat!",
   "gameid": "nyan",
-  "link": "games/nyancat.html",
+  "link": "Games/nyancat.html",
   "image": "game images/nyancat.jpg"
 },
 
@@ -1038,7 +1038,7 @@
   "game": "Minecraft Tower Defense",
   "description": "Set your path, pick your weapons, and DEFEND. In this exciting tower defense game, you have to defend your base from evil characters such as Creepers. Upgrade and build more defense weapons to stop the enemies",
   "gameid": "minecrafttower",
-  "link": "games/minecrafttowerdefense.html",
+  "link": "Games/minecrafttowerdefense.html",
   "image": "game images/minecrafttower.jpg"
 },
 
@@ -1047,7 +1047,7 @@
   "game": "Tomb of the Mask",
   "description": "Tomb of the Mask is an arcade game with an infinite procedurally generated vertical labyrinth. Seeking for adventure you get into a tomb where you find a strange mask. You put it on and suddenly realize that you can now climb walls - easily and promptly. And that's when all the fun begins.",
   "gameid": "tomb",
-  "link": "games/totm/index.html",
+  "link": "Games/totm/index.html",
   "image": "game images/tombofthemask.png"
 },
 
@@ -1055,7 +1055,7 @@
   "game": "1v1lol",
   "description": "1v1.lol is a competitive online third-person shooter where you build your way around the map tactically. You can build platforms, ramps, and walls to aid your defenses and gain an advantage. The main game mode is 1v1 battle royale, where the winner is the last player standing.",
   "gameid": "1v1",
-  "link": "games/1v1.lol/index.html",
+  "link": "Games/1v1.lol/index.html",
   "image": "game images/1v1lol.jpg"
 },
 
@@ -1063,7 +1063,7 @@
   "game": "Retro Bowl",
   "description": "Retro Bowl is the perfect game for the armchair quarterback to finally prove a point. Presented in a glorious retro style, the game has simple roster management, including press duties and the handling of fragile egos, while on the field you get to call the shots. Can you pass the grade and take your team all the way to the ultimate prize? Can you win the Retro Bowl?",
   "gameid": "retro",
-  "link": "games/retro-bowl/index.html",
+  "link": "Games/retro-bowl/index.html",
   "image": "game images/retrobowl.jpg"
 },
 
@@ -1071,7 +1071,7 @@
   "game": "Cookie Clicker",
   "description": "Cookie Clicker is a game about making an absurd amount of cookies. To help you in this endeavor, you will recruit a wide variety of helpful cookie makers, like friendly Grandmas, Farms, Factories, and otherworldly Portals.",
   "gameid": "cookie",
-  "link": "games/cookie-clicker/index.html",
+  "link": "Games/cookie-clicker/index.html",
   "image": "game images/cookieclicker.jpg"
 },
 
@@ -1079,7 +1079,7 @@
   "game": "Paper.io 2",
   "description": "Welcome to the next level of addictive and thrilling gameplay with Paper.io 2! Enter a colorful and dynamic world where strategy, skill, and cunning are your greatest allies. Prepare to embark on an epic journey of conquest as you strive to dominate the virtual realm and become the ultimate champion!",
   "gameid": "paperio",
-  "link": "games/paperio2/index.html",
+  "link": "Games/paperio2/index.html",
   "image": "game images/paperio2.jpg"
 }
 

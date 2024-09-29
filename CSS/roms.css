@@ -1,11 +1,11 @@
 body{
     padding-top: 5%;
-    background-image: url(v.gif);
+    background: linear-gradient(179.4deg, rgb(12, 20, 69) -16.9%, rgb(71, 30, 84) 119.9%);
+    background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
     padding-bottom: 20%;
 }
 
@@ -105,8 +105,6 @@ body::-webkit-scrollbar-thumb {
   z-index: 1;
 }
 
-
-
 .nav-bar {
   display: flex;
   justify-content: center; 
@@ -127,10 +125,17 @@ body::-webkit-scrollbar-thumb {
   display: inline-block; 
 }
 
-
 .btn:hover {
   background-color: gray; 
   box-shadow: 1px 1px 15px;
+}
+
+.btn .icon {
+  margin-left: 8px; 
+}
+
+.btn:hover .icon {
+  transform: scale(1.1); 
 }
 
 

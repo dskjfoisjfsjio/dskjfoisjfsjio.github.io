@@ -704,6 +704,22 @@
 },
 
 {
+  "game": "Vex 3",
+  "description": "Vex 3 is the third platform game in the Vex series. The game is full of twists and turns, with a labyrinth of deadly devices and traps to navigate on each level. Avoid the spinning blades, spikes, and traps to make your way to the next act!",
+  "gameid": "vex3",
+  "link": "VEX/vex3/index.html",
+  "image": "game images/vex 3.jpg"
+},
+
+{
+  "game": "Vex 4",
+  "description": "Vex 4 is a fast-paced, challenging platform adventure game where you play as a stickman who must navigate obstacles to reach flags and checkpoints",
+  "gameid": "vex4",
+  "link": "VEX/vex3/vex4/index.html",
+  "image": "game images/vex 4.jpg"
+},
+
+{
   "game": "The Impossible Quiz",
   "description": "The Impossible Quiz is a 2007 Flash game created by a DeviantArt user known as Splapp-me-do. Noted for its difficulty, the quiz game consists of various trick questions among irreverent humor and references to popular culture",
   "gameid": "quiz",

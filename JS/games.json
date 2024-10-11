@@ -1081,12 +1081,14 @@
   "gameid": "paperio",
   "link": "Games/paperio2/index.html",
   "image": "game images/paperio2.jpg"
+},
+
+{
+  "game": "Bitlife",
+  "description": "BitLife is a popular life simulation game that allows players to experience a virtual life through various choices and decisions. Players navigate their character's life by making choices that impact their relationships, careers, and overall well-being.",
+  "gameid": "bitlife",
+  "link": "Games/bitlife-main/bitlife-main/index.html",
+  "image": "game images/bitlife.webp"
 }
-
-
-
-
-
-
 
 ]

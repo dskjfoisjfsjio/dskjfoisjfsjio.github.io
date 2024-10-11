@@ -11,13 +11,12 @@
     <script src="JS/themes.js"></script>
 </head>
 <body>
-    <div class="container">
-        <div class="nav">
+
+       <div class="container">
+        <header class="nav">
             <nav class="nav-bar">
                 <a class="btn" href="index.html">Home <span class="icon"><i class="fa-solid fa-house"></i></span></a>
-                <a class="btn" href="games.html">
-                    Games <span class="icon"><i class="fa-solid fa-gamepad"></i></span>
-                </a>
+                <a class="btn" href="games.html">Games <span class="icon"><i class="fa-solid fa-gamepad"></i></span></a>
                 <a style="border-color: greenyellow;" class="btn" href="about.html">About <span class="icon"><i class="fa-solid fa-question"></i></span></a>
                 <a class="btn" href="themes.html">Themes <span class="icon"><i class="fa-solid fa-image"></i></span></a>
                 <a class="btn" href="full.html">Full Changelog <span class="icon"><i class="fa-solid fa-exclamation"></i></span></a>
@@ -25,50 +24,46 @@
                 <a class="btn" href="suggest.html">Suggest <span class="icon"><i class="fa-solid fa-globe"></i></span></a>
                 <a class="btn" href="report.html">Report Bugs <span class="icon"><i class="fa-solid fa-bug"></i></span></a>
             </nav>
-        </div>
+        </header>
 
-
-
-        <div class="about-container">
-            <div class="header">
+        <main class="about-container">
+            <section class="header">
                 <h1>About</h1>
-            </div>
+            </section>
 
-            <div class="info">
-                <p>Alexr Games Revamp offers many classic games such as Slope, Bloons Tower Defense, Pacman etc. On this website, you can access your favorite games at school/work without the site being blocked!</p>
+            <section class="info">
+                <p>Alexr Games Revamp offers many classic games such as Slope, Bloons Tower Defense, Pacman, etc. On this website, you can access your favorite games at school/work without the site being blocked!</p>
 
-
-
-                <h1>
-                    Other Projects
-                </h1>
+                <h2>Other Projects</h2>
                 <p>These other unblocked games sites I have created have been discontinued, but you can still visit them.</p>
                 <a class="social" href="https://sites.google.com/view/hotline-games" target="_blank">Hotline Games</a>
                 <a class="social" href="https://alexrgames.netlify.app" target="_blank">Old Alexr Games</a>
-            </div>
-        </div>
-    
+            </section>
+        </main>
         
-       
-    
-    
         <footer>
-            <div class="footer-content">
-                <h1>Alexr Games Revamp</h1>
-                <a href="https://discord.com/invite/qNS948agjk" target="_blank"><img id="media" src="discord.png" width="50" height="50" alt="Discord Server"></a>
-                <a href="https://youtube.com/@alexr5153/videos" target="_blank"><img id="media" src="youtube.png" width="50" height="50" alt="YouTube"></a>
-                <p>2024 Alexr Games</p>
+            <div class="footer-container">
+                <div class="logo-section">
+                    <h1>Alexr Games Revamp</h1>
+                </div>
+                <div class="social-section">
+                    <a href="https://discord.com/invite/qNS948agjk" target="_blank">
+                        <img src="discord.png" alt="Discord Server">
+                    </a>
+                    <a href="https://youtube.com/@alexr5153/videos" target="_blank">
+                        <img src="youtube.png" alt="YouTube">
+                    </a>
+                </div>
+                <div class="info-section">
+                    <p>&copy; 2024 Alexr Games</p>
+                </div>
             </div>
         </footer>
     
-    
-    
-    
-    
         <script>
-            document.addEventListener("DOMContentLoaded", () =>{
-           loadTheme();
-        })
+            document.addEventListener("DOMContentLoaded", () => {
+                loadTheme();
+            });
         </script>
 
     </div>

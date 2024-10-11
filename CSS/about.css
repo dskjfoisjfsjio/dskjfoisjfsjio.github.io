@@ -1,5 +1,5 @@
 body {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Poppins', sans-serif;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -7,20 +7,10 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
   color: white;
-}
-
-
-.nav {
-  background-color: black;
-  width: 100%;
-  position: fixed; 
-  top: 0; 
-  left: 0;
-  z-index: 1;
+  animation: fadeIn 2s ease-in-out;
 }
 
 
@@ -67,10 +57,7 @@ body {
   transform: scale(1.1); 
 }
 
-
-
 h1 {
-  color: white;
   font-size: 2.5em;
   margin: 20px 0;
 }
@@ -78,59 +65,97 @@ h1 {
 .about-container {
   background: rgba(0, 0, 0, 0.6);
   text-align: center;
-  height: auto;
-  color: white;
   border-radius: 15px;
   padding: 20px;
   margin-top: 90px;
   max-width: 1200px;
-
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  transition: transform 0.5s ease, box-shadow 0.5s ease;
 }
 
-.social{
+.about-container:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.8);
+}
+
+.social {
   color: blue;
+  transition: color 0.3s;
 }
 
-.social:hover{
+.social:hover {
   color: red;
 }
 
 footer {
-  background: rgba(0, 0, 0, 0.6);
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 20px;
-  color: white;
-  padding: 15px;
+  background: rgba(0, 0, 0, 0.9);
+  padding: 20px 0;
   width: 100%;
-  position: fixed;
+  position: fixed; 
   bottom: 0;
   left: 0;
-  z-index: 1000;
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.5);
+  animation: slideUp 1s ease-in-out forwards;
+  transform: translateY(100%);
 }
 
-footer .footer-content {
+@keyframes slideUp {
+  to {
+      transform: translateY(0%);
+  }
+}
+
+.footer-container {
   display: flex;
+  justify-content: space-around;
   align-items: center;
-  gap: 15px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  color: white;
+  text-align: center;
 }
 
-footer img {
-  border: none;
-  transition: transform 0.5s ease;
+.logo-section h1 {
+  font-size: 1.8em;
+  font-weight: bold;
+  margin: 0;
 }
 
-footer img:hover {
+.social-section {
+  display: flex;
+  gap: 20px;
+}
+
+.social-section a {
+  text-decoration: none;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.social-section a:hover {
+  opacity: 0.8;
   transform: scale(1.1);
 }
+
+.social-section img {
+  width: 60px;
+  height: 60px;
+}
+
+.info-section p {
+  margin: 0;
+  font-size: 1em;
+  color: #cccccc;
+}
+
 
 @media only screen and (max-width: 480px) {
 
   body{
+    padding-top: 40%;
     padding-bottom: 50%;
-    padding-top: 50%;
   }
+
   .nav-bar {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
@@ -156,6 +181,15 @@ footer img:hover {
 }
 
 
+  .about-container {
+      margin-top: 70px;
+      padding: 15px;
+  }
+
+  h1 {
+      font-size: 2em;
+      margin: 15px 0;
+  }
 }
 
 @media (orientation: landscape) and (min-width: 600px) {

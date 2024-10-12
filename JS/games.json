@@ -7,7 +7,7 @@
 },
 
 {
-    "game": "bloons tower defense",
+    "game": "Bloons Tower Defense",
     "description": "This is a tower defense/strategy game in which players must stop waves of balloons from reaching a goal. Players arrange towers around winding tracks and use tack shooters, ice balls, and boomerangs to pop as many balloons as possible. Balloons disappear in colorful bursts or brief explosions.",
     "gameid": "btd",
     "link": "Games/btd.html",
@@ -15,7 +15,7 @@
 },
 
 {
-    "game": "bloons tower defense 2",
+    "game": "Bloons Tower Defense 2",
     "description": "Bloons Tower Defense 2 is a popular tower defense game originally released in Flash by Ninja Kiwi. Strategically place your defenses, upgrade your units, and stop all balloons from passing through.",
     "gameid": "btd2",
     "link": "Games/btd2.html",
@@ -23,7 +23,7 @@
 },
 
 {
-    "game": "bloons tower defense 3",
+    "game": "Bloons Tower Defense 3",
     "description": "Bloons Tower Defense 3 (also called Bloons Tower Defense 3 or BTD3) is the sequel to Bloons Tower Defense 2. It's the third tower defense game in the Bloons series and was released in September 2008. In addition to reprising all the features seen in BTD2, BTD3 has more content including new towers, new Bloons, and eight new tracks that can be selected independently of the difficulty level.",
     "gameid": "btd3",
     "link": "Games/btd3.html",
@@ -31,7 +31,7 @@
 },
 
 {
-    "game": "bloons tower defense 4",
+    "game": "Bloons Tower Defense 4",
     "description": "Bloons Tower Defense 4 is a classic tower defense game initially released in Flash. Defend the path by placing various defenses tactically around the map. Upgrade them and unlock more as you get further through the game.",
     "gameid": "btd4",
     "link": "Games/btd4.html",
@@ -39,7 +39,7 @@
   },
 
   {
-    "game": "bloons tower defense 5",
+    "game": "Bloons Tower Defense 5",
     "description": "Five-star tower defense with unrivaled depth and replayability. Build awesome towers, choose your favorite upgrades, hire cool Special Agents, and pop every last invading Bloon in the best ever version of the most popular tower defense series in history.",
     "gameid": "btd5",
     "link": "Games/btd5.html",
@@ -48,7 +48,7 @@
 
 
   {
-    "game": "bloons super monkey",
+    "game": "Bloons Super Monkey",
     "description": "Bloons Super Monkey is an arcade Bloons game and the first game in the Bloons Super Monkey series. It is a top-down vertically scrolling shooter in which players take control of the titular Super Monkey as they pop waves of Bloons with a wide arsenal of weapons, unlocking upgrades along the way.",
     "gameid": "bloonssuper",
     "link": "Games/bloonssupermonkey.html",
@@ -175,7 +175,7 @@
     "game": "Baldi's Basics",
     "description": "Baldi's Basics is a puzzle horror game which satirizes 1990s educational games. The player has to locate seven notebooks scattered around a school without being caught by Baldi.",
     "gameid": "baldi",
-    "link": "Games/baldis-basics/Baldi.html",
+    "link": "Games/baldis-basics/baldi.html",
     "image": "game images/baldi.jpg"
   },
   {

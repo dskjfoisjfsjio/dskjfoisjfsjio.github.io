@@ -1034,6 +1034,12 @@
       "name": "DOWN IN OHIO",
       "color": "#000000",
       "mp3": "sounds/downinohio.mp3"
+    },
+
+      {
+      "name": "Luigi Scream",
+      "color": "#00FF00",
+      "mp3": "sounds/luigifallingburningsound.mp3"
     }
   ]
 }

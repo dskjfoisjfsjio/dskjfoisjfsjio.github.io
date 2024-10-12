@@ -1,7 +1,7 @@
 [{
 	"id":500,
 	"name":"The Conscious Ninja",
-	"image":"achievement/TheConsciousNinja.png",
+	"image":"achievement/theconsciousninja.png",
 	"description":"Beat Plan A plan 2 without knocking out any cracked tiles.",
 	"payout":50,
 	"levelID":156,

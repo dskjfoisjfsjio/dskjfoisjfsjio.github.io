@@ -16,7 +16,7 @@
 	"waitFor":"explore/homewards0.json"
 },
 {
-	"path":"explore/homeAchieve1.json",
+	"path":"explore/homeachieve1.json",
 	"condition":{
 		"path":"home0",
 		"pathProgress":0
@@ -42,7 +42,7 @@
 	"waitFor":"explore/onwards0.json"
 },
 {
-	"path":"explore/onwardsAchieve.json",
+	"path":"explore/onwardsachieve.json",
 	"condition":{
 		"path":"wormholeN",
 		"pathProgress":1
@@ -51,12 +51,12 @@
 	"version":4
 },
 {
-	"path":"explore/earlyAchieve.json",
+	"path":"explore/earlyachieve.json",
 	"type":3,
 	"version":10
 },
 {
-	"path":"infinite/infiniteAchieve.json",
+	"path":"infinite/infiniteachieve.json",
 	"type":3,
 	"version":7,
 	"build":23773

@@ -1,9 +1,9 @@
 [{
-	"path":"autoContent.json",
+	"path":"autocontent.json",
 	"type":0
 },
 {
-	"path":"explore/homeAchieve.json",
+	"path":"explore/homeachieve.json",
 	"condition":{
 		"path":"home0",
 		"pathProgress":0

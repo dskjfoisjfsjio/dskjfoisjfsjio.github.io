@@ -1105,6 +1105,30 @@
   "gameid": "bitlife",
   "link": "Games/bitlife-main/bitlife-main/index.html",
   "image": "game images/bitlife.webp"
+},
+
+    {
+  "game": "Ovo",
+  "description": "OvO is a fast-paced platformer where you use precise parkour and free running skills to complete each level. The levels feature increasingly tricky obstacles and you’ll need to do various jumps, slides, and dives to avoid them.",
+  "gameid": "ovo",
+  "link": "Games/ovo/index.html",
+  "image": "game images/ovo.png"
+},
+
+        {
+  "game": "2048",
+  "description": "Join the tiles and reach 2048! Experience this popular and addictive puzzle game in its original version, available to play completely free",
+  "gameid": "2048",
+  "link": "Games/2048/index.html",
+  "image": "game images/2048.png"
+},
+
+        {
+  "game": "Superhot",
+  "description": "SUPERHOT is the first person shooter where time moves only when you move. With its mesmerising gameplay and unique, stylized graphics SUPERHOT aims to finally add something new and disruptive to the FPS genre.",
+  "gameid": "superhot",
+  "link": "Games/superhot/index.html",
+  "image": "game images/superhot.jpg"
 }
 
 ]

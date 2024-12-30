@@ -16,10 +16,10 @@ if (!window.config.unityWebglLoaderUrl) {
         minor = versionSplit[1];
     switch (year) {
         case "2019":
-            window.config.unityWebglLoaderUrl = 1 === minor ? "unity,js" : "unity.js";
+            window.config.unityWebglLoaderUrl = 1 === minor ? "./loaders/v2/unity/static/UnityLoader.2019.1.js" : "./loaders/v2/unity/static/UnityLoader.2019.2.js";
             break;
         default:
-            window.config.unityWebglLoaderUrl = "unity.js"
+            window.config.unityWebglLoaderUrl = "./loaders/v2/unity/static/UnityLoader.js"
     }
 }
 var sdkScript = document.createElement("script");

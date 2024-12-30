@@ -2,7 +2,7 @@
 "companyName": "Kiloo Games",
 "productName": "Subway Surfers",
 "productVersion": "1.94.0",
-"dataUrl": "stpetersburg.data.unityweb",
+"dataUrl": "StPetersburg.data.unityweb",
 "wasmCodeUrl": "StPetersburg.wasm.code.unityweb",
 "wasmFrameworkUrl": "StPetersburg.wasm.framework.unityweb",
 "asmCodeUrl": "StPetersburg.asm.code.unityweb",

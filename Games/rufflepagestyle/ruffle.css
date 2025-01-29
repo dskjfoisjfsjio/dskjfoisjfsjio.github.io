@@ -7,7 +7,9 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    min-height: 100vh; 
 }
+
 header {
     background-color: #4CAF50;
     color: white;
@@ -17,6 +19,7 @@ header {
     font-size: 1.5rem;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
+
 main {
     flex-grow: 1;
     padding: 2em;
@@ -26,6 +29,7 @@ main {
     max-width: 1200px;
     width: 100%;
 }
+
 .game-container {
     margin: 2em 0;
     width: 100%;
@@ -36,27 +40,32 @@ main {
     overflow: hidden;
     text-align: center;
 }
+
 .game-container canvas {
     width: 100%;
     max-width: 800px;
     height: auto;
 }
+
 footer {
     background-color: #333;
     color: white;
     text-align: center;
     padding: 1em 0;
     width: 100%;
-    margin-top: auto;
+    margin-top: auto; 
 }
+
 .footer-links a {
     color: #4CAF50;
     margin: 0 1em;
     text-decoration: none;
 }
+
 .footer-links a:hover {
     text-decoration: underline;
 }
+
 .description {
     font-size: 1rem;
     margin-top: 1em;

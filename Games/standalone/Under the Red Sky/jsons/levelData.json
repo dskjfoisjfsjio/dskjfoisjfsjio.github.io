@@ -1,0 +1,573 @@
+{
+	"levelOrder": {
+		"onboarding": [
+			"-1"
+		],
+		"Tutorial": [
+			"NT1",
+			"NT2",
+			"NT3",
+			"NT4",
+			"NT5",
+			"Prehub"
+		],
+		"Floating Blocks": [
+			"2-1",
+			"2-2",
+			"2-3",
+			"2-4",
+			"2-5"
+		],
+		"The Outskirts": [
+			"3-1",
+			"3-2",
+			"3-3",
+			"3-4",
+			"3-5"
+		],
+		"Upper City": [
+			"4-1",
+			"4-2",
+			"4-3",
+			"4-4",
+			"4-5"
+		],
+		"Jump Trial 1": [
+			"JT1-1",
+			"JT1-2",
+			"JT1-3"
+		],
+		"Jump Trial 2": [
+			"JT1-1",
+			"JT1-2",
+			"JT1-3"
+		],
+		"Surf Trial 1": [
+			"ST1-1",
+			"ST1-2",
+			"ST1-3"
+		],
+		"Surf Trial 2": [
+			"ST2-1",
+			"ST2-2",
+			"ST2-3"
+		],
+		"Challenge 1": [
+			"Void Challenge"
+		],
+		"Challenge 2": [
+			"City Challenge"
+		],
+		"Winterland": [
+			"W-1",
+			"W-2",
+			"W-3"
+		],
+		"Ice Fortress": [
+			"IF-1",
+			"IF-2",
+			"IF-3"
+		],
+		"Gliding Trials 1": [
+			"GT1-1",
+			"GT1-2",
+			"GT1-3"
+		],
+		"Gliding Trials 2": [
+			"GT2-1",
+			"GT2-2",
+			"GT2-3"
+		]
+	},
+	"-1": {
+		"name": "Arrival",
+		"message": "",
+		"sky": "deepBlue"
+	},
+	"1-0": {
+		"name": "testLevel",
+		"sky": "cloudy",
+		"1Star": 4,
+		"2Star": 3,
+		"3Star": 2.4,
+		"4Star": 2.3
+	},
+	"1-1": {
+		"name": "testLevel",
+		"sky": "night",
+		"1Star": 9,
+		"2Star": 8,
+		"3Star": 6.6,
+		"4Star": 6.3
+	},
+	"1-2": {
+		"name": "testLevel",
+		"1Star": 9,
+		"2Star": 5.5,
+		"3Star": 4.5,
+		"4Star": 3
+	},
+	"1-3": {
+		"name": "testLevel",
+		"1Star": 10,
+		"2Star": 8,
+		"3Star": 6.5,
+		"4Star": 5.9
+	},
+	"1-4": {
+		"name": "testLevel",
+		"1Star": 8,
+		"2Star": 5,
+		"3Star": 4,
+		"4Star": 3
+	},
+	"1-5": {
+		"name": "testLevel",
+		"1Star": 11,
+		"2Star": 8,
+		"3Star": 6,
+		"4Star": 5.6
+	},
+	"level0": {
+		"name": "arrival",
+		"1Star": 20,
+		"2Star": 16,
+		"3Star": 13,
+		"4Star": 12
+	},
+	"level1": {
+		"name": "testLevel",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"2-1": {
+		"name": "Floating Blocks I",
+		"message": "",
+		"sky": "night",
+		"1Star": 5,
+		"2Star": 4.5,
+		"3Star": 4,
+		"4Star": 3.5
+	},
+	"2-2": {
+		"name": "Floating Blocks II",
+		"message": "",
+		"sky": "night",
+		"1Star": 5,
+		"2Star": 4,
+		"3Star": 3.5,
+		"4Star": 3.25
+	},
+	"2-3": {
+		"name": "Floating Blocks III",
+		"message": "",
+		"sky": "night",
+		"1Star": 5.5,
+		"2Star": 5,
+		"3Star": 4.6,
+		"4Star": 4.35
+	},
+	"2-4": {
+		"name": "Floating Blocks IV",
+		"message": "",
+		"sky": "night",
+		"1Star": 11,
+		"2Star": 10,
+		"3Star": 9,
+		"4Star": 8
+	},
+	"2-5": {
+		"name": "Floating Blocks V",
+		"message": "",
+		"sky": "night",
+		"1Star": 9,
+		"2Star": 8.5,
+		"3Star": 8,
+		"4Star": 7.75
+	},
+	"3-1": {
+		"name": "The Outskirts I",
+		"message": "",
+		"sky": "cloudy",
+		"1Star": 12.5,
+		"2Star": 10,
+		"3Star": 8,
+		"4Star": 7
+	},
+	"3-2": {
+		"name": "The Outskirts II",
+		"sky": "cloudy",
+		"message": "",
+		"1Star": 15,
+		"2Star": 12,
+		"3Star": 11,
+		"4Star": 10
+	},
+	"3-3": {
+		"name": "The Outskirts III",
+		"sky": "cloudy",
+		"message": "",
+		"1Star": 16,
+		"2Star": 14,
+		"3Star": 12.5,
+		"4Star": 11
+	},
+	"3-4": {
+		"name": "The Outskirts IV",
+		"sky": "cloudy",
+		"message": "",
+		"1Star": 17,
+		"2Star": 15,
+		"3Star": 14,
+		"4Star": 12.5
+	},
+	"3-5": {
+		"name": "The Outskirts V",
+		"sky": "cloudy",
+		"message": "",
+		"1Star": 12,
+		"2Star": 11,
+		"3Star": 10,
+		"4Star": 9
+	},
+	"4-1": {
+		"name": "Upper City I",
+		"message": "",
+		"sky": "night",
+		"1Star": 20,
+		"2Star": 17,
+		"3Star": 15,
+		"4Star": 13
+	},
+	"4-2": {
+		"name": "Upper City II",
+		"message": "",
+		"sky": "night",
+		"1Star": 15,
+		"2Star": 14,
+		"3Star": 13,
+		"4Star": 12
+	},
+	"4-3": {
+		"name": "Upper City III",
+		"message": "",
+		"sky": "night",
+		"1Star": 20,
+		"2Star": 19,
+		"3Star": 18,
+		"4Star": 17
+	},
+	"4-4": {
+		"name": "Upper City IV",
+		"message": "",
+		"sky": "night",
+		"1Star": 16,
+		"2Star": 15,
+		"3Star": 13,
+		"4Star": 12
+	},
+	"4-5": {
+		"name": "Upper City V",
+		"message": "",
+		"sky": "night",
+		"1Star": 25,
+		"2Star": 22,
+		"3Star": 20,
+		"4Star": 18
+	},
+	"ST1-3": {
+		"name": "SurfingTest",
+		"sky": "day",
+		"1Star": 22,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 15.5
+	},
+	"ST1-1": {
+		"name": "SurfingTest",
+		"sky": "",
+		"1Star": 11,
+		"2Star": 10,
+		"3Star": 9.50,
+		"4Star": 9
+	},
+	"ST1-2": {
+		"name": "SurfingTest",
+		"sky": "day",
+		"1Star": 12,
+		"2Star": 11,
+		"3Star": 10,
+		"4Star": 9.50
+	},
+	"ST2-1": {
+		"name": "SurfingTest",
+		"sky": "night",
+		"1Star": 20,
+		"2Star": 17,
+		"3Star": 15,
+		"4Star": 13.5
+	},
+	"ST2-2": {
+		"name": "SurfingTest",
+		"sky": "night",
+		"1Star": 20,
+		"2Star": 19,
+		"3Star": 18.50,
+		"4Star": 18
+	},
+	"ST2-3": {
+		"name": "SurfingTest",
+		"sky": "night",
+		"1Star": 16,
+		"2Star": 14.5,
+		"3Star": 13,
+		"4Star": 12
+	},
+	"JT1-1": {
+		"name": "SurfingTest",
+		"sky": "day",
+		"1Star": 8,
+		"2Star": 7,
+		"3Star": 6.5,
+		"4Star": 6
+	},
+	"JT1-2": {
+		"name": "SurfingTest",
+		"sky": "day",
+		"1Star": 12,
+		"2Star": 10,
+		"3Star": 9.50,
+		"4Star": 9.10
+	},
+	"JT1-3": {
+		"name": "SurfingTest",
+		"sky": "day",
+		"1Star": 12,
+		"2Star": 11,
+		"3Star": 10,
+		"4Star": 9
+	},
+	"JT2-1": {
+		"name": "SurfingTest",
+		"sky": "night",
+		"1Star": 13,
+		"2Star": 12,
+		"3Star": 11.5,
+		"4Star": 10.5
+	},
+	"JT2-2": {
+		"name": "SurfingTest",
+		"sky": "night",
+		"1Star": 12,
+		"2Star": 10,
+		"3Star": 9.50,
+		"4Star": 9
+	},
+	"JT2-3": {
+		"name": "SurfingTest",
+		"sky": "night",
+		"1Star": 10,
+		"2Star": 9,
+		"3Star": 8,
+		"4Star": 7
+	},
+	"NT1": {
+		"name": "Tutorial I",
+		"message": "",
+		"sky": "deepBlue"
+	},
+	"NT2": {
+		"name": "Tutorial II",
+		"message": "",
+		"sky": "deepBlue"
+	},
+	"NT3": {
+		"name": "Tutorial III",
+		"message": "",
+		"sky": "deepBlue"
+	},
+	"NT4": {
+		"name": "Tutorial IV",
+		"message": "",
+		"sky": "deepBlue"
+	},
+	"NT5": {
+		"name": "Tutorial V",
+		"message": "",
+		"sky": "deepBlue"
+	},
+	"MT1-3": {
+		"name": "SurfingTest",
+		"sky": "day",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"MT1-2": {
+		"name": "SurfingTest",
+		"sky": "night",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"MT1-1": {
+		"name": "SurfingTest",
+		"sky": "day",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"Rooftop skyscape": {
+		"name": "SurfingTest",
+		"sky": "night",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"F-1": {
+		"name": "Fracture 1",
+		"sky": "night",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"W-1": {
+		"name": "Winterland Entrance",
+		"sky": "frosty",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"W-2": {
+		"name": "Fracture 1",
+		"sky": "frosty",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"W-3": {
+		"name": "Fracture 1",
+		"sky": "frosty",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"IF-1": {
+		"name": "Fracture 1",
+		"sky": "night",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"IF-2": {
+		"name": "Fracture 1",
+		"sky": "night",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"IF-3": {
+		"name": "Fracture 1",
+		"sky": "night",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"GT1-1": {
+		"name": "Fracture 1",
+		"sky": "snowStorm",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"GT1-2": {
+		"name": "Fracture 1",
+		"sky": "frosty",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"GT1-3": {
+		"name": "Fracture 1",
+		"sky": "frosty",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"GT2-1": {
+		"name": "Fracture 1",
+		"sky": "frosty",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"GT2-2": {
+		"name": "Fracture 1",
+		"sky": "frosty",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"GT2-3": {
+		"name": "Fracture 1",
+		"sky": "frosty",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"BAD REDIRECTION": {
+		"name": "BAD REDIRECTION",
+		"message": "",
+		"sky": "C",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"LiminalSpace3": {
+		"name": "BAD REDIRECTION",
+		"message": "",
+		"sky": "deepBlue",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"Prehub": {
+		"name": "Cool Place",
+		"message": "",
+		"sky": "deepBlue",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	},
+	"ColdSpace": {
+		"name": "Bad Place",
+		"message": "",
+		"sky": "snowStorm",
+		"1Star": 30,
+		"2Star": 20,
+		"3Star": 17,
+		"4Star": 14.2
+	}
+}

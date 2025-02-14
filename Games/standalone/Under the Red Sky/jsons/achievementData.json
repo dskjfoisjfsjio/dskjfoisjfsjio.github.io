@@ -1,0 +1,36 @@
+{
+	"playtime": {},
+	"longDrop": {},
+	"veryLongDrop": {},
+	"longSurf": {},
+	"theFloorIsLava": {},
+	"sharpestTool": {},
+	"fewDeaths": {},
+	"tryHarder": {},
+	"conePhoto": {},
+	"runner": {},
+	"marathon": {},
+	"firstSecret": {},
+	"emoted": {},
+	"tutorial": {},
+	"easyTrials": {},
+	"hardTrials": {},
+	"cityFinished": {},
+	"completion": {},
+	"secretArea": {},
+	"WinterIsComing": {},
+	"IntrusiveThoughts": {},
+	"Viking": {},
+	"firstDeath": {
+		"isHidden": "true"
+	},
+	"manyDeaths": {
+		"isHidden": "true"
+	},
+	"allTheDeaths": {
+		"isHidden": "true"
+	},
+	"first4Star": {
+		"isHidden": "true"
+	}
+}

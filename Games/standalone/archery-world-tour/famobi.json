@@ -1,0 +1,147 @@
+{
+	"features": {"highscores":1, "leaderboard":0, "credits": 1},
+	"game_i18n" : {
+		"default": {
+			"filename.png" : "fg_i18n/{lang}/images/filename.png"
+		}
+	},
+	"game_info": {
+		"client_version": "1.0.0",
+		"api_version": "2.1",
+		"forced_mode": {
+			"state": {
+				"level": {
+					"description": "Select an existing Level, the challenge mode(-1) or a custom level(-2)",
+					"type": "number",
+					"min": -2,
+					"max": 30
+				}
+			},
+			"override": {
+				"hide_ui": {
+					"description": "Hide specific Ui Elements",
+					"type": "array",
+					"values": ["score", "arrow_indicator", "wind_indicator"]
+				},
+				"slowmotion_mode": {
+					"description": "Set how often slowmotion is active",
+					"type": "string",
+					"values": ["normal", "always", "off"]
+				},
+				"is_balloon_level": {
+					"description": "[Custom Level] Set Leveltype to Balloon Type",
+					"type": "boolean"
+				},
+				"balloon_layout": {
+					"description": "[Custom Level] Set the balloon pattern",
+					"type": "number",
+					"min": 0,
+					"max": 9
+				},
+				"movement_shape": {
+					"description": "[Custom Level] Set the shape the target moves along",
+					"type": "number",
+					"min": 0,
+					"max": 9
+				},
+				"movement_size": {
+					"description": "[Custom Level] Set the scale of the movement_shape",
+					"type": "number",
+					"min": 0,
+					"max": 1
+				},
+				"score_bronze": {
+					"description": "[Custom Level] Set the required score for 1 Star",
+					"type": "number"
+				},
+				"score_silver": {
+					"description": "[Custom Level] Set the required score for 2 Stars",
+					"type": "number"
+				},
+				"score_gold": {
+					"description": "[Custom Level] Set the required score for 3 Stars",
+					"type": "number"
+				},
+				"target_type": {
+					"description": "[Custom Level] Set the design of the target",
+					"type": "number",
+					"min": 0,
+					"max": 6
+				},
+				"target_distance": {
+					"description": "[Custom Level] Set the distance of the target",
+					"type": "number",
+					"min": 0,
+					"max": 3
+				},
+				"target_rotation_speed": {
+					"description": "[Custom Level] Set the rotation speed of the target",
+					"type": "number",
+					"min": -10,
+					"max": 10
+				},
+				"arrow_amount": {
+					"description": "[Custom Level] Set the amount of arrows (0 = infinite)",
+					"type": "number",
+					"min": 0,
+					"max": 9
+				},
+				"wind_strength_min": {
+					"description": "[Custom Level] Set the lowest possible wind strength",
+					"type": "number",
+					"min": 0,
+					"max": 3
+				},
+				"wind_strength_max": {
+					"description": "[Custom Level] Set the highest possible wind strength",
+					"type": "number",
+					"min": 0,
+					"max": 3
+				},
+				"endless_challenge": {
+					"description": "[Challenge Mode] Causes the challenge to continue even after a missed shot",
+					"type": "boolean"
+				},
+				"endless_normal": {
+					"description": "[Normal Mode] Causes the level to continue infnitely",
+					"type": "boolean"
+				}
+			}
+		},
+		"track_stats": {
+			"stars_gained": {
+				"description": "The amount of stars gained",
+				"type": "number"
+			},
+			"target_hit": {
+				"description": "A target has been hit",
+				"type": "number",
+				"params": {
+					"value": {
+						"type": "number",
+						"min": 0,
+						"max": 10
+					},
+					"color": {
+						"type": "string",
+						"values": ["red", "purple", "green", "pink", "yellow", "blue", "orange"]
+					}
+				}
+			},
+			"target_missed": {
+				"description": "Player missed the shot"
+			},
+			"level_unlocked": {
+				"description": "A new map is unlocked (map id).",
+				"type": "number",
+				"params": {
+					"level": {
+						"type": "number",
+						"min": 1,
+						"max": 30
+					}
+				}
+			}
+		}
+	}
+}

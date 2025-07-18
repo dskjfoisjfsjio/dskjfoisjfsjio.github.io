@@ -249,3 +249,15 @@ async function addTab(link) {
 }
 
 addTab("uvsearch.rhw.one");
+
+const urlParams = new URLSearchParams(window.location.search);
+
+if (urlParams.has("inject")) {
+  let tab = {};
+  const injection = urlParams.get("inject");
+
+  setTimeout(() => {
+    addTab(injection)
+    focusTab()
+  }, 100);
+}

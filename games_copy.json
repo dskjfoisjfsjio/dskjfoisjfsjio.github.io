@@ -1,0 +1,1634 @@
+[
+  {
+    "title": "Slope",
+    "img": "assets/game images/slope.jfif",
+    "description": "Test your reflexes in this 3D endless runner!",
+    "path": "Games/standalone/slopeplusweb/slopeplusweb/index.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Bloons Tower Defense",
+    "img": "assets/game images/btd.jpg",
+    "description": "Pop those balloons with strategic towers!",
+    "path": "Games/ruffle/btd.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Bloons Tower Defense 2",
+    "img": "assets/game images/btd2.jpg",
+    "description": "The sequel to BTD!",
+    "path": "Games/ruffle/btd2.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Bloons Tower Defense 3",
+    "img": "assets/game images/btd 3.jpg",
+    "description": "The sequel to BTD 2!",
+    "path": "Games/ruffle/btd3.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Bloons Tower Defense 4",
+    "img": "assets/game images/btd 4.jpg",
+    "description": "Bloons Tower Defense 4 is a classic tower defense game initially released in Flash.",
+    "path": "/Games/ruffle/btd4.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Bloons Tower Defense 5",
+    "img": "assets/game images/btd5.jpg",
+    "description": "Five-star tower defense with unrivaled depth and replayability.",
+    "path": "Games/ruffle/btd5.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Bloons",
+    "img": "assets/game images/bloons.jpg",
+    "description": "Bloons is a fun arcade game in which you need to pop as many bloons as possible.",
+    "path": "Games/ruffle/bloons.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Bloons Super Monkey",
+    "img": "assets/game images/bloons super monkey.jpg",
+    "description": "Bloons Super Monkey is an arcade Bloons game and the first game in the Bloons Super Monkey series.",
+    "path": "/Games/ruffle/bloonssupermonkey.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Run",
+    "img": "assets/game images/run original.jpg",
+    "description": "Run 1 is a popular game created by a Canadian programmer in 2008 and which has been a resounding success.",
+    "path": "Games/WAflash/run.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Run 2",
+    "img": "assets/game images/run 2.jpg",
+    "description": "In Run 2, you play as a gray alien running through a series of different levels.",
+    "path": "Games/WAflash/run2.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Run 3",
+    "img": "assets/game images/run 3.png",
+    "description": "Run 3 is a popular endless runner game set in space.",
+    "path": "Games/ruffle/run3.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Fireboy and Watergirl",
+    "img": "assets/game images/fireboy.jpg",
+    "description": "Team up to solve puzzles!",
+    "path": "Games/ruffle/foresttemple.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Fireboy and Watergirl Light Temple",
+    "img": "assets/game images/the light temple.jpg",
+    "description": "Fireboy and Watergirl 2: Light Temple is a casual game, the second cooperative platformer game in the Fireboy and Watergirl series.",
+    "path": "Games/standalone/Fireboy And Watergirl 2/index.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Fireboy and Watergirl Ice Temple",
+    "img": "assets/game images/ice temple.jpg",
+    "description": "Fireboy and Watergirl 3: Ice Temple is a casual game, the third cooperative platformer game in the Fireboy and Watergirl series.",
+    "path": "Games/standalone/Fireboy And Watergirl 3/index.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Fireboy and Watergirl Crystal Temple",
+    "img": "assets/game images/crystal temple.jpg",
+    "description": "Fireboy and Watergirl 4: Crystal Temple is the fourth installment in the cooperative platformer game series Fireboy and Watergirl.",
+    "path": "Games/standalone/Fireboy And Watergirl 4/index.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Potty Racers",
+    "img": "assets/game images/pottyracers.jfif",
+    "description": "Your goal is to ride your potty down various hills and hurl yourself up ramps",
+    "path": "Games/ruffle/pottyracers.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Potty Racers 2",
+    "img": "assets/game images/pottyracers2.jfif",
+    "description": "You play as a man who has a desire to fly by a porta potty",
+    "path": "Games/ruffle/pottyracers2.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Potty Racers 3",
+    "img": "assets/game images/potty racers.jfif",
+    "description": "Potty Racers 3 is the third installment in the Potty Racers series",
+    "path": "Games/WAflash/pottyracers3.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Duck Life",
+    "img": "assets/game images/ducklife.jfif",
+    "description": "The first to a legendary game series Duck Life",
+    "path": "Games/ruffle/ducklife.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Duck Life 2",
+    "img": "assets/game images/ducklife2.jfif",
+    "description": "The sequel to Duck Life",
+    "path": "Games/ruffle/ducklife2.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Duck Life 3",
+    "img": "assets/game images/ducklife3.jfif",
+    "description": "Duck Life but with a twist, evolution!",
+    "path": "Games/ruffle/ducklife3.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Duck Life 4",
+    "img": "assets/game images/ducklife4.jfif",
+    "description": "The finale to the Duck Life Story!",
+    "path": "Games/ruffle/ducklife4.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Duck Life Treasure Hunt",
+    "img": "assets/game images/duck life treasure hunt.jpg",
+    "description": "This time to explore the cave and find legendary treasure.",
+    "path": "Games/ruffle/treasurehunt.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Color Tunnel",
+    "img": "assets/game images/colortunnel.jpg",
+    "description": "Color Tunnel is a fast-paced 3D arcade game.",
+    "path": "Games/standalone/tunnel rush/index.html",
+    "category": "Runner",
+    "iframe": false
+  },
+  {
+    "title": "Death Run 3D",
+    "img": "assets/game images/deathrun3d.jfif",
+    "description": "Fast-paced endless runner!",
+    "path": "Games/standalone/deathrun3d.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Subway Surfers",
+    "img": "assets/game images/subway surfers.jpg",
+    "description": "Play one of the best mobile games ever made right in your browser.",
+    "path": "Games/standalone/subway-surfers/index.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Temple Run 2",
+    "img": "assets/game images/temple run 2.jpg",
+    "description": "Temple Run 2, developed by Imangi, is an infinite runner.",
+    "path": "Games/standalone/temple-run-2/index.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Google Feud",
+    "img": "assets/game images/googlefeud.png",
+    "description": "Google Feud is a challenging quiz game that's easy to play, but difficult to master.",
+    "path": "Games/standalone/google feud/index.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Learn to Fly",
+    "img": "assets/game images/learn to fly.jpg",
+    "description": "This game introduces the protagonist, a penguin that learns how to fly with the use of a glider and a rocket.",
+    "path": "Games/ruffle/learntofly.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Learn to Fly 2",
+    "img": "assets/game images/learn to fly 2.jpg",
+    "description": "Learn to Fly 2 is a launcher game where you play as a penguin attempting to fly using a ramp and various gadgets.",
+    "path": "/Games/ruffle/learntofly2.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Learn to Fly 3",
+    "img": "assets/game images/learn to fly 3.jpg",
+    "description": "In Learn to Fly 3, you build, customize and upgrade a spaceship.",
+    "path": "Games/ruffle/learntofly3.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Learn to Fly Idle",
+    "img": "assets/game images/learntoflyidle.jpg",
+    "description": "Learn to Fly Idle is an idle game, as the title suggests. It requires you to go out and destroy Obstacles with a cannon.",
+    "path": "Games/WAflash/learntoflyidle.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Pacman",
+    "img": "assets/game images/pacman.png",
+    "description": "Play the classic arcade game Pacman right here on your computer!",
+    "path": "Games/ruffle/pacman.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Galaga",
+    "img": "assets/game images/galaga.jpg",
+    "description": "Play the classic Galaga game now!",
+    "path": "Games/standalone/Galaga/galaga.html",
+    "category": "Arcade",
+    "iframe": false
+  },
+  {
+    "title": "Galaga Flash",
+    "img": "assets/game images/galagaf.jpg",
+    "description": "The Robotube Games version of Galaga",
+    "path": "Games/ruffle/galagaflash.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Pacxon",
+    "img": "assets/game images/pacxon.jpg",
+    "description": "Survive as many rounds as possible in this pac man inspired game!",
+    "path": "Games/ruffle/pacxon.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Pacxon Deluxe",
+    "img": "assets/game images/pacxondeluxe.jpg",
+    "description": "The sequel to Pacxon!",
+    "path": "Games/ruffle/pacxondeluxe.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Riddle School",
+    "img": "assets/game images/riddleschool1.jfif",
+    "description": "Riddle School is a fun game of mystery and puzzle solving",
+    "path": "Games/ruffle/riddleschool.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Riddle School 2",
+    "img": "assets/game images/riddleschool2.jfif",
+    "description": "Help Phil to escape the school in this sequel of Riddle School!",
+    "path": "Games/ruffle/riddleschool2.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Riddle School 3",
+    "img": "assets/game images/riddleschool3.jfif",
+    "description": "Escape the school in the third episode of the riddle school series",
+    "path": "Games/ruffle/riddleschool3.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Riddle School 4",
+    "img": "assets/game images/riddleschool4.jfif",
+    "description": "Riddle School 4 is the 4th game in the Riddle School series.",
+    "path": "Games/ruffle/riddleschool4.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Riddle School 5",
+    "img": "assets/game images/riddleschool5.jfif",
+    "description": "Take control of Phil once more in his epic quest to escape his captors",
+    "path": "Games/ruffle/riddleschool5.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Riddle Transfer",
+    "img": "assets/game images/riddletransfer.jfif",
+    "description": "Riddle Transfer is another in a long line of fantastic, addicting point and click adventure games where the main goal is to escape!",
+    "path": "Games/ruffle/riddletransfer.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Riddle Transfer 2",
+    "img": "assets/game images/riddletransfer2.jfif",
+    "description": "Riddle Transfer 2 is the long-awaited solution to the unresolved cliffhanger of 5 years ago...",
+    "path": "Games/ruffle/riddletransfer2.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Bloxorz",
+    "img": "assets/game images/bloxorz.jpg",
+    "description": "Bloxorz is a classic web-based puzzle game.",
+    "path": "Games/ruffle/bloxorz.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Retro Bowl",
+    "img": "assets/game images/retrobowl.jpg",
+    "description": "Retro Bowl is the perfect game for the armchair quarterback to finally prove a point.",
+    "path": "Games/standalone/retro-bowl/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Worlds Hardest Game",
+    "img": "assets/game images/worlds hardest game.jpg",
+    "description": "Use the arrow keys to move the red square to the end zone. Collect the yellow coins while avoiding the blue balls.",
+    "path": "Games/ruffle/worldshardestgame.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Worlds Hardest Game 2",
+    "img": "assets/game images/worlds hardest game 2.png",
+    "description": "The sequel to the infamous Worlds Hardest Game",
+    "path": "Games/ruffle/worldshardestgame2.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Worlds Hardest Game 3",
+    "img": "assets/game images/world-s-hardest-game-3.png",
+    "description": "The third game in the series of the Worlds Hardest Game",
+    "path": "Games/WAflash/worldshardestgame3.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Worlds Hardest Game 4",
+    "img": "assets/game images/worldshardestgame4.jpg",
+    "description": "The last game in the series of Worlds Hardest Game",
+    "path": "Games/ruffle/worldshardestgame4.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Flappy Bird",
+    "img": "assets/game images/flappybird.png",
+    "description": "Play the classic Flappy Bird mobile game right here on your computer!",
+    "path": "Games/standalone/flappybird.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Breaking the Bank",
+    "img": "assets/game images/breaking the bank.jpg",
+    "description": "Breaking the Bank is a stickman puzzle game made by Puffballs United",
+    "path": "Games/ruffle/breakingthebank.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Escaping the Prison",
+    "img": "assets/game images/escaping the prison.png",
+    "description": "Escaping The Prison is a fantastically fun stick figure game where you... Well, escape the prison",
+    "path": "Games/WAflash/escapingtheprison.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Stealing the Diamond",
+    "img": "assets/game images/stealing the diamond.jpg",
+    "description": "Stealing The Diamond is another in a series of amazing stick figure adventure games.",
+    "path": "Games/ruffle/stealingthediamond.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Inflitrating the Airship",
+    "img": "assets/game images/infiltrating the airship.jpg",
+    "description": "Can you choose wisely and help the stickman in this game to accomplish his goals?",
+    "path": "Games/ruffle/airship.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Fleeing the Complex",
+    "img": "assets/game images/fleeing the complex.jpg",
+    "description": "You are trapped inside a small prison cell, and you have to escape not just your cell, but the whole prison! If you fail, death is awaiting you...",
+    "path": "Games/ruffle/fleeingthecomplex.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Papas Pizzeria",
+    "img": "assets/game images/papas pizza.jpg",
+    "description": "You are playing as Roy, Papa Louie's nephew. It is up to you, Roy, to take control of the pizzeria.",
+    "path": "Games/ruffle/papaspizza.html",
+    "category": "Cooking",
+    "iframe": true
+  },
+  {
+    "title": "Papas Burgeria",
+    "img": "assets/game images/papas burgeria.jpg",
+    "description": "Papa has left you in charge of his prized burger-building establishment.",
+    "path": "Games/ruffle/papasburgeria.html",
+    "category": "Cooking",
+    "iframe": true
+  },
+  {
+    "title": "Papas Wingeria",
+    "img": "assets/game images/papas wing.jpg",
+    "description": "Welcome to Papa's Wingeria, Here you will have to keep your picky customers happy as they order tons of wings and things.",
+    "path": "Games/WAflash/papaswingeria.html",
+    "category": "Cooking",
+    "iframe": true
+  },
+  {
+    "title": "Papas Freezeria",
+    "img": "assets/game images/papas freezeria.jpg",
+    "description": "Build your customer's favorite ice cream sundae to spec, and they'll be happy with the product.",
+    "path": "Games/standalone/papasfreezeria.html",
+    "category": "Cooking",
+    "iframe": true
+  },
+  {
+    "title": "Papas Hotdoggeria",
+    "img": "assets/game images/papas hotdog.jpg",
+    "description": "In Papa's Hot Doggeria you'll need to grill up juicy Hot Dogs.",
+    "path": "Games/WAflash/papashotdog.html",
+    "category": "Cooking",
+    "iframe": true
+  },
+  {
+    "title": "Papas Pancakeria",
+    "img": "assets/game images/papas pancake.jpg",
+    "description": "It is up to you to run every single aspect of the restaurant. Take orders, pour the batter, flip the pancakes, and serve the flapjacks hot and ready to hungry customers.",
+    "path": "Games/WAflash/papaspancake.html",
+    "category": "Cooking",
+    "iframe": true
+  },
+  {
+    "title": "Papas Sushiria",
+    "img": "assets/game images/sushi.jpg",
+    "description": "Papa’s Sushiria is a casual restaurant game in which you create sushi for customers.",
+    "path": "Games/ruffle/papas sushi.html",
+    "category": "Cooking",
+    "iframe": true
+  },
+  {
+    "title": "Papas Cupcakeria",
+    "img": "assets/game images/papascupcake.jpg",
+    "description": "Papa's Cupcakeria is a casual restaurant game in which you make cupcakes for customers.",
+    "path": "Games/ruffle/papascupcake.html",
+    "category": "Cooking",
+    "iframe": true
+  },
+  {
+    "title": "Papas Donuteria",
+    "img": "assets/game images/papas donut.jpg",
+    "description": "Papa’s Donuteria is a casual restaurant game in which you build delicious donuts for customers.",
+    "path": "Games/ruffle/papasdonut.html",
+    "category": "Cooking",
+    "iframe": true
+  },
+  {
+    "title": "Papas Pastaria",
+    "img": "assets/game images/papas pasta.jpg",
+    "description": "Papa's Pastaria is a casual restaurant game where you take charge of an Italian restaurant and serve delectable pasta dishes.",
+    "path": "Games/ruffle/papaspasta.html",
+    "category": "Cooking",
+    "iframe": true
+  },
+  {
+    "title": "Papas Taco Mia",
+    "img": "assets/game images/papas taco.jpg",
+    "description": "Build tasty tacos in Papa’s Taco Mia!, a casual restaurant game in the Papa Louie series.",
+    "path": "Games/ruffle/papastaco.html",
+    "category": "Cooking",
+    "iframe": true
+  },
+  {
+    "title": "Papas Cheeseria",
+    "img": "assets/game images/papas cheese.webp",
+    "description": "Papa’s Cheeseria is a restaurant game where you build grilled cheese sandwiches for customers.",
+    "path": "Games/ruffle/papascheese.html",
+    "category": "Cooking",
+    "iframe": true
+  },
+  {
+    "title": "Papas Bakeria",
+    "img": "assets/game images/papas bake.jpg",
+    "description": "Papa’s back with a brand new pie shop - Papa’s Bakeria!",
+    "path": "Games/ruffle/papasbake.html",
+    "category": "Cooking",
+    "iframe": true
+  },
+  {
+    "title": "Papas Scooperia",
+    "img": "assets/game images/papas scooperia.jpg",
+    "description": "The last addition to the papas series. Grab your ice cream scooper and get ready to serve up some tasty frozen treats in Papas Scooperia.",
+    "path": "Games/WAflash/papascoop.html",
+    "category": "Cooking",
+    "iframe": true
+  },
+  {
+    "title": "Sonic Flash",
+    "img": "assets/game images/sonic.jpg",
+    "description": "Play the Ultimate Flash Sonic game to join Sonic in a classic platformer adventure!",
+    "path": "Games/WAflash/sonicultimate.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Sonic Robo Blast 2",
+    "img": "assets/game images/sonicrb.jpg",
+    "description": "Sonic Robo Blast 2 is like taking a nostalgic trip back to your favorite Saturday morning cartoons.",
+    "path": "Games/standalone/srb2web-main/index.html",
+    "category": "Adventure",
+    "iframe": false
+  },
+  {
+    "title": "Cubefield",
+    "img": "assets/game images/cube field.jpg",
+    "description": "Cubefield is a fast-paced endless running game that tests your ability to dodge obstacles.",
+    "path": "Games/ruffle/cubefield.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "The Fight for Glorton",
+    "img": "assets/game images/thefightforglorton.jfif",
+    "description": "The Fight for Glorton is a very popular fighting game Lock Legion game.",
+    "path": "Games/ruffle/thefightforglorton.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Super Smash Flash",
+    "img": "assets/game images/super smash flash.jpg",
+    "description": "Super Smash Flash is based on the awesome Super Mario Bros series.",
+    "path": "Games/ruffle/supersmashflash.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Freegear",
+    "img": "assets/game images/freegear.jpg",
+    "description": "Test your agility and reaction in high-speed racing competitions.",
+    "path": "Games/WAflash/freegear.html",
+    "category": "Racing",
+    "iframe": true
+  },
+  {
+    "title": "Thin Ice",
+    "img": "assets/game images/thin ice.jpg",
+    "description": "Thin Ice is an arcade game where you play as a Puffle that is on fire to go through an ice maze.",
+    "path": "Games/ruffle/thinice.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Puffle Launch",
+    "img": "assets/game images/puffle launch.jpg",
+    "description": "IT’S TIME TO BLAST OFF! - Club Penguin’s extreme pet puffle must blast off into the skies.",
+    "path": "Games/ruffle/SWF/Puffle Launch/pufflelaunch.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Thinicetrobarrier",
+    "img": "assets/game images/thiniceastro.jpg",
+    "description": "Thinicetrobarrier is a club penguin minigame that showed up during the April Fools 2008 event.",
+    "path": "Games/ruffle/SWF/Astro Barrier/astrobarrier.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Baldis Basics",
+    "img": "assets/game images/baldi.jpg",
+    "description": "Baldi's Basics is a puzzle horror game which satirizes 1990s educational games.",
+    "path": "Games/standalone/baldis-basics/baldi.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Diner Dash Hometown Hero",
+    "img": "assets/game images/diner dash.jpg",
+    "description": "On a visit to her hometown, Flo and her Grandma Florence take a stroll down memory lane.",
+    "path": "Games/ruffle/dinerdash.html",
+    "category": "Cooking",
+    "iframe": true
+  },
+  {
+    "title": "Choppy Orc",
+    "img": "assets/game images/choppy orc.jpg",
+    "description": "Choppy Orc is a simple game about an orc that uses his axe to solve all his problems.",
+    "path": "Games/standalone/choppy-orc/choppy.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Age of War",
+    "img": "assets/game images/age of war.jpg",
+    "description": "The classic Age of War game.",
+    "path": "Games/ruffle/ageofwar.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Age of War 2",
+    "img": "assets/game images/age of war 2.jpg",
+    "description": "The sequel to the classic Age of War game.",
+    "path": "Games/ruffle/ageofwar2.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Bad Time Simulator",
+    "img": "assets/game images/bad time.jpg",
+    "description": "Fight sans in this difficult simulator!",
+    "path": "Games/standalone/badtime.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Connect 4",
+    "img": "assets/game images/connect 4.jpg",
+    "description": "Play the board game Connect 4 now!",
+    "path": "Games/WAflash/connect4.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Deal or No Deal",
+    "img": "assets/game images/deal or no deal.jpg",
+    "description": "What's Your Number? Try your luck in finding the $1,000,000 briefcase in this game!",
+    "path": "Games/WAflash/dealornodeal.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Motherload",
+    "img": "assets/game images/motherload.jpg",
+    "description": "Motherload is a classic mining game ",
+    "path": "Games/ruffle/motherload.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Fancy Pants Adventure",
+    "img": "assets/game images/fancypants.png",
+    "description": "Players guide Fancy Pants Man through open levels",
+    "path": "Games/ruffle/fancypants.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Fancy Pants Adventure 2",
+    "img": "assets/game images/fancy pants 2.png",
+    "description": "The Fancy Pants Adventures: World 2 is an epic adventure platformer created by Brad Borne.",
+    "path": "Games/WAflash/fancypants2.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Fancy Pants Adventure 3",
+    "img": "assets/game images/fancy pants 3.png",
+    "description": "You will embark on an epic adventure to help the king.",
+    "path": "Games/ruffle/fancypants3.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Portal the Flash Version",
+    "img": "assets/game images/portal the flash version.jpg",
+    "description": "In this game, you use your special physics gun to create inter-dimensional portals in-between walls and objects.",
+    "path": "Games/ruffle/portaltheflashversion.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Raft Wars",
+    "img": "assets/game images/raft wars.jpg",
+    "description": "Raft Wars is a level-based shooting game created by Martijn Kunst",
+    "path": "Games/ruffle/raftwars.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Shopping Cart Hero",
+    "img": "assets/game images/shopping cart hero.jpg",
+    "description": "Shopping Cart Hero is an arcade game that lets you run, jump on your cart and perform combined tricks!",
+    "path": "Games/ruffle/shoppingcarthero.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Shopping Cart Hero 2",
+    "img": "assets/game images/shopping cart hero 2.png",
+    "description": "Shopping Cart Hero 2 is an addictive online game that challenges players to launch a shopping cart down a ramp and perform stunts while in the air",
+    "path": "Games/WAflash/shoppingcarthero2.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Superfighters",
+    "img": "assets/game images/superfighters.jpg",
+    "description": "Superfighters is an action-packed martial arts fighting game.",
+    "path": "Games/ruffle/superfighters.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Sugar Sugar",
+    "img": "assets/game images/sugar sugar.png",
+    "description": "Sugar, Sugar is very much a strategic puzzle game.",
+    "path": "Games/WAflash/sugarsugar.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Sugar Sugar 2",
+    "img": "assets/game images/sugar sugar 2.png",
+    "description": "The sequel to Sugar Sugar",
+    "path": "Games/ruffle/sugarsugar2.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "My Friend Pedro",
+    "img": "assets/game images/my friend pedro.jpg",
+    "description": "Your friend Pedro is a banana who is very supportive of your plan to shoot bad guys while flying around the air.",
+    "path": "Games/ruffle/myfriendpedro.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Zombocalypse",
+    "img": "assets/game images/zombocalypse.jpg",
+    "description": "Zombocalypse is a zombie game. It's you vs. a horde of hungry, hungry zombies.",
+    "path": "Games/ruffle/zombocalypse.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Adventure Time Jumping Finn",
+    "img": "assets/game images/jumpingfinn.jpg",
+    "description": "Join the Adventure Time crew in a new mission in the Jumping Finn game!",
+    "path": "Games/ruffle/jumpingfinn.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Poppit",
+    "img": "assets/game images/poppit.jpg",
+    "description": "Poppit is an awesome puzzle game in which you must match three or more of the same color balloon together and pop them.",
+    "path": "Games/ruffle/poppit.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Factory Balls",
+    "img": "assets/game images/factory balls.jpg",
+    "description": "In this puzzle game, your goal is to get the ball to match with the picture on the box.",
+    "path": "Games/ruffle/factoryballs.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Factory Balls 2",
+    "img": "assets/game images/factory balls 2.jpg",
+    "description": "Factory Balls 2 is a puzzle game where your main task is to create balls that should match the ones being requested.",
+    "path": "Games/ruffle/factoryballs2.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Factory Balls 3",
+    "img": "assets/game images/factory balls 3.jpg",
+    "description": "Factory Balls 3 challenges you to plan ahead and think sequentially.",
+    "path": "Games/ruffle/factoryballs3.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Factory Balls 4",
+    "img": "assets/game images/factory balls 4.jpg",
+    "description": "Factory Balls 4 is the last installment in the Factory Balls series.",
+    "path": "Games/ruffle/factoryballs4.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Minecraft Tower Defense",
+    "img": "assets/game images/minecrafttower.jpg",
+    "description": "Set your path, pick your weapons, and DEFEND.",
+    "path": "Games/ruffle/minecrafttowerdefense.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Minecraft Tower Defense 2",
+    "img": "assets/game images/minecraft tower defense 2.webp",
+    "description": "The sequel to Minecraft Tower Defense where your goal is to DEFEND.",
+    "path": "Games/ruffle/minecrafttowerdefense2.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Happy Wheels",
+    "img": "assets/game images/happy wheelsa.jpg",
+    "description": "Happy Wheels is a side-scrolling ragdoll physics-based platform browser game developed and published by Fancy Force.",
+    "path": "Games/ruffle/happywheels.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Curveball",
+    "img": "assets/game images/curveball.png",
+    "description": "Curveball is an engaging and visually distinctive online game",
+    "path": "Games/ruffle/curveball.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Cut the Rope",
+    "img": "assets/game images/cut the rope.jpg",
+    "description": "A mysterious package has arrived, and the little monster inside has only one request… CANDY!",
+    "path": "Games/standalone/Cut The Rope/index.html",
+    "category": "Puzzle",
+    "iframe": false
+  },
+  {
+    "title": "Cut the Rope Time Travel",
+    "img": "assets/game images/time travel.jpg",
+    "description": "Play this spinoff version of Cut the Rope for free!",
+    "path": "Games/standalone/Cut the Rope Time Travel/index.html",
+    "category": "Puzzle",
+    "iframe": false
+  },
+  {
+    "title": "2048",
+    "img": "assets/game images/2048.png",
+    "description": "Join the tiles and reach 2048!",
+    "path": "Games/standalone/2048/index.html",
+    "category": "Puzzle",
+    "iframe": false
+  },
+  {
+    "title": "Bad Piggies",
+    "img": "assets/game images/bad piggies.jpg",
+    "description": "OiNk! Build makeshift contraptions from a huge collection of parts and make it to the goal without blowing your vehicle to pieces!",
+    "path": "Games/ruffle/badpiggies.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Neon Rider",
+    "img": "assets/game images/neon rider.png",
+    "description": "Navigate your sci-fi bike through a series of hand-crafted levels.",
+    "path": "Games/ruffle/neonrider.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "The Impossible Quiz",
+    "img": "assets/game images/impossiblequiz.png",
+    "description": "The Impossible Quiz is a 2007 Flash game created by a DeviantArt user known as Splapp-me-do.",
+    "path": "Games/ruffle/impossiblequiz.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "The Impossible Quiz 2",
+    "img": "assets/game images/impossiblequiz2.png",
+    "description": "The sequel to The Impossible Quiz!",
+    "path": "Games/ruffle/impossiblequiz2.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Johnny Upgrade",
+    "img": "assets/game images/johnny upgrade.jpg",
+    "description": "Johnny Upgrade is a cartoon super hero with no skills at all! Collect coins in order to afford the upgrades you need.",
+    "path": "Games/ruffle/johnnyupgrade.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Superhot",
+    "img": "assets/game images/superhot.jpg",
+    "description": "SUPERHOT is the first person shooter where time moves only when you move.",
+    "path": "Games/standalone/superhot/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Clicker Heros",
+    "img": "assets/game images/clicker heros.jpg",
+    "description": "Click on the screen to defeat the monsters and earn gold in Clicker Heroes.",
+    "path": "Games/standalone/Clicker Heroes/index.html",
+    "category": "Idle",
+    "iframe": false
+  },
+  {
+    "title": "Cookie Clicker",
+    "img": "assets/game images/cookieclicker.jpg",
+    "description": "Cookie Clicker is a game about making an absurd amount of cookies.",
+    "path": "Games/standalone/cookie-clicker/index.html",
+    "category": "Idle",
+    "iframe": false
+  },
+  {
+    "title": "Moto-X3M",
+    "img": "assets/game images/moto x3m.jpg",
+    "description": "Kick up some dirt with this fast-paced racing game that is sure to get your heart pumping.",
+    "path": "Games/standalone/motox3m/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Moto-X3M 2",
+    "img": "assets/game images/moto x3m 2.jpg",
+    "description": "Moto X3M 2 is an exciting motorcycle racing game that is sure to keep you on the edge of your seat.",
+    "path": "Games/standalone/motox3m2/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "OVO",
+    "img": "assets/game images/ovo.png",
+    "description": "OvO is a fast-paced platformer where you use precise parkour and free running skills to complete each level.",
+    "path": "Games/standalone/ovo/index.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Paper IO 2",
+    "img": "assets/game images/paperio2.jpg",
+    "description": "Enter a colorful and dynamic world where strategy, skill, and cunning are your greatest allies.",
+    "path": "Games/standalone/paperio2/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Tomb of the Mask",
+    "img": "assets/game images/tombofthemask.png",
+    "description": "Tomb of the Mask is a fun game where you need to go through exciting mazes!",
+    "path": "Games/standalone/totm/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Basket Random",
+    "img": "assets/game images/basket random.jpg",
+    "description": "Basket Random is a 2-player retro pixel game with ragdoll physics.",
+    "path": "Games/standalone/basket-random/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Soccer Random",
+    "img": "assets/game images/soccer random.png",
+    "description": "Soccer Random is a two-player pixel-art soccer game with limited controls but unlimited randomness.",
+    "path": "Games/standalone/soccer-random/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "1v1 LOL",
+    "img": "assets/game images/1v1lol.jpg",
+    "description": "Fight to survive in this epic multiplayer Battle Royale",
+    "path": "Games/standalone/1v1/index.html",
+    "category": "Arcade",
+    "iframe": false
+  },
+  {
+    "title": "Jetpack Joyride",
+    "img": "assets/game images/jetpack.jpg",
+    "description": "Jetpack Joyride is an endless runner game developed by Halfbrick Studios",
+    "path": "Games/standalone/Jetpack Joyride/index.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Gladihoppers",
+    "img": "assets/game images/gladihoppers.jpg",
+    "description": "Gladihoppers is an action game where you fight in different arenas as a gladiator!",
+    "path": "Games/standalone/Gladihoppers/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Red Ball",
+    "img": "assets/game images/red ball.jpg",
+    "description": "The original Red Ball game created back in 2008.",
+    "path": "Games/ruffle/redball.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Red Ball 2",
+    "img": "assets/game images/red ball 2.jpg",
+    "description": "Red Ball 2 is here, and he has lost his beloved crown.",
+    "path": "Games/ruffle/redball2.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Red Ball 3",
+    "img": "assets/game images/red ball 3.jpg",
+    "description": "Red Ball's girlfriend has been captured by his old nemesis.",
+    "path": "Games/ruffle/redball3.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Red Ball 4",
+    "img": "assets/game images/red ball 4.jpg",
+    "description": "The finale of the red ball series!",
+    "path": "Games/standalone/redball4/index.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Vex",
+    "img": "assets/game images/vex.jpg",
+    "description": "Vex is a jumping game in which you will face many difficult obstacles.",
+    "path": "Games/WAflash/vex.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Vex 2",
+    "img": "assets/game images/vex 2.jpg",
+    "description": "The Vex 2 game is the first sequel to the popular Vex series.",
+    "path": "Games/ruffle/vex2.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Vex 3",
+    "img": "assets/game images/vex 3.jpg",
+    "description": "Vex 3 is the third platform game in the Vex series.",
+    "path": "Games/standalone/Vex3/index.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Vex 4",
+    "img": "assets/game images/vex 4.jpg",
+    "description": "Vex 4 is a fast-paced, challenging platform adventure game.",
+    "path": "Games/standalone/Vex4/index.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Vex 5",
+    "img": "assets/game images/vex 5.jpg",
+    "description": "Vex 5 is the fifth installment in the Vex series!",
+    "path": "Games/standalone/Vex5/index.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Vex 6",
+    "img": "assets/game images/vex 6.jpg",
+    "description": "Vex 6 is the sixth game in the Vex runner series!",
+    "path": "Games/standalone/Vex6/index.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Candy Crush",
+    "img": "assets/game images/candy crush.jpg",
+    "description": "Play the classic strategy game now!",
+    "path": "Games/standalone/Candy Crush/index.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Big Tower Tiny Square",
+    "img": "assets/game images/big tower.png",
+    "description": "Big Tower Tiny Square is all about fantastic timing and big jumps.",
+    "path": "Games/standalone/Big Tower/index.html",
+    "category": "Challenging",
+    "iframe": false
+  },
+  {
+    "title": "Big Tower Tiny Square 2",
+    "img": "assets/game images/big tower 2.jpg",
+    "description": "The sequel to Big Tower Tiny Square!",
+    "path": "Games/standalone/Big Tower2/index.html",
+    "category": "Challenging",
+    "iframe": false
+  },
+  {
+    "title": "Crossy Road",
+    "img": "assets/game images/crossy road.jpg",
+    "description": "Play the classic Crossy Road game!",
+    "path": "Games/standalone/crossy-road/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Under the Red Sky",
+    "img": "assets/game images/redsky.jpg",
+    "description": "Under the Red Sky is a 3D parkour game!",
+    "path": "Games/standalone/Under the Red Sky/index.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Stack",
+    "img": "assets/game images/stack.jpg",
+    "description": "Your goal is to build the highest tower you can.",
+    "path": "Games/standalone/stack/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Polytrack",
+    "img": "assets/game images/polytrack.jpg",
+    "description": "PolyTrack is a low-poly racing game with loops, jumps and high speeds.",
+    "path": "Games/standalone/Polytrack/index.html",
+    "category": "Racing",
+    "iframe": true
+  },
+  {
+    "title": "Stunt Cars 2",
+    "img": "assets/game images/stunt cars 2.jpg",
+    "description": "Madalin Stunt Cars 2 is a 3D stunt driving game",
+    "path": "Games/standalone/Stunt cars 2/index.html",
+    "category": "Racing",
+    "iframe": true
+  },
+  {
+    "title": "Tiny Fishing",
+    "img": "assets/game images/tiny fishing.jpg",
+    "description": "The goal of the game is to catch fish and sell them for money.",
+    "path": "Games/standalone/Tiny fishing/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Helix Jump",
+    "img": "assets/game images/helix jump.jpg",
+    "description": "Helix Jump is a 3d arcade game",
+    "path": "Games/standalone/helixjump.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Bejeweled Twist",
+    "img": "assets/game images/bejewled twist.jpg",
+    "description": "Pin and match explosive gems for shockwaves of fun.",
+    "path": "Games/ruffle/bejeweledtwist.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Nyan Cat Lost in Space",
+    "img": "assets/game images/nyancat.jpg",
+    "description": "Guide Nyan Cat through the galaxy in his never-ending quest for YUMMIES!",
+    "path": "Games/ruffle/nyancatlostinspace.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Geometry Dash",
+    "img": "assets/game images/geometrydash.jpg",
+    "description": "Replication of the classic game Geometry Dash",
+    "path": "Games/standalone/gdlite/index.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Fruit Ninja",
+    "img": "assets/game images/fruit ninja.jpg",
+    "description": "Slice as much fruit as you can and avoid slicing the bombs in this classic mobile game!",
+    "path": "Games/standalone/fruitninja/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Space is Key",
+    "img": "assets/game images/space is key.png",
+    "description": "Get through each level of this REALLY HARD obstacle course.",
+    "path": "Games/ruffle/spaceiskey.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Space is Key 2",
+    "img": "assets/game images/space is key 2.png",
+    "description": "The sequel to the challenging game Space is Key!",
+    "path": "Games/ruffle/spaceiskey2.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Pandemic 2",
+    "img": "assets/game images/pandemic 2.jpg",
+    "description": "In this game your goal is to infect everyone in the world!",
+    "path": "Games/ruffle/pandemic2.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Apple Shooter",
+    "img": "assets/game images/apple shooter.jpg",
+    "description": "Shoot the apple right on top of your friends head but be careful not to hurt your friend.",
+    "path": "Games/ruffle/appleshooter.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Parking Fury",
+    "img": "assets/game images/parking fury.jpg",
+    "description": "Park your car correctly and avoid hitting the other cars.",
+    "path": "Games/standalone/Parking Fury/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Parking Fury 2",
+    "img": "assets/game images/parking fury 2.jpg",
+    "description": "The sequel to Parking Fury.",
+    "path": "Games/standalone/Parking Fury 2/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Parking Fury 3",
+    "img": "assets/game images/parking fury 3.jpg",
+    "description": "The finale to the Parking Fury series!",
+    "path": "Games/standalone/Parking Fury 3/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Super Mario Flash",
+    "img": "assets/game images/super mario flash.jpg",
+    "description": "Super Mario Flash is based on the Nintendo game Super Mario Bros.",
+    "path": "Games/ruffle/supermarioflash.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Super Mario Flash 2",
+    "img": "assets/game images/supermarioflash2.png",
+    "description": "The sequel to Super Mario Flash",
+    "path": "Games/ruffle/supermarioflash2.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Pou",
+    "img": "assets/game images/pou.webp",
+    "description": "Pou is a digital pet game featuring various fun mini-games.",
+    "path": "Games/standalone/Pou-gh-pages/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Snow Rider 3D",
+    "img": "assets/game images/snowrider3d.jpg",
+    "description": "Take on the ultimate skateboarding adventure with Snow Rider and conquer icy slopes.",
+    "path": "Games/standalone/snowrider3d-main/index.html",
+    "category": "Arcade",
+    "iframe": false
+  },
+  {
+    "title": "10 Minutes Till Dawn",
+    "img": "assets/game images/10 minutes.jpg",
+    "description": "10 Minutes Till Dawn is an action bullet-hell roguelite game.",
+    "path": "Games/standalone/10 Minutes Till Dawn/index.html",
+    "category": "Arcade",
+    "iframe": false
+  },
+  {
+    "title": "Five Nights At Freddys",
+    "img": "assets/game images/fnaf.jpg",
+    "description": "Play the classic horror game now!",
+    "path": "Games/standalone/Five Nights At Freddys/index.html",
+    "category": "Challenging",
+    "iframe": false
+  },
+  {
+    "title": "Idle Breakout",
+    "img": "assets/game images/idle breakout.png",
+    "description": "Build the ultimate brick-busting machine to destroy billions of bricks.",
+    "path": "Games/standalone/idle-breakout/index.html",
+    "category": "Idle",
+    "iframe": true
+  },
+  {
+    "title": "Magic Tiles 3",
+    "img": "assets/game images/magic titles 3.jpg",
+    "description": "Experience the thrill of playing piano like a pro with Magic Tiles 3",
+    "path": "Games/standalone/magic-tiles-3/index.html",
+    "category": "Arcade",
+    "iframe": false
+  },
+  {
+    "title": "Archery World Tour",
+    "img": "assets/game images/world tour.jpg",
+    "description": "Focus... relax... release. Aim your shot carefully and use the wind to hit the bullseye in Archery World Tour.",
+    "path": "Games/standalone/archery-world-tour/index.html",
+    "category": "Challenging",
+    "iframe": false
+  },
+  {
+    "title": "Bowmasters",
+    "img": "assets/game images/bowmasters.jpg",
+    "description": "Play Bowmasters, online for free in your browser.",
+    "path": "Games/standalone/bowmasters/index.html",
+    "category": "Arcade",
+    "iframe": false
+  },
+  {
+    "title": "Bitlife",
+    "img": "assets/game images/bitlife.webp",
+    "description": "Start a virtual life and make your own decisions!",
+    "path": "Games/standalone/bitlife-main/bitlife-main/index.html",
+    "category": "Arcade",
+    "iframe": false
+  },
+  {
+    "title": "Dadish",
+    "img": "assets/game images/dadish.jpg",
+    "description": "Dadish is a platform game where you're a radish father who's in charge of finding his kids",
+    "path": "Games/standalone/dadish-main/index.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Territory War",
+    "img": "assets/game images/territorywar.jpg",
+    "description": "Territory War is a fun and exciting turn-based strategy game.",
+    "path": "Games/ruffle/territorywar.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Madness Project Nexus",
+    "img": "assets/game images/madness.jpg",
+    "description": "Defeat Project Nexus and the Nexus Training Program",
+    "path": "Games/ruffle/madness.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Sprinter",
+    "img": "assets/game images/sprinter.jpg",
+    "description": "Sprint with fury to the finish line in this classic Flash game from Gamedesign.jp.",
+    "path": "Games/ruffle/sprinter.html",
+    "category": "Racing",
+    "iframe": true
+  },
+  {
+    "title": "Drive Mad",
+    "img": "assets/game images/drive mad.png",
+    "description": "Drive Mad is a car game where you drive on a track filled with obstacles.",
+    "path": "Games/standalone/drive-mad-main/drive-mad-main/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Murder",
+    "img": "assets/game images/murder.webp",
+    "description": "You wish to assassinate the king and take his place to rule over the kingdom.",
+    "path": "Games/ruffle/murder.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Bowling Flash",
+    "img": "assets/game images/bowling flash.avif",
+    "description": "Bowling Flash is a simplistic yet a simple flash game that you can enjoy.",
+    "path": "Games/ruffle/bowling.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Crazy Cattle 3D",
+    "img": "assets/game images/crazycattle.jpg",
+    "description": "Play Crazy Cattle 3D now!",
+    "path": "Games/standalone/crazycattle3d/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Block Blast",
+    "img": "assets/game images/block blast.jpg",
+    "description": "Block Blast is a Tetris-like puzzle game, challenging to eliminate as many blocks as possible in a limited space to get a higher score.",
+    "path": "Games/standalone/blockblast.html",
+    "category": "Puzzle",
+    "iframe": false
+  },
+  {
+    "title": "Monkey Mart",
+    "img": "assets/game images/monkey mart.jpg",
+    "description": "Monkey Mart is a casual, simulation game where players manage and grow their own virtual supermarket.",
+    "path": "Games/standalone/monkeymart.html",
+    "category": "Arcade",
+    "iframe": false
+  },
+  {
+    "title": "Super Liquid Soccer",
+    "img": "assets/game images/liquid.jpg",
+    "description": "Experience endless fun with Super Liquid Soccer Game!",
+    "path": "Games/standalone/super-liquid-soccer/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Economical",
+    "img": "assets/game images/economical.png",
+    "description": "Economical is a tricky but fun puzzle platformer.",
+    "path": "Games/standalone/economical/index.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Plants Vs Zombies",
+    "img": "assets/game images/plantsvszombies.jpg",
+    "description": "Play the demo of this classic game now!",
+    "path": "Games/ruffle/plantsvszombies.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Space Waves",
+    "img": "assets/game images/spacewave.webp",
+    "description": "Control the arrow to avoid obstacles, play through levels, and reach the finish!",
+    "path": "Games/standalone/Space Waves/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Blockpost",
+    "img": "assets/game images/blockpost.jpg",
+    "description": "Play this classic 3D shooter now!",
+    "path": "Games/standalone/BlockPost.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "The Blinding of Isaac",
+    "img": "assets/game images/the blinding of issac.gif",
+    "description": "Play the Blinding of Isaac now! (May take awhile to load)",
+    "path": "Games/ruffle/blinding.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Tetrix 2",
+    "img": "assets/game images/tetrix 2.avif",
+    "description": "Play this flash like Tetris game now!",
+    "path": "Games/ruffle/tetrix2.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Strike Force Heros",
+    "img": "assets/game images/Strike Force Heros.jpg",
+    "description": "The original version of the classic Strike Force Heros game.",
+    "path": "Games/ruffle/strikeforceheros.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Strike Force Heros 2",
+    "img": "assets/game images/heros 2.jpg",
+    "description": "The sequel to Strike Force Heros.",
+    "path": "Games/ruffle/strikeforceheros2.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Isoball",
+    "img": "assets/game images/isoball.gif",
+    "description": "Isoball is a puzzle game where you need to build a path for the ball to reach the goal.",
+    "path": "Games/ruffle/isoball.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Injustice Gods Among Us",
+    "img": "assets/game images/Injustice.webp",
+    "description": "Injustice: Gods Among Us is a fighting game featuring characters from DC Comics.",
+    "path": "Games/ruffle/injustice.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Grow Valley",
+    "img": "assets/game images/grow.jpg",
+    "description": "Grow Valley is a puzzle game where you need to grow the valley by clicking on the right objects in the right order.",
+    "path": "Games/ruffle/growvalley.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Yahoo Tennis",
+    "img": "assets/game images/tennis.jpg",
+    "description": "Yahoo Tennis is a fun tennis game where you can play against the computer or a friend.",
+    "path": "Games/ruffle/yahootennis.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Grow Cube",
+    "img": "assets/game images/grow.avif",
+    "description": "Grow Cube is a puzzle game where you need to grow the cube by clicking on the right objects in the right order.",
+    "path": "Games/ruffle/growcube.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Grow Island",
+    "img": "assets/game images/growisland.jpg",
+    "description": "Grow Island is a puzzle game where you need to grow the island by clicking on the right objects in the right order.",
+    "path": "Games/ruffle/growisland.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Electric Man",
+    "img": "assets/game images/electricman.webp",
+    "description": "Electric man is a classic fighting flash game",
+    "path": "Games/ruffle/electricman.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "League Bowling",
+    "img": "assets/game images/league bowling.jpg",
+    "description": "League Bowling is a classic flash game where your goal is to win.",
+    "path": "Games/ruffle/leaguebowling.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Rollercoaster Creator",
+    "img": "assets/game images/roller coaster.png",
+    "description": "Rollercoaster Creator is a fun game where you need to build a rollercoaster track.",
+    "path": "Games/ruffle/rollercoaster.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Case Clicker",
+    "img": "assets/game images/case clicker.webp",
+    "description": "Case Clicker is a fun and addictive game where you open cases and collect items.",
+    "category": "Idle",
+    "path": "Games/standalone/caseclicker.html",
+    "iframe": true
+  },
+  {
+    "title": "Game 1",
+    "img": "assets/game images/game1.jpg",
+    "description": "Description for Game 1",
+    "path": "Games/game1/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Game 2",
+    "img": "assets/game images/game2.jpg",
+    "description": "Description for Game 2",
+    "path": "Games/game2/index.html",
+    "category": "Puzzle",
+    "iframe": false
+  }
+]

@@ -83,7 +83,7 @@
     "title": "Run 3",
     "img": "assets/game images/run 3.png",
     "description": "Run 3 is a popular endless runner game set in space.",
-    "path": "Games/ruffle/run3.html",
+    "path": "Games/standalone/run3.html",
     "category": "Runner",
     "iframe": true
   },
@@ -575,6 +575,35 @@
     "category": "Adventure",
     "iframe": false
   },
+
+    {
+    "title": "Sonic the Hedgehog",
+    "img": "assets/game images/sonicthehedgehog.png",
+    "description": "Sonic the Hedgehog is a classic platform game featuring the iconic blue hedgehog.",
+    "path": "Games/sonic-games/sonicthehedgehog.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+
+  {
+    "title": "Sonic the Hedgehog  2",
+    "img": "assets/game images/sonicthehedgehog2.png",
+    "description": "Sonic the Hedgehog 2 is the sequel to the original Sonic the Hedgehog game.",
+    "path": "Games/sonic-games/sonicthehedgehog.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+
+  {
+    "title": "Sonic 3 & Knuckles",
+    "img": "assets/game images/sonicandknuckles.jpeg",
+    "description": "Sonic 3 & Knuckles is a combination of Sonic the Hedgehog 3 and Sonic & Knuckles.",
+    "path": "Games/sonic-games/sonicthehedgehog3.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+
+
   {
     "title": "Cubefield",
     "img": "assets/game images/cube field.jpg",
@@ -1336,13 +1365,40 @@
     "iframe": false
   },
   {
-    "title": "Five Nights At Freddys",
+    "title": "Five Nights At Freddy's",
     "img": "assets/game images/fnaf.jpg",
     "description": "Play the classic horror game now!",
     "path": "Games/standalone/Five Nights At Freddys/index.html",
     "category": "Challenging",
     "iframe": false
   },
+
+  {
+    "title": "Five Nights At Freddy's 2",
+    "img": "assets/game images/fnaf2.jpg",
+    "description": "The sequel to Five Nights At Freddys!",
+    "path": "Games/standalone/FNAF2-main/FNAF2-main/index.html",
+    "category": "Challenging",
+    "iframe": false
+  },
+
+  {
+    "title": "Five Nights At Freddy's 3",
+    "img": "assets/game images/fnaf3.jpg",
+    "description": "The third installment in the Five Nights At Freddy's series!",
+    "path": "Games/standalone/fnaf3.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Five Nights At Freddy's 4",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/fnaf-4/thumb.png",
+    "description": "The fourth installment in the Five Nights At Freddy's series!",
+    "path": "Games/standalone/fnaf-4/index.html",
+    "category": "Challenging",
+    "iframe": false
+  },
+ 
   {
     "title": "Idle Breakout",
     "img": "assets/game images/idle breakout.png",
@@ -1654,5 +1710,14 @@
     "path": "Games/ruffle/stickwar.html",
     "category": "Strategy",
     "iframe": true
+  },
+
+  {
+    "title": "Granny",
+    "img": "assets/game images/granny.jpg",
+    "description": "Granny is a horror game where you need to escape from a creepy house and on top of that, a crazy grandma.",
+    "path": "Games/standalone/granny-source/index.html",
+    "category": "Challenging",
+    "iframe": false
   }
 ]

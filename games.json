@@ -367,6 +367,16 @@
     "category": "Arcade",
     "iframe": true
   },
+
+  {
+    "title": "Retro Bowl College",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/retro-bowl-college/unnamed.png",
+    "description": "College edition of Retro Bowl",
+    "path": "Games/standalone/retrobowlcollege.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+
   {
     "title": "Worlds Hardest Game",
     "img": "assets/game images/worlds hardest game.jpg",
@@ -1687,6 +1697,24 @@
     "category": "Challenging",
     "iframe": true
   },
+
+  {
+    "title": "Tactical Assassin",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/tactical.jpg",
+    "description": "Tactical Assassin is a thrilling sniper game where you play as a skilled assassin, completing various missions with precision and strategy.",
+    "path": "Games/ruffle/tacticaloriginal.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+
+  {
+    "title": "Tactical Assassin 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/tactical-assassin-2.jpg",
+    "description": "Take on the role of a highly trained sniper in Tactical Assassin 2, a captivating game that challenges your shooting skills and strategic thinking.",
+    "path": "Games/ruffle/tactical2.html",
+    "category": "Arcade",
+    "iframe": true
+  },
   {
     "title": "Tactical Assassin 3",
     "img": "assets/game images/assassin 3.jpg",
@@ -1719,5 +1747,32 @@
     "path": "Games/standalone/granny-source/index.html",
     "category": "Challenging",
     "iframe": false
+  },
+
+  {
+    "title": "QWOP",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/qwop.webp",
+    "description": "QWOP is a classic running game where you control an athlete using the Q, W, O, and P keys to move his legs.",
+    "path": "Games/ruffle/QWOP.html",
+    "category": "Challenging",
+    "iframe": true  
+  },
+
+  {
+    "title": "Strikeforce Kitty",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/strike.webp",
+    "description": "Strikeforce Kitty is an action-packed game where you play as a heroic cat on a mission to save the world from evil forces.",
+    "path": "Games/ruffle/strikeforcekitty.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+
+  {
+    "title": "Friday Night Funkin",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/friday.webp",
+    "description": "Friday Night Funkin is a rhythm-based game where players must hit the right notes in time with the music to win battles against various characters.",
+    "path": "Games/standalone/fridaynightfunkin.html",
+    "category": "Arcade",
+    "iframe": false 
   }
 ]

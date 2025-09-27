@@ -1657,6 +1657,16 @@
     "category": "Arcade",
     "iframe": true
   },
+
+  {
+    "title": "Electric Man 2",
+    "img": "assets/game images/electricman2.jpg",
+    "description": "The sequel to Electric Man!",
+    "path": "Games/ruffle/electricman2.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+
   {
     "title": "League Bowling",
     "img": "assets/game images/league bowling.jpg",
@@ -1773,6 +1783,90 @@
     "description": "Friday Night Funkin is a rhythm-based game where players must hit the right notes in time with the music to win battles against various characters.",
     "path": "Games/standalone/fridaynightfunkin.html",
     "category": "Arcade",
+    "iframe": false 
+  },
+
+  {
+    "title": "Time Shooter",
+    "img": "assets/game images/timeshooter.jpg",
+    "description": "Time Shooter is an action-packed shooting game.",
+    "path": "Games/standalone/timeshooter.html",
+    "category": "Arcade", 
+    "iframe": true
+  },
+
+  {
+    "title": "Burrito Bison Revenge",
+    "img": "assets/game images/burritobisonrevenge.jpg",
+    "description": "Burrito Bison Revenge is a fun and addictive game where you play as a luchador who must defeat gummy bears and other enemies to save his beloved burrito.",
+    "path": "Games/ruffle/burritobisonrevenge.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+
+  {
+    "title": "Douchebag Workout",
+    "img": "assets/game images/douchebagworkout.png",
+    "description": "Douchebag Workout is a game where you play as a douchebag loser who must change his life. ",
+    "path": "Games/ruffle/douchebagworkout.html",
+    "category": "Arcade",
+    "iframe": true  
+  },
+
+ {
+  "title": "Douchebag Workout 2",
+  "img": "assets/game images/douchebagworkout2.jpg",
+  "description": "The sequel to Douchebag Workout!",
+  "path": "Games/ruffle/douchebagworkout2.html",
+  "category": "Arcade",
+  "iframe": true
+ },
+
+
+ {
+  "title": "Lemonade Stand",
+  "img": "assets/game images/lemonadestand.jpg",
+  "description": "Lemonade Stand is a classic business simulation game where you manage your own lemonade stand.",
+  "path": "Games/ruffle/lemonade.html",
+  "category": "Strategy",
+  "iframe": true  
+ },
+
+  {
+    "title": "Soundboard",
+    "img": "assets/game images/soundboard.png",
+    "description": "A soundboard with various sound effects and music clips.",
+    "path": "Apps/soundboard-main/index.html",
+    "category": "Apps",
+    "iframe": true
+  },
+
+
+  {
+    "title": "30 Dollar Website",
+    "img": "assets/game images/moal.jpg",
+    "description": "A simple website that looks like it was made for 30 dollars (a soundboard).",
+    "path": "Apps/30 Dollar Websites/index.html", 
+    "category": "Apps",
+    "iframe": false
+  },
+
+
+  {
+    "title": "Emulator JS",
+    "img" : "assets/game images/emulatorjs.png",
+    "description": "Emulator JS is a web-based emulator that allows you to play classic console games directly in your browser.",
+    "path": "4.2.1/index.html",
+    "category": "Apps",
+    "iframe": false
+  },
+
+  {
+    "title": "Ruffle",
+    "img": "assets/game images/ruffle.jpg",
+    "description": "Ruffle is an open-source Flash Player emulator that allows you to play Flash content directly in your web browser without the need for the original Flash Player plugin.",
+    "path": "Apps/ruffle/index.html",
+    "category": "Apps",
     "iframe": false 
   }
 ]

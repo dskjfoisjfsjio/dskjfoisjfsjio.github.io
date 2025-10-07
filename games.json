@@ -1457,6 +1457,16 @@
     "category": "Adventure",
     "iframe": true
   },
+
+  {
+    "title": "Dadish 2",
+    "img": "assets/game images/dadish2.webp",
+    "description": "The sequel to Dadish!",
+    "path": "Games/standalone/dadish2.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  
   {
     "title": "Territory War",
     "img": "assets/game images/territorywar.jpg",
@@ -1831,6 +1841,71 @@
   "category": "Strategy",
   "iframe": true  
  },
+
+ {
+  "title": "Bubble Shooter",
+  "img": "assets/game images/bubbleshooter.jpg",
+  "description": "Bubble Shooter is a classic puzzle game where you shoot bubbles to create matches of three or more of the same color.",
+  "path": "Games/ruffle/bubbleshooter.html",
+  "category": "Puzzle",
+  "iframe": true  
+ },
+
+{
+  "title": "Dead Zed 2",
+  "img": "assets/game images/deadzed2.jpg",
+  "description": "Dead Zed 2 is a fun and addictive zombie shooting game.",
+  "path": "Games/ruffle/deadzed2.html",
+  "category": "Arcade",
+  "iframe": true
+},
+
+{
+  "title": "Frogger",
+  "img": "assets/game images/frogger.jpg",
+  "description": "Frogger is a classic arcade game where you guide a frog across a busy road and a river full of hazards.",
+  "path": "Games/ruffle/frogger.html",
+  "category": "Arcade",
+  "iframe": true  
+},
+
+
+{
+  "title": "Frontline Defense",
+  "img": "assets/game images/frontline.avif",
+  "description": "Frontline Defense is a tower defense game where you must defend your base from waves of enemies.",
+  "path": "Games/ruffle/frontlinedefense.html",
+  "category": "Strategy",
+  "iframe": true  
+},
+
+{
+  "title": "FL Tron",
+  "img": "assets/game images/fl tron.avif",
+  "description": "FL Tron is a classic arcade game where you control a light cycle and try to trap your opponent.",
+  "path": "Games/ruffle/fltron.html",
+  "category": "Arcade",
+  "iframe": true  
+},
+
+{
+    "title": "Hole IO",
+    "img": "assets/game images/Hole-Io.avif",
+    "description": "Play the classic Hole IO game now/1",
+    "path": "Games/standalone/hole-io/index.html",
+    "category": "Racing",
+    "iframe": false
+},
+
+{
+  "title": "N-gon",
+  "img": "assets/game images/ngon.png",
+  "description": "N-gon is a challenging and addictive arcade game where you control a shape and navigate through a series of obstacles.",
+  "path": "Games/standalone/ngon.html",
+  "category": "Challenging",
+  "iframe": false
+},
+
 
   {
     "title": "Soundboard",

@@ -1022,6 +1022,16 @@
     "category": "Arcade",
     "iframe": true
   },
+
+  {
+    "title": "Moto-X3M Spooky Land",
+    "img": "assets/game images/motospooky.png",
+    "description": "Halloween Version of Moto-X3M",
+    "path": "Games/standalone/moto-x3m-spooky-land/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+
   {
     "title": "OVO",
     "img": "assets/game images/ovo.png",
@@ -1906,12 +1916,97 @@
   "iframe": false
 },
 
+{
+    "title": "Mahjong Tower",
+    "img": "assets/game images/mahjong-tower.webp",
+    "description": "Mahjong Tower is a classic tile-matching game where you must clear the board by matching pairs of tiles.",
+    "path": "Games/ruffle/MahjongTower.html",
+    "category": "Puzzle",
+    "iframe": true
+},
+
 
   {
+    "title": "Mahjong Titans",
+    "img": "assets/game images/mahjong-titans.webp",
+    "description": "Mahjong Titans is a classic tile-matching game where you must clear the board by matching pairs of tiles.",
+    "path": "Games/ruffle/mahjongtitans.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+
+
+  {
+    "title": "Mahjong Gardens",
+    "img": "assets/game images/mahjong-gardens.png",
+    "description": "Mahjong Gardens is a classic tile-matching game where you must clear the board by matching pairs of tiles.",
+    "path": "Games/ruffle/mahjonggardens.html", 
+    "category": "Puzzle",
+    "iframe": true
+  },
+
+  {
+    "title": "Solitaire",
+    "img": "assets/game images/solitare.webp",
+    "description": "Solitare is a classic card game where you must arrange the cards in a specific order.",
+    "path": "Games/standalone/solitaire/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+
+  {
+    "title": "Axis Football League",
+    "img": "assets/game images/axis football.webp",
+    "description": "Axis Football League is a classic football game where you can create your own team and compete against other teams.",
+    "path": "Games/ruffle/axisfootballleague.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+
+  {
+    "title": "Adventure Capitalist",
+    "img": "assets/game images/adventure.png",
+    "description": "Adventure Capitalist is an idle clicker game where you invest in various businesses to earn money and grow your empire.",
+    "path": "Games/standalone/adventurecapitalist/index.html",
+    "category": "Idle",
+    "iframe": false
+  },
+
+
+  {
+    "title": "Color Switch",
+    "img": "assets/game images/color switch.jpg",
+    "description": "Color Switch is a fun and addictive arcade game where you must navigate a ball through various obstacles by matching colors.",
+    "path": "Games/standalone/Color Switch/index.html",
+    "category": "Arcade",
+    "iframe": false
+  },
+
+  {
+    "title": "Rocket Soccer Derby",
+    "img": "assets/game images/rocket.webp",
+    "description": "Rocket Soccer Derby is an exciting car soccer game where you drive rocket-powered cars to score goals against your opponents.",
+    "path": "Games/standalone/rocket_soccer_derby/index.html",
+    "category": "Arcade",
+    "iframe": false
+  },
+
+
+  {
+    "title": "Angry Birds",
+    "img": "assets/game images/angrybirds.webp",
+    "description": "Play the classic Angry Birds game now!",
+    "path": "Games/standalone/Angry Birds.html",
+    "category": "Arcade",
+    "iframe": false
+  },
+
+
+    {
     "title": "Soundboard",
     "img": "assets/game images/soundboard.png",
     "description": "A soundboard with various sound effects and music clips.",
-    "path": "Apps/soundboard-main/index.html",
+    "path": "Apps/soundboard-main/soundboard.html",
     "category": "Apps",
     "iframe": true
   },
@@ -1921,10 +2016,11 @@
     "title": "30 Dollar Website",
     "img": "assets/game images/moal.jpg",
     "description": "A simple website that looks like it was made for 30 dollars (a soundboard).",
-    "path": "Apps/30 Dollar Websites/index.html", 
+    "path": "Apps/30 Dollar Website/index.html", 
     "category": "Apps",
     "iframe": false
   },
+
 
 
   {

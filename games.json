@@ -1176,6 +1176,16 @@
     "category": "Runner",
     "iframe": true
   },
+
+  {
+    "title": "Vex 7",
+    "img": "assets/game images/vex 7.jpg",
+    "description": "Vex 7 is the seventh installment in the Vex series!",
+    "path": "Games/standalone/vex7/index.html",
+    "category": "Runner",
+    "iframe": true
+  },
+
   {
     "title": "Candy Crush",
     "img": "assets/game images/candy crush.jpg",
@@ -1360,6 +1370,44 @@
     "category": "Adventure",
     "iframe": true
   },
+
+
+  {
+    "title": "Super Mario Flash 3",
+    "img": "assets/game images/super mario flash 3.webp",
+    "description": "The finale to the Super Mario Flash series!",
+    "path": "Games/ruffle/supermarioflash3.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+
+  {
+    "title": "Unfair Mario",
+    "img": "assets/game images/unfairmario.jpg",
+    "description": "Unfair Mario is a challenging platformer game that will test your skills and patience.",
+    "path": "Games/ruffle/unfairmario.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+
+  {
+    "title": "Mario Combat",
+    "img": "assets/game images/mariocombat.webp",
+    "description": "Mario Combat is a fast-paced action game where you control Mario and battle against various enemies.",
+    "path": "Games/ruffle/mariocombat.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+
+  {
+    "title": "Donkey Kong Returns",
+    "img": "assets/game images/donkeykong.avif",
+    "description": "Donkey Kong Returns is a platform game where you play as Donkey Kong and navigate through challenging levels.",
+    "path": "Games/ruffle/donkeykong.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+
   {
     "title": "Pou",
     "img": "assets/game images/pou.webp",
@@ -1493,6 +1541,17 @@
     "category": "Arcade",
     "iframe": true
   },
+
+  {
+    "title": "Madness Accelerant",
+    "img": "assets/game images/Madnessaccelerant.webp",
+    "description": "Madness Accelerant is a fast-paced action game set in the Madness universe.",
+    "path": "Games/ruffle/madnessa.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+
+
   {
     "title": "Sprinter",
     "img": "assets/game images/sprinter.jpg",
@@ -2001,6 +2060,61 @@
     "iframe": false
   },
 
+  {
+    "title": "Angry Birds Showdown",
+    "img": "assets/game images/angry birds showdown.webp",
+    "description": "Play Angry Birds Showdown, an exciting twist on the classic Angry Birds game!",
+    "path": "Games/standalone/angrybirdsshowdown.html",
+    "category": "Arcade",
+    "iframe": false
+  },
+
+
+  {
+    "title": "Stickman Golf",
+    "img": "assets/game images/stickman golf.jpg",
+    "description": "Stickman Golf is a fun and addictive golf game where you control a stickman and try to get the ball into the hole in as few strokes as possible.",
+    "path": "Games/standalone/stickman-golf/index.html",
+    "category": "Arcade",
+    "iframe": false
+  },
+
+  {
+    "title": "Basketball Stars",
+    "img": "assets/game images/basketballlegends.jpg",
+    "description": "Basketball Stars is an exciting basketball game where you can compete in various game modes and show off your skills on the court.",
+    "path": "Games/standalone/basketball-stars/index.html",
+    "category": "Arcade",
+    "iframe": false
+  },
+
+
+  {
+    "title": "Kaboomz",
+    "img": "assets/game images/kaboomz.jpg",
+    "description": "Kaboomz is a fun and addictive puzzle game where you must pop bubbles by matching colors and creating chain reactions.",
+    "path": "Games/ruffle/kaboomz.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+
+  {
+    "title": "Alien Hominid",
+    "img": "assets/game images/alien.png",
+    "description": "Alien Hominid is a platformer game where you play as an alien trying to navigate through various levels and obstacles.",
+    "path": "Games/ruffle/alien.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+
+  {
+    "title": "Trivia Crack",
+    "img": "assets/game images/trivia-crack.jpg",
+    "description": "Trivia Crack is a fun and addictive trivia game where you can challenge your friends and test your knowledge in various categories.",
+    "path": "Games/standalone/triviacrack.html",
+    "category": "Arcade",
+    "iframe": false 
+  },
 
     {
     "title": "Soundboard",

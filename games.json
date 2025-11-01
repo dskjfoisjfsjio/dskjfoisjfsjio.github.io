@@ -39,6 +39,16 @@
     "category": "Strategy",
     "iframe": true
   },
+
+  {
+    "title": "Bloons Tower Defense 4 Expansion",
+    "img": "assets/game images/btd 4 expansion.webp",
+    "description": "The expansion to Bloons Tower Defense 4!",
+    "path": "Games/ruffle/btd4expansion.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+
   {
     "title": "Bloons Tower Defense 5",
     "img": "assets/game images/btd5.jpg",
@@ -263,6 +273,8 @@
     "category": "Arcade",
     "iframe": true
   },
+
+
   {
     "title": "Galaga",
     "img": "assets/game images/galaga.jpg",
@@ -1033,6 +1045,24 @@
   },
 
   {
+    "title": "Moto-X3M Winter",
+    "img": "assets/game images/moto x3m winter.jpg",
+    "description": "Winter Version of Moto-X3M",
+    "path": "Games/standalone/moto-x3m-winter/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+
+  {
+    "title": "Moto-X3M Pool Party",
+    "img": "assets/game images/moto x3m pool party.jpg",
+    "description": "Summer Version of Moto-X3M",
+    "path": "Games/standalone/moto-x3m-pool-party/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+
+  {
     "title": "OVO",
     "img": "assets/game images/ovo.png",
     "description": "OvO is a fast-paced platformer where you use precise parkour and free running skills to complete each level.",
@@ -1072,6 +1102,26 @@
     "category": "Arcade",
     "iframe": true
   },
+
+  {
+    "title": "Boxing Random",
+    "img": "assets/game images/boxing random.png",
+    "description": "Boxing Random is a 2-player retro pixel boxing game with ragdoll physics.",
+    "path": "Games/standalone/boxing-random/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+
+  {
+    "title": "Volley Random",
+    "img": "assets/game images/volley random.png",
+    "description": "Volley Random is a 2-player retro pixel volleyball game with ragdoll physics.",
+    "path": "Games/standalone/volley-random/index.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+
+
   {
     "title": "1v1 LOL",
     "img": "assets/game images/1v1lol.jpg",
@@ -1185,6 +1235,17 @@
     "category": "Runner",
     "iframe": true
   },
+
+
+  {
+    "title": "Vex 8",
+    "img": "assets/game images/vex 8.webp",
+    "description": "Vex 8 is the eighth installment in the Vex series!",
+    "path": "Games/standalone/Vex 8.html",
+    "category": "Runner",
+    "iframe": true
+  },
+
 
   {
     "title": "Candy Crush",
@@ -1874,6 +1935,16 @@
     "iframe": true
   },
 
+
+  {
+    "title": "Time Shooter 2",
+    "img": "assets/game images/time shooter 2.png",
+    "description": "The sequel to Time Shooter!",
+    "path": "Games/standalone/Time Shooter 2.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+
   {
     "title": "Burrito Bison Revenge",
     "img": "assets/game images/burritobisonrevenge.jpg",
@@ -2069,6 +2140,15 @@
     "iframe": false
   },
 
+  {
+    "title": "Angry Birds Halloween",
+    "img": "assets/game images/angry birds halloween.jpg",
+    "description": "Get into the spooky spirit with Angry Birds Halloween!",
+    "path": "Games/ruffle/angrybirdshalloween.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+
 
   {
     "title": "Stickman Golf",
@@ -2114,6 +2194,35 @@
     "path": "Games/standalone/triviacrack.html",
     "category": "Arcade",
     "iframe": false 
+  },
+
+
+  {
+    "title": "Drift Hunters",
+    "img": "assets/game images/drift hunters.png",
+    "description": "Drift Hunters is a thrilling car drifting game where you can customize your vehicles and perform impressive drifts on various tracks.",
+    "path": "Games/standalone/drifthunters/index.html",
+    "category": "Racing",
+    "iframe": false
+  },
+
+  {
+    "title": "Drift Boss",
+    "img": "assets/game images/drift boss.png",
+    "description": "Drift Boss is an exciting racing game where you control a car and drift around corners to earn points and unlock new vehicles.",
+    "path": "Games/standalone/drift-boss/index.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+
+
+  {
+    "title": "Cluster Rush",
+    "img": "assets/game images/cluster rush.jpg",
+    "description": "Cluster Rush is an addictive arcade game where you navigate through various obstacles and challenges.",
+    "path": "Games/standalone/clusterrush/index.html",
+    "category": "Arcade",
+    "iframe": false
   },
 
     {

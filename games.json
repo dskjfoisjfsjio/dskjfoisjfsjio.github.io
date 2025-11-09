@@ -686,9 +686,9 @@
     "title": "Baldis Basics",
     "img": "assets/game images/baldi.jpg",
     "description": "Baldi's Basics is a puzzle horror game which satirizes 1990s educational games.",
-    "path": "Games/standalone/baldis-basics/baldi.html",
+    "path": "Games/standalone/Baldi's Basics Port/index.html",
     "category": "Challenging",
-    "iframe": true
+    "iframe": false
   },
   {
     "title": "Diner Dash Hometown Hero",
@@ -1130,6 +1130,17 @@
     "category": "Arcade",
     "iframe": false
   },
+
+  {
+    "title": "Buildnow GG",
+    "img": "assets/game images/buildnowgg.webp",
+    "description": "BuildNow GG is an exciting online multiplayer building and shooting game.",
+    "path": "Games/standalone/BuildNow.gg.html",
+    "category": "Arcade",
+    "iframe": false
+  },
+
+
   {
     "title": "Jetpack Joyride",
     "img": "assets/game images/jetpack.jpg",
@@ -1900,6 +1911,15 @@
   },
 
   {
+    "title": "Granny: Chapter 2",
+    "img": "assets/game images/granny 2.jpg",
+    "description": "The sequel to Granny where its even more difficult than before. You must evade both granny and grandpa and escape the house.",
+    "path": "Games/standalone/Granny 2.html",
+    "category": "Challenging",
+    "iframe": false
+  },
+
+  {
     "title": "QWOP",
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/qwop.webp",
     "description": "QWOP is a classic running game where you control an athlete using the Q, W, O, and P keys to move his legs.",
@@ -2221,6 +2241,15 @@
     "img": "assets/game images/cluster rush.jpg",
     "description": "Cluster Rush is an addictive arcade game where you navigate through various obstacles and challenges.",
     "path": "Games/standalone/clusterrush/index.html",
+    "category": "Arcade",
+    "iframe": false
+  },
+
+  {
+    "title": "Flappy Dunk",
+    "img": "assets/game images/flappy dunk.webp",
+    "description": "Flappy Dunk is a fun and addictive arcade game where you control a basketball and try to score points by passing through hoops.",
+    "path": "Games/standalone/Flappy Dunk.html", 
     "category": "Arcade",
     "iframe": false
   },

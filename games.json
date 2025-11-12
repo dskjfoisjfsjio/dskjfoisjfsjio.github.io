@@ -265,6 +265,18 @@
     "category": "Arcade",
     "iframe": true
   },
+
+
+  {
+    "title": "Pacman Original",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/pacman.webp",
+    "description": "The original pacman game!",
+    "path": "Games/standalone/pacmanoriginal.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+
+
   {
     "title": "Pacman",
     "img": "assets/game images/pacman.png",
@@ -650,6 +662,17 @@
     "category": "Fighting",
     "iframe": true
   },
+
+  {
+    "title": "Super Smash Flash 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/supersmashflash2.png",
+    "description": "Super Smash Flash 2 is the sequel to Super Smash Flash.",
+    "path": "Games/ruffle/supersmashflash2.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+
+
   {
     "title": "Freegear",
     "img": "assets/game images/freegear.jpg",
@@ -1534,7 +1557,7 @@
     "title": "Five Nights At Freddy's 4",
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/fnaf-4/thumb.png",
     "description": "The fourth installment in the Five Nights At Freddy's series!",
-    "path": "Games/standalone/fnaf-4/index.html",
+    "path": "Games/standalone/fnaf4.html",
     "category": "Challenging",
     "iframe": false
   },
@@ -2253,6 +2276,71 @@
     "category": "Arcade",
     "iframe": false
   },
+
+
+  {
+    "title": "Block the Pig",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/block the pig.png",
+    "description": "Block the Pig is a fun and addictive puzzle game where you must block the pig from escaping the pen by placing blocks strategically.",
+    "path": "Games/standalone/blockthepig.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+
+  {
+    "title": "Cell Machine",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/cell machine.jpg",
+    "description": "Arrange cells. Build machines. Destroy enemies.",
+    "path": "Games/standalone/cellmachine.html",
+    "category": "Arcade",
+    "iframe": false 
+  },
+
+  {
+    "title": "CircleO",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/circleo.webp",
+    "description": "CircleO is an addictive arcade game where you control a circle and navigate through various obstacles and challenges.",
+    "path": "Games/standalone/circleo.html",
+    "category": "Arcade",
+    "iframe": false
+  },
+
+  {
+    "title": "Doge Miner",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/doge miner.webp",
+    "description": "Doge Miner is an idle clicker game where you mine for Dogecoin and upgrade your mining equipment to earn more coins.",
+    "path": "Games/standalone/dogeminer.html",
+    "category": "Idle",
+    "iframe": false
+  },
+
+  {
+    "title": "Earn to Die",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/earn to die.jpg",
+    "description": "Earn to Die is an action-packed driving game where you must navigate through a zombie-infested world to reach safety.",
+    "path": "Games/standalone/earntodie.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+
+  {
+    "title": "Grindcraft",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/grindcraft.jpg",
+    "description": "Grindcraft is a fun and addictive crafting game where you gather resources, craft items, and build your own world.",
+    "path": "Games/standalone/grindcraft.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+
+  {
+    "title": "Station 141",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/station 141.png",
+    "description": "A short old-school FPS with fast gameplay and punchy weapons.",
+    "path": "Games/standalone/station141.html",
+    "category": "Arcade",
+    "iframe": false 
+  },
+
 
     {
     "title": "Soundboard",

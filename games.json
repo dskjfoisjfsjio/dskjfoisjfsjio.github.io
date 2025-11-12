@@ -663,14 +663,6 @@
     "iframe": true
   },
 
-  {
-    "title": "Super Smash Flash 2",
-    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/supersmashflash2.png",
-    "description": "Super Smash Flash 2 is the sequel to Super Smash Flash.",
-    "path": "Games/ruffle/SWF/super smash flash 2/supersmashflash2.html",
-    "category": "Fighting",
-    "iframe": true
-  },
 
 
   {
@@ -681,6 +673,7 @@
     "category": "Racing",
     "iframe": true
   },
+
   {
     "title": "Thin Ice",
     "img": "assets/game images/thin ice.jpg",

@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "slender port.data.unityweb",
+"asmCodeUrl": "slender port.asm.code.unityweb",
+"asmMemoryUrl": "slender port.asm.memory.unityweb",
+"asmFrameworkUrl": "slender port.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

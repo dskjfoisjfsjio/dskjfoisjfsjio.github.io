@@ -664,7 +664,6 @@
   },
 
 
-
   {
     "title": "Freegear",
     "img": "assets/game images/freegear.jpg",
@@ -673,7 +672,6 @@
     "category": "Racing",
     "iframe": true
   },
-
   {
     "title": "Thin Ice",
     "img": "assets/game images/thin ice.jpg",
@@ -970,6 +968,16 @@
     "category": "Puzzle",
     "iframe": false
   },
+
+  {
+    "title": "2048 Cupcakes",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/2048%20cupcakes.avif",
+    "description": "Join the cupcakes and reach the cupcake that represents 2048!",
+    "path": "Games/standalone/2048cupcakes.html",
+    "category": "Puzzle",
+    "iframe": false
+  },
+
   {
     "title": "Bad Piggies",
     "img": "assets/game images/bad piggies.jpg",
@@ -2334,8 +2342,77 @@
     "iframe": false 
   },
 
+{
+  "title": "Slender the Eight Pages",
+  "img": "assets/game images/Slender_Logo.jpg",
+  "description": "Slender the Eight Pages is a horror game where you must collect eight pages while avoiding the terrifying Slender Man.",
+  "path": "Games/standalone/slender port/index.html",
+  "category": "Challenging",
+  "iframe": false 
+},
 
-    {
+{
+  "title": "Achievement Unlocked",
+  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/achievement%20unlocked%202.jpg",
+  "description": "Achievement Unlocked is a quirky and addictive platformer game where you earn achievements for completing various tasks and challenges.",
+  "path": "Games/ruffle/achievementunlocked.html",
+  "category": "Arcade",
+  "iframe": true 
+},
+
+
+{
+  "title": "Achievement Unlocked 2",
+  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/achievement%20unlocked%202.jpg",
+  "description": "The sequel to Achievement Unlocked!",
+  "path": "Games/ruffle/achievementunlocked2.html",
+  "category": "Arcade",
+  "iframe": true 
+},
+
+{
+  "title": "Achievement Unlocked 3",
+  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/achievement%20unlocked%203.jpg",
+  "description": "The third installment in the Achievement Unlocked series!",
+  "path": "Games/ruffle/achievementunlocked3.html",
+  "category": "Arcade",
+  "iframe": true 
+},
+
+
+{
+  "title": "Age of Defense",
+  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/age%20of%20defense.jpg",
+  "description": "Age of Defense is a tower defense game where you must defend your base from waves of enemies.",
+  "path": "Games/ruffle/ageofdefense.html",
+  "category": "Strategy",
+  "iframe": true  
+},
+
+
+{
+  "title" : "Dragon vs Blocks",
+  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/dragonvsicybricks.jpg",
+  "description": "Dragon vs Blocks is an exciting arcade game where you control a dragon and break through blocks to score points and unlock new dragons.",
+  "path": "Games/standalone/dragonvsbricks.html",
+  "category": "Arcade",
+  "iframe": false
+},
+
+
+{
+  "title": "Bob the Robber",
+  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/bob%20the%20robber.jpg",
+  "description": "Bob the Robber is a fun and addictive stealth game where you play as a thief trying to steal valuable items without getting caught.",
+  "path": "Games/ruffle/bobtherobber.html",
+  "category": "Arcade",
+  "iframe": true  
+},
+
+
+  
+
+{
     "title": "Soundboard",
     "img": "assets/game images/soundboard.png",
     "description": "A soundboard with various sound effects and music clips.",

@@ -593,6 +593,16 @@
     "category": "Cooking",
     "iframe": true
   },
+
+  {
+  "title": "Papa Louie: When Pizza Attacks!",
+  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/papa%20louie.jpeg",
+  "description": "Papa Louie: When Pizza Attacks! is a fun and addictive platformer game where you play as Papa Louie and rescue your customers from evil pizzas.",
+  "path": "Games/ruffle/whenpizzaattacks.html",
+  "category": "Adventure",
+  "iframe": true
+},
+
   {
     "title": "Sonic Flash",
     "img": "assets/game images/sonic.jpg",
@@ -2409,8 +2419,69 @@
   "iframe": true  
 },
 
+{
+  "title": "Bad Ice Cream",
+  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/bad ice cream.jpg",
+  "description": "Bad Ice Cream is a fun and addictive arcade game where you control an ice cream character and navigate through various levels while avoiding enemies and collecting fruit.",
+  "path": "Games/standalone/badicecream.html",
+  "category": "Arcade",
+  "iframe": true 
+},
 
-  
+{
+  "title": "Bad Ice Cream 2",
+  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/bad ice cream 2.png",
+  "description": "The sequel to Bad Ice Cream!",
+  "path": "Games/standalone/badicecream2.html",
+  "category": "Arcade",
+  "iframe": true
+},
+
+{
+    "title": "Bad Ice Cream 3",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/bad ice cream 3.png",
+    "description": "The third installment in the Bad Ice Cream series!",
+    "path": "Games/standalone/badicecream3.html",
+    "category": "Arcade",
+    "iframe": true
+},
+
+{
+  "title": "60 Second Burger Run",
+  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/60 second burger run.jpg",
+  "description": "60 Second Burger Run is a fast-paced arcade game where you must prepare and serve burgers to customers within a time limit.",
+  "path": "Games/ruffle/burgerrun.html",
+  "category": "Arcade",
+  "iframe": false
+},
+
+{
+  "title": "Gravitee",
+  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/gravitee.webp",
+  "description": "Gravitee is an arcade game where you control a spaceship and navigate through various obstacles and challenges in space.",
+  "path": "Games/ruffle/gravitee.html",
+  "category": "Arcade", 
+  "iframe": false
+},
+
+{
+  "title": "Gravitee 2",
+  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/gravitee 2.jpg",
+  "description": "The sequel to Gravitee!",
+  "path": "Games/ruffle/gravitee2.html",
+  "category": "Arcade",
+  "iframe": false 
+},
+
+{
+  "title": "Push your Luck",
+  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/push your luck.png",
+  "description": "Spin the wheel and hope for the best! Try to win the competition.",
+  "path": "Games/standalone/push-your-luck/index.html",
+  "category": "Arcade",
+  "iframe": false 
+},
+
 
 {
     "title": "Soundboard",

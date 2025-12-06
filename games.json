@@ -193,6 +193,27 @@
     "category": "Arcade",
     "iframe": true
   },
+
+  {
+    "title": "Duck Life Space",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/duck%20life%20space.jpg",
+    "description": "Train your duck in space!",
+    "path": "Games/standalone/ducklifespace.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+
+
+  {
+    "title": "Duck Life Battle",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/duck%20life%20battle.webp",
+    "description": "The latest game in the Duck Life series!",
+    "path": "Games/standalone/ducklifebattle.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+
+
   {
     "title": "Color Tunnel",
     "img": "assets/game images/colortunnel.jpg",
@@ -942,7 +963,7 @@
     "title": "Happy Wheels",
     "img": "assets/game images/happy wheelsa.jpg",
     "description": "Happy Wheels is a side-scrolling ragdoll physics-based platform browser game developed and published by Fancy Force.",
-    "path": "Games/ruffle/happywheels.html",
+    "path": "Games/standalone/happywheels.html",
     "category": "Arcade",
     "iframe": true
   },
@@ -970,6 +991,18 @@
     "category": "Puzzle",
     "iframe": false
   },
+
+
+  {
+    "title": "Om Nom Bounce",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/om%20nom%20bounce.jpg",
+    "description": "Help Om Nom bounce through the levels to collect candy!",
+    "path": "Games/standalone/omnombounce.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+
+
   {
     "title": "2048",
     "img": "assets/game images/2048.png",
@@ -2461,7 +2494,7 @@
   "description": "Gravitee is an arcade game where you control a spaceship and navigate through various obstacles and challenges in space.",
   "path": "Games/ruffle/gravitee.html",
   "category": "Arcade", 
-  "iframe": false
+  "iframe": true
 },
 
 {
@@ -2470,7 +2503,7 @@
   "description": "The sequel to Gravitee!",
   "path": "Games/ruffle/gravitee2.html",
   "category": "Arcade",
-  "iframe": false 
+  "iframe": true
 },
 
 {
@@ -2482,6 +2515,41 @@
   "iframe": false 
 },
 
+{
+  "title": "Cyber Cars Punk Racing",
+  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/cybercarspunkracing.jpg",
+  "description": "Cyber Cars Punk Racing is a futuristic racing game where you can customize your vehicles and compete in high-speed races through neon-lit cityscapes.",
+  "path": "Games/standalone/cyberpunkracing.html",
+  "category": "Racing",
+  "iframe": false
+},
+
+{
+  "title": "Cars Simulator",
+  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/3dcarsimulator.avif",
+  "description": "Cars Simulator is an open-world driving game where you can explore and customize your vehicles",
+  "path": "Games/standalone/carssimulator.html",
+  "category": "Racing",
+  "iframe": false
+},
+
+{
+  "title": "Wordle",
+  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/wordle.webp",
+  "description": "A word guessing game where you have six attempts to guess a five-letter word.",
+  "path": "Games/standalone/wordle.html",
+  "category": "Puzzle",
+  "iframe": true 
+},
+
+{
+  "title": "Tube Jumpers",
+  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/tube jumpers.png",
+  "description": "Tube Jumpers is an two player arcade game where you control a character jumping through tubes while avoiding obstacles and collecting points.",
+  "path": "Games/standalone/tubejumpers.html",
+  "category": "Arcade",
+  "iframe": false
+},
 
 {
     "title": "Soundboard",
